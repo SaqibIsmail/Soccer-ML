@@ -2,13 +2,38 @@ import fs from "node:fs";
 import { parse } from "csv-parse";
 import { headers, type MatchRow, type RawMatchRow } from "../types/match.js";
 
+const normalizeTournamentName = (tournament: string): string => {
+  const normalizedTournamentMap: Record<string, string> = {
+    "Copa América": "Copa America",
+    "Copa América qualifier": "Copa America qualifier",
+    "European Nations League": "UEFA Nations League",
+    "European Nations League A": "UEFA Nations League",
+    "European Nations League B": "UEFA Nations League",
+    "European Nations League C": "UEFA Nations League",
+    "European Nations League D": "UEFA Nations League",
+    "European Nations League A/B": "UEFA Nations League",
+    "European Nations League B/C": "UEFA Nations League",
+    "CONCACAF Nations League": "CONCACAF Nations League",
+    "CONCACAF Nations League A": "CONCACAF Nations League",
+    "CONCACAF Nations League B": "CONCACAF Nations League",
+    "CONCACAF Nations League C": "CONCACAF Nations League",
+    "CONCACAF Nations League q": "CONCACAF Nations League qualifier",
+    "Asian Cup & Asian Chlg Cup q": "Asian Cup qualification",
+    "Asian Cup q & Asian Chlg Cup": "Asian Cup qualification",
+    "Asian Cup qualifier": "Asian Cup qualification",
+    "Oceania Nations Cup qualifier": "Oceania Nations Cup qualification",
+  };
+
+  return normalizedTournamentMap[tournament] ?? tournament;
+};
+
 const normalizeRow = (row: RawMatchRow): MatchRow => ({
   date: new Date(row.date),
   homeTeam: row.home_team,
   awayTeam: row.away_team,
   homeScore: Number(row.home_score),
   awayScore: Number(row.away_score),
-  tournament: row.tournament,
+  tournament: normalizeTournamentName(row.tournament),
   country: row.country,
   neutral: row.neutral === "true",
 });

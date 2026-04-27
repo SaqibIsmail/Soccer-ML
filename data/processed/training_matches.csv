@@ -80,18 +80,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-02-18,Palestine,Pakistan,3,0,Friendly,Bahrain,false
 2006-02-19,New Zealand,Malaysia,1,0,Friendly,New Zealand,false
 2006-02-19,United States,Guatemala,4,0,Friendly,United States,false
-2006-02-22,Japan,India,6,0,Asian Cup qualifier,Japan,false
-2006-02-22,Bahrain,Australia,1,3,Asian Cup qualifier,Bahrain,false
-2006-02-22,China,Palestine,2,0,Asian Cup qualifier,China,false
-2006-02-22,Lebanon,Kuwait,1,1,Asian Cup qualifier,Lebanon,false
-2006-02-22,Iran,Taiwan,4,0,Asian Cup qualifier,Iran,false
-2006-02-22,Syria,South Korea,1,2,Asian Cup qualifier,Syria,false
-2006-02-22,Jordan,Pakistan,3,0,Asian Cup qualifier,Jordan,false
-2006-02-22,Hong Kong,Qatar,0,3,Asian Cup qualifier,Hong Kong,false
-2006-02-22,Singapore,Iraq,2,0,Asian Cup qualifier,Singapore,false
-2006-02-22,Yemen,Saudi Arabia,0,4,Asian Cup qualifier,Yemen,false
-2006-02-22,United Arab Emirates,Oman,1,0,Asian Cup qualifier,United Arab Emirates,false
-2006-02-22,Uzbekistan,Bangladesh,5,0,Asian Cup qualifier,Uzbekistan,false
+2006-02-22,Japan,India,6,0,Asian Cup qualification,Japan,false
+2006-02-22,Bahrain,Australia,1,3,Asian Cup qualification,Bahrain,false
+2006-02-22,China,Palestine,2,0,Asian Cup qualification,China,false
+2006-02-22,Lebanon,Kuwait,1,1,Asian Cup qualification,Lebanon,false
+2006-02-22,Iran,Taiwan,4,0,Asian Cup qualification,Iran,false
+2006-02-22,Syria,South Korea,1,2,Asian Cup qualification,Syria,false
+2006-02-22,Jordan,Pakistan,3,0,Asian Cup qualification,Jordan,false
+2006-02-22,Hong Kong,Qatar,0,3,Asian Cup qualification,Hong Kong,false
+2006-02-22,Singapore,Iraq,2,0,Asian Cup qualification,Singapore,false
+2006-02-22,Yemen,Saudi Arabia,0,4,Asian Cup qualification,Yemen,false
+2006-02-22,United Arab Emirates,Oman,1,0,Asian Cup qualification,United Arab Emirates,false
+2006-02-22,Uzbekistan,Bangladesh,5,0,Asian Cup qualification,Uzbekistan,false
 2006-02-23,New Zealand,Malaysia,2,1,Friendly,New Zealand,false
 2006-02-24,Kazakhstan,North Korea,0,0,Friendly,Cyprus,false
 2006-02-24,Guyana,Antigua and Barbuda,2,1,Friendly,Guyana,false
@@ -106,18 +106,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-02-28,Greece,Belarus,1,0,Friendly tournament,Cyprus,false
 2006-02-28,Azerbaijan,Ukraine,0,0,Friendly,Azerbaijan,false
 2006-02-28,Cyprus,Slovenia,0,1,Friendly tournament,Cyprus,false
-2006-03-01,Iraq,China,2,1,Asian Cup qualifier,United Arab Emirates,false
-2006-03-01,India,Yemen,0,3,Asian Cup qualifier,India,false
+2006-03-01,Iraq,China,2,1,Asian Cup qualification,United Arab Emirates,false
+2006-03-01,India,Yemen,0,3,Asian Cup qualification,India,false
 2006-03-01,Iran,Costa Rica,3,2,Friendly,Iran,false
 2006-03-01,South Korea,Angola,1,0,Friendly,South Korea,false
-2006-03-01,Taiwan,Syria,0,4,Asian Cup qualifier,Taiwan,false
-2006-03-01,Pakistan,United Arab Emirates,1,4,Asian Cup qualifier,Pakistan,false
-2006-03-01,Bangladesh,Hong Kong,0,1,Asian Cup qualifier,Bangladesh,false
-2006-03-01,Palestine,Singapore,1,0,Asian Cup qualifier,Jordan,false
-2006-03-01,Kuwait,Bahrain,0,0,Asian Cup qualifier,Kuwait,false
-2006-03-01,Oman,Jordan,3,0,Asian Cup qualifier,Oman,false
+2006-03-01,Taiwan,Syria,0,4,Asian Cup qualification,Taiwan,false
+2006-03-01,Pakistan,United Arab Emirates,1,4,Asian Cup qualification,Pakistan,false
+2006-03-01,Bangladesh,Hong Kong,0,1,Asian Cup qualification,Bangladesh,false
+2006-03-01,Palestine,Singapore,1,0,Asian Cup qualification,Jordan,false
+2006-03-01,Kuwait,Bahrain,0,0,Asian Cup qualification,Kuwait,false
+2006-03-01,Oman,Jordan,3,0,Asian Cup qualification,Oman,false
 2006-03-01,Portugal,Saudi Arabia,3,0,Friendly,Germany,false
-2006-03-01,Qatar,Uzbekistan,2,1,Asian Cup qualifier,Qatar,false
+2006-03-01,Qatar,Uzbekistan,2,1,Asian Cup qualification,Qatar,false
 2006-03-01,Mexico,Ghana,1,0,Friendly,United States,false
 2006-03-01,Tunisia,Serbia and Montenegro,0,1,Friendly,Tunisia,false
 2006-03-01,Spain,Ivory Coast,3,2,Friendly,Spain,false
@@ -417,16 +417,16 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-08-15,Ukraine,Azerbaijan,6,0,Friendly,Ukraine,false
 2006-08-15,Slovenia,Israel,1,1,Friendly,Slovenia,false
 2006-08-15,Slovakia,Malta,3,0,Friendly,Slovakia,false
-2006-08-16,Japan,Yemen,2,0,Asian Cup qualifier,Japan,false
-2006-08-16,Australia,Kuwait,2,0,Asian Cup qualifier,Australia,false
-2006-08-16,China,Singapore,1,0,Asian Cup qualifier,China,false
-2006-08-16,India,Saudi Arabia,0,3,Asian Cup qualifier,India,false
-2006-08-16,Iran,Syria,1,1,Asian Cup qualifier,Iran,false
-2006-08-16,Taiwan,South Korea,0,3,Asian Cup qualifier,Taiwan,false
-2006-08-16,Pakistan,Oman,1,4,Asian Cup qualifier,Pakistan,false
-2006-08-16,Uzbekistan,Hong Kong,2,2,Asian Cup qualifier,Uzbekistan,false
-2006-08-16,Jordan,United Arab Emirates,1,2,Asian Cup qualifier,Jordan,false
-2006-08-16,Bangladesh,Qatar,1,4,Asian Cup qualifier,Bangladesh,false
+2006-08-16,Japan,Yemen,2,0,Asian Cup qualification,Japan,false
+2006-08-16,Australia,Kuwait,2,0,Asian Cup qualification,Australia,false
+2006-08-16,China,Singapore,1,0,Asian Cup qualification,China,false
+2006-08-16,India,Saudi Arabia,0,3,Asian Cup qualification,India,false
+2006-08-16,Iran,Syria,1,1,Asian Cup qualification,Iran,false
+2006-08-16,Taiwan,South Korea,0,3,Asian Cup qualification,Taiwan,false
+2006-08-16,Pakistan,Oman,1,4,Asian Cup qualification,Pakistan,false
+2006-08-16,Uzbekistan,Hong Kong,2,2,Asian Cup qualification,Uzbekistan,false
+2006-08-16,Jordan,United Arab Emirates,1,2,Asian Cup qualification,Jordan,false
+2006-08-16,Bangladesh,Qatar,1,4,Asian Cup qualification,Bangladesh,false
 2006-08-16,Egypt,Uruguay,0,2,Friendly,Egypt,false
 2006-08-16,Namibia,South Africa,0,1,Friendly,Namibia,false
 2006-08-16,Libya,Uganda,3,2,Friendly,Libya,false
@@ -458,7 +458,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-08-16,San Marino,Albania,0,3,Friendly,San Marino,false
 2006-08-16,Czechia,Serbia,1,3,Friendly,Czechia,false
 2006-08-16,Faroe Islands,Georgia,0,6,European Championship qual,Faroe Islands,false
-2006-08-17,Iraq,Palestine,3,0,Asian Cup qualifier,Jordan,false
+2006-08-17,Iraq,Palestine,3,0,Asian Cup qualification,Jordan,false
 2006-08-19,Zambia,Botswana,1,0,COSAFA Cup,Zambia,false
 2006-08-23,Malaysia,Indonesia,1,1,Independence Tournament,Malaysia,false
 2006-08-25,Indonesia,Myanmar,0,0,Independence Tournament,Malaysia,false
@@ -474,7 +474,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-08-29,Togo,Niger,1,1,Friendly,Togo,false
 2006-09-01,Oman,Syria,3,0,Friendly,Oman,false
 2006-09-01,Denmark,Portugal,4,2,Friendly,Denmark,false
-2006-09-02,South Korea,Iran,1,1,Asian Cup qualifier,South Korea,false
+2006-09-02,South Korea,Iran,1,1,Asian Cup qualification,South Korea,false
 2006-09-02,Thailand,Uzbekistan,0,1,Friendly,Thailand,false
 2006-09-02,Bahrain,Jordan,0,2,Friendly,Bahrain,false
 2006-09-02,Egypt,Burundi,4,1,African Nations Cup qualifier,Egypt,false
@@ -511,7 +511,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-09-02,Slovakia,Cyprus,6,1,European Championship qual,Slovakia,false
 2006-09-02,Serbia,Azerbaijan,1,0,European Championship qual,Serbia,false
 2006-09-02,Malta,Bosnia and Herzegovina,2,5,European Championship qual,Malta,false
-2006-09-03,Saudi Arabia,Japan,1,0,Asian Cup qualifier,Saudi Arabia,false
+2006-09-03,Saudi Arabia,Japan,1,0,Asian Cup qualification,Saudi Arabia,false
 2006-09-03,Chad,Zambia,0,2,African Nations Cup qualifier,Chad,false
 2006-09-03,Mauritius,Tunisia,0,0,African Nations Cup qualifier,Mauritius,false
 2006-09-03,Ethiopia,Libya,1,0,African Nations Cup qualifier,Ethiopia,false
@@ -530,17 +530,17 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-09-04,Cuba,Bahamas,6,0,CONCACAF Ch & Car Cup q,Cuba,false
 2006-09-04,Turks and Caicos Islands,Cayman Islands,2,0,CONCACAF Ch & Car Cup q,Cuba,false
 2006-09-05,Brazil,Wales,2,0,Friendly,England,false
-2006-09-06,Yemen,Japan,0,1,Asian Cup qualifier,Yemen,false
-2006-09-06,Kuwait,Australia,2,0,Asian Cup qualifier,Kuwait,false
-2006-09-06,Singapore,China,0,0,Asian Cup qualifier,Singapore,false
-2006-09-06,Saudi Arabia,India,7,1,Asian Cup qualifier,Saudi Arabia,false
-2006-09-06,Syria,Iran,0,2,Asian Cup qualifier,Syria,false
-2006-09-06,South Korea,Taiwan,8,0,Asian Cup qualifier,South Korea,false
-2006-09-06,Oman,Pakistan,5,0,Asian Cup qualifier,Oman,false
-2006-09-06,Hong Kong,Uzbekistan,0,0,Asian Cup qualifier,Hong Kong,false
-2006-09-06,Iraq,Palestine,2,2,Asian Cup qualifier,United Arab Emirates,false
-2006-09-06,United Arab Emirates,Jordan,0,0,Asian Cup qualifier,United Arab Emirates,false
-2006-09-06,Qatar,Bangladesh,3,0,Asian Cup qualifier,Qatar,false
+2006-09-06,Yemen,Japan,0,1,Asian Cup qualification,Yemen,false
+2006-09-06,Kuwait,Australia,2,0,Asian Cup qualification,Kuwait,false
+2006-09-06,Singapore,China,0,0,Asian Cup qualification,Singapore,false
+2006-09-06,Saudi Arabia,India,7,1,Asian Cup qualification,Saudi Arabia,false
+2006-09-06,Syria,Iran,0,2,Asian Cup qualification,Syria,false
+2006-09-06,South Korea,Taiwan,8,0,Asian Cup qualification,South Korea,false
+2006-09-06,Oman,Pakistan,5,0,Asian Cup qualification,Oman,false
+2006-09-06,Hong Kong,Uzbekistan,0,0,Asian Cup qualification,Hong Kong,false
+2006-09-06,Iraq,Palestine,2,2,Asian Cup qualification,United Arab Emirates,false
+2006-09-06,United Arab Emirates,Jordan,0,0,Asian Cup qualification,United Arab Emirates,false
+2006-09-06,Qatar,Bangladesh,3,0,Asian Cup qualification,Qatar,false
 2006-09-06,Switzerland,Costa Rica,2,0,Friendly tournament,Switzerland,false
 2006-09-06,Honduras,El Salvador,2,0,Friendly,Honduras,false
 2006-09-06,Guatemala,Panama,1,2,Friendly,Guatemala,false
@@ -665,18 +665,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-10-08,Jamaica,Canada,2,1,Friendly,Jamaica,false
 2006-10-10,Honduras,Guatemala,2,1,Friendly,United States,false
 2006-10-10,Brazil,Ecuador,2,1,Friendly,Sweden,false
-2006-10-11,India,Japan,0,3,Asian Cup qualifier,India,false
-2006-10-11,Australia,Bahrain,2,0,Asian Cup qualifier,Australia,false
-2006-10-11,China,Palestine,2,0,Asian Cup qualifier,Jordan,false
-2006-10-11,Taiwan,Iran,0,2,Asian Cup qualifier,Taiwan,false
-2006-10-11,South Korea,Syria,1,1,Asian Cup qualifier,South Korea,false
-2006-10-11,Pakistan,Jordan,0,3,Asian Cup qualifier,Pakistan,false
-2006-10-11,Qatar,Hong Kong,2,0,Asian Cup qualifier,Qatar,false
-2006-10-11,Iraq,Singapore,4,2,Asian Cup qualifier,United Arab Emirates,false
+2006-10-11,India,Japan,0,3,Asian Cup qualification,India,false
+2006-10-11,Australia,Bahrain,2,0,Asian Cup qualification,Australia,false
+2006-10-11,China,Palestine,2,0,Asian Cup qualification,Jordan,false
+2006-10-11,Taiwan,Iran,0,2,Asian Cup qualification,Taiwan,false
+2006-10-11,South Korea,Syria,1,1,Asian Cup qualification,South Korea,false
+2006-10-11,Pakistan,Jordan,0,3,Asian Cup qualification,Pakistan,false
+2006-10-11,Qatar,Hong Kong,2,0,Asian Cup qualification,Qatar,false
+2006-10-11,Iraq,Singapore,4,2,Asian Cup qualification,United Arab Emirates,false
 2006-10-11,Kuwait,Lithuania,1,0,Friendly,Kuwait,false
-2006-10-11,Saudi Arabia,Yemen,5,0,Asian Cup qualifier,Saudi Arabia,false
-2006-10-11,Oman,United Arab Emirates,2,1,Asian Cup qualifier,Oman,false
-2006-10-11,Bangladesh,Uzbekistan,0,4,Asian Cup qualifier,Bangladesh,false
+2006-10-11,Saudi Arabia,Yemen,5,0,Asian Cup qualification,Saudi Arabia,false
+2006-10-11,Oman,United Arab Emirates,2,1,Asian Cup qualification,Oman,false
+2006-10-11,Bangladesh,Uzbekistan,0,4,Asian Cup qualification,Bangladesh,false
 2006-10-11,Trinidad and Tobago,Panama,2,1,Friendly,Trinidad and Tobago,false
 2006-10-11,Spain,Argentina,2,1,Friendly,Spain,false
 2006-10-11,Peru,Chile,0,1,Pacific Cup,Peru,false
@@ -729,16 +729,16 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2006-11-14,Cambodia,Laos,2,2,Southeast Asian Champ qual,Philippines,false
 2006-11-14,Mali,Congo,1,0,Friendly,France,false
 2006-11-14,Wales,Liechtenstein,4,0,Friendly,Wales,false
-2006-11-15,Japan,Saudi Arabia,3,1,Asian Cup qualifier,Japan,false
-2006-11-15,China,Iraq,1,1,Asian Cup qualifier,China,false
-2006-11-15,Yemen,India,2,1,Asian Cup qualifier,Yemen,false
-2006-11-15,Iran,South Korea,2,0,Asian Cup qualifier,Iran,false
-2006-11-15,Syria,Taiwan,3,0,Asian Cup qualifier,Syria,false
-2006-11-15,United Arab Emirates,Pakistan,3,2,Asian Cup qualifier,United Arab Emirates,false
-2006-11-15,Hong Kong,Bangladesh,2,0,Asian Cup qualifier,Hong Kong,false
-2006-11-15,Bahrain,Kuwait,2,1,Asian Cup qualifier,Bahrain,false
-2006-11-15,Jordan,Oman,3,0,Asian Cup qualifier,Jordan,false
-2006-11-15,Uzbekistan,Qatar,2,0,Asian Cup qualifier,Uzbekistan,false
+2006-11-15,Japan,Saudi Arabia,3,1,Asian Cup qualification,Japan,false
+2006-11-15,China,Iraq,1,1,Asian Cup qualification,China,false
+2006-11-15,Yemen,India,2,1,Asian Cup qualification,Yemen,false
+2006-11-15,Iran,South Korea,2,0,Asian Cup qualification,Iran,false
+2006-11-15,Syria,Taiwan,3,0,Asian Cup qualification,Syria,false
+2006-11-15,United Arab Emirates,Pakistan,3,2,Asian Cup qualification,United Arab Emirates,false
+2006-11-15,Hong Kong,Bangladesh,2,0,Asian Cup qualification,Hong Kong,false
+2006-11-15,Bahrain,Kuwait,2,1,Asian Cup qualification,Bahrain,false
+2006-11-15,Jordan,Oman,3,0,Asian Cup qualification,Jordan,false
+2006-11-15,Uzbekistan,Qatar,2,0,Asian Cup qualification,Uzbekistan,false
 2006-11-15,Egypt,South Africa,1,0,Friendly tournament,England,false
 2006-11-15,Zimbabwe,Namibia,3,2,Friendly,Zimbabwe,false
 2006-11-15,Luxembourg,Togo,0,0,Friendly,Luxembourg,false
@@ -2052,17 +2052,17 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-03-27,Nepal,Pakistan,0,2,Friendly,Nepal,false
 2008-03-30,Cayman Islands,Bermuda,1,3,World Cup qualifier,Cayman Islands,false
 2008-03-30,Bahamas,British Virgin Islands,2,2,World Cup qualifier,Bahamas,false
-2008-04-02,Taiwan,Pakistan,1,2,Asian Cup & Asian Chlg Cup q,Taiwan,false
-2008-04-02,Sri Lanka,Guam,5,1,Asian Cup & Asian Chlg Cup q,Taiwan,false
-2008-04-04,Taiwan,Guam,4,1,Asian Cup & Asian Chlg Cup q,Taiwan,false
-2008-04-04,Sri Lanka,Pakistan,7,1,Asian Cup & Asian Chlg Cup q,Taiwan,false
+2008-04-02,Taiwan,Pakistan,1,2,Asian Cup qualification,Taiwan,false
+2008-04-02,Sri Lanka,Guam,5,1,Asian Cup qualification,Taiwan,false
+2008-04-04,Taiwan,Guam,4,1,Asian Cup qualification,Taiwan,false
+2008-04-04,Sri Lanka,Pakistan,7,1,Asian Cup qualification,Taiwan,false
 2008-04-04,Yemen,Tanzania,2,1,Friendly,Yemen,false
-2008-04-06,Taiwan,Sri Lanka,2,2,Asian Cup & Asian Chlg Cup q,Taiwan,false
-2008-04-06,Pakistan,Guam,9,2,Asian Cup & Asian Chlg Cup q,Taiwan,false
-2008-04-09,Lebanon,Maldives,4,0,Asian Cup qualifier,Lebanon,false
+2008-04-06,Taiwan,Sri Lanka,2,2,Asian Cup qualification,Taiwan,false
+2008-04-06,Pakistan,Guam,9,2,Asian Cup qualification,Taiwan,false
+2008-04-09,Lebanon,Maldives,4,0,Asian Cup qualification,Lebanon,false
 2008-04-16,Mexico,China,1,0,Friendly,United States,false
 2008-04-23,China,El Salvador,2,2,Friendly,United States,false
-2008-04-23,Maldives,Lebanon,1,2,Asian Cup qualifier,Maldives,false
+2008-04-23,Maldives,Lebanon,1,2,Asian Cup qualification,Maldives,false
 2008-04-23,Guatemala,Haiti,1,0,Friendly,Guatemala,false
 2008-04-24,Oman,Liberia,1,0,Friendly,Oman,false
 2008-04-25,Indonesia,Yemen,1,0,Friendly,Indonesia,false
@@ -2072,18 +2072,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-04-30,Liberia,Sierra Leone,3,1,Friendly,Liberia,false
 2008-04-30,Colombia,Venezuela,5,2,Friendly,Colombia,false
 2008-05-03,Oman,Yemen,0,0,Friendly,Oman,false
-2008-05-05,Afghanistan,Bangladesh,0,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
-2008-05-07,Kyrgyzstan,Afghanistan,0,1,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
-2008-05-09,Kyrgyzstan,Bangladesh,2,1,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
+2008-05-05,Afghanistan,Bangladesh,0,0,Asian Cup qualification,Kyrgyzstan,false
+2008-05-07,Kyrgyzstan,Afghanistan,0,1,Asian Cup qualification,Kyrgyzstan,false
+2008-05-09,Kyrgyzstan,Bangladesh,2,1,Asian Cup qualification,Kyrgyzstan,false
 2008-05-10,Syria,Oman,2,1,Friendly,Syria,false
 2008-05-11,Trinidad and Tobago,Barbados,3,0,Friendly,Trinidad and Tobago,false
-2008-05-13,Philippines,Brunei,1,0,Asian Cup & Asian Chlg Cup q,Philippines,false
-2008-05-13,Tajikistan,Bhutan,3,1,Asian Cup & Asian Chlg Cup q,Philippines,false
-2008-05-15,Philippines,Tajikistan,0,0,Asian Cup & Asian Chlg Cup q,Philippines,false
-2008-05-15,Bhutan,Brunei,1,1,Asian Cup & Asian Chlg Cup q,Philippines,false
-2008-05-17,Philippines,Bhutan,3,0,Asian Cup & Asian Chlg Cup q,Philippines,false
+2008-05-13,Philippines,Brunei,1,0,Asian Cup qualification,Philippines,false
+2008-05-13,Tajikistan,Bhutan,3,1,Asian Cup qualification,Philippines,false
+2008-05-15,Philippines,Tajikistan,0,0,Asian Cup qualification,Philippines,false
+2008-05-15,Bhutan,Brunei,1,1,Asian Cup qualification,Philippines,false
+2008-05-17,Philippines,Bhutan,3,0,Asian Cup qualification,Philippines,false
 2008-05-17,Syria,Iraq,2,1,Friendly,Syria,false
-2008-05-17,Tajikistan,Brunei,4,0,Asian Cup & Asian Chlg Cup q,Philippines,false
+2008-05-17,Tajikistan,Brunei,4,0,Asian Cup qualification,Philippines,false
 2008-05-18,Oman,Turkmenistan,2,1,Friendly,Oman,false
 2008-05-18,Antigua and Barbuda,Saint Lucia,6,1,Friendly,Antigua and Barbuda,false
 2008-05-19,Greece,Cyprus,2,0,Friendly,Greece,false
@@ -2102,7 +2102,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-05-23,Russia,Kazakhstan,6,0,Friendly,Russia,false
 2008-05-24,Japan,Ivory Coast,1,0,Friendly tournament,Japan,false
 2008-05-24,India,Taiwan,3,0,Friendly,India,false
-2008-05-24,Nepal,Macao,3,2,Asian Cup & Asian Chlg Cup q,Cambodia,false
+2008-05-24,Nepal,Macao,3,2,Asian Cup qualification,Cambodia,false
 2008-05-24,Saudi Arabia,Syria,1,0,Friendly,Saudi Arabia,false
 2008-05-24,Cape Verde,Burkina Faso,1,0,Friendly,Portugal,false
 2008-05-24,Hungary,Greece,3,2,Friendly,Hungary,false
@@ -2115,7 +2115,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-05-25,Thailand,Iraq,2,1,Friendly,Thailand,false
 2008-05-25,Tanzania,Malawi,1,1,Friendly,Tanzania,false
 2008-05-25,Uruguay,Turkey,3,2,Friendly,Germany,false
-2008-05-26,Cambodia,Nepal,0,1,Asian Cup & Asian Chlg Cup q,Cambodia,false
+2008-05-26,Cambodia,Nepal,0,1,Asian Cup qualification,Cambodia,false
 2008-05-26,Sweden,Slovenia,1,0,Friendly,Sweden,false
 2008-05-26,Macedonia,Poland,1,1,Friendly,Germany,false
 2008-05-27,Japan,Paraguay,0,0,Friendly tournament,Japan,false
@@ -2131,7 +2131,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-05-27,Poland,Albania,1,0,Friendly,Germany,false
 2008-05-27,Czechia,Lithuania,2,0,Friendly,Czechia,false
 2008-05-27,Montenegro,Kazakhstan,3,0,Friendly,Montenegro,false
-2008-05-28,Cambodia,Macao,3,1,Asian Cup & Asian Chlg Cup q,Cambodia,false
+2008-05-28,Cambodia,Macao,3,1,Asian Cup qualification,Cambodia,false
 2008-05-28,Singapore,Bahrain,0,1,Friendly,Singapore,false
 2008-05-28,England,United States,2,0,Friendly,England,false
 2008-05-28,Norway,Uruguay,2,2,Friendly,Norway,false
@@ -2430,29 +2430,29 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-07-27,Mozambique,Botswana,2,0,COSAFA Cup,South Africa,false
 2008-07-27,Netherlands Antilles,Aruba,0,0,CONCACAF Ch & Car Ch q,Netherlands Antilles,false
 2008-07-29,Grenada,Aruba,3,1,CONCACAF Ch & Car Ch q,Netherlands Antilles,false
-2008-07-30,India,Afghanistan,1,0,Asian Cup q & Asian Chlg Cup,India,false
-2008-07-30,Tajikistan,Turkmenistan,0,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-07-30,India,Afghanistan,1,0,Asian Cup qualification,India,false
+2008-07-30,Tajikistan,Turkmenistan,0,0,Asian Cup qualification,India,false
 2008-07-30,South Africa,Zambia,1,0,COSAFA Cup,South Africa,false
 2008-07-30,Mozambique,Madagascar,2,1,COSAFA Cup,South Africa,false
 2008-07-30,Trinidad and Tobago,Haiti,2,0,Friendly,Trinidad and Tobago,false
-2008-07-31,Myanmar,Nepal,3,0,Asian Cup q & Asian Chlg Cup,India,false
-2008-07-31,North Korea,Sri Lanka,3,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-07-31,Myanmar,Nepal,3,0,Asian Cup qualification,India,false
+2008-07-31,North Korea,Sri Lanka,3,0,Asian Cup qualification,India,false
 2008-07-31,Netherlands Antilles,Grenada,2,0,CONCACAF Ch & Car Ch q,Netherlands Antilles,false
-2008-08-01,India,Tajikistan,1,1,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-01,Turkmenistan,Afghanistan,5,0,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-02,Myanmar,Sri Lanka,3,1,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-02,North Korea,Nepal,1,0,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-03,India,Turkmenistan,2,1,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-03,Tajikistan,Afghanistan,4,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-01,India,Tajikistan,1,1,Asian Cup qualification,India,false
+2008-08-01,Turkmenistan,Afghanistan,5,0,Asian Cup qualification,India,false
+2008-08-02,Myanmar,Sri Lanka,3,1,Asian Cup qualification,India,false
+2008-08-02,North Korea,Nepal,1,0,Asian Cup qualification,India,false
+2008-08-03,India,Turkmenistan,2,1,Asian Cup qualification,India,false
+2008-08-03,Tajikistan,Afghanistan,4,0,Asian Cup qualification,India,false
 2008-08-03,South Africa,Mozambique,2,1,COSAFA Cup,South Africa,false
 2008-08-03,Zambia,Madagascar,2,0,COSAFA Cup,South Africa,false
-2008-08-04,North Korea,Myanmar,1,0,Asian Cup q & Asian Chlg Cup,India,false
-2008-08-04,Nepal,Sri Lanka,3,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-04,North Korea,Myanmar,1,0,Asian Cup qualification,India,false
+2008-08-04,Nepal,Sri Lanka,3,0,Asian Cup qualification,India,false
 2008-08-06,Guatemala,Bolivia,3,0,Friendly,United States,false
-2008-08-07,India,Myanmar,1,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-07,India,Myanmar,1,0,Asian Cup qualification,India,false
 2008-08-07,Iran,Palestine,3,0,West Asian Championship,Iran,false
 2008-08-07,Jordan,Syria,0,0,West Asian Championship,Iran,false
-2008-08-07,Tajikistan,North Korea,1,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-07,Tajikistan,North Korea,1,0,Asian Cup qualification,India,false
 2008-08-08,Guyana,Dominica,3,0,CONCACAF Ch & Car Ch q,Guyana,false
 2008-08-09,Syria,Oman,2,1,West Asian Championship,Iran,false
 2008-08-09,Qatar,Palestine,1,0,West Asian Championship,Iran,false
@@ -2461,9 +2461,9 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2008-08-10,Guyana,Suriname,1,1,CONCACAF Ch & Car Ch q,Guyana,false
 2008-08-11,Iran,Qatar,6,1,West Asian Championship,Iran,false
 2008-08-11,Jordan,Oman,3,1,West Asian Championship,Iran,false
-2008-08-13,India,Tajikistan,4,1,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-13,India,Tajikistan,4,1,Asian Cup qualification,India,false
 2008-08-13,Iran,Syria,2,0,West Asian Championship,Iran,false
-2008-08-13,North Korea,Myanmar,4,0,Asian Cup q & Asian Chlg Cup,India,false
+2008-08-13,North Korea,Myanmar,4,0,Asian Cup qualification,India,false
 2008-08-13,Jordan,Qatar,3,0,West Asian Championship,Iran,false
 2008-08-14,Trinidad and Tobago,El Salvador,3,1,Friendly,United States,false
 2008-08-15,Iran,Jordan,2,1,West Asian Championship,Iran,false
@@ -2968,24 +2968,24 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-01-11,Uganda,Burundi,5,0,CECAFA Cup,Uganda,false
 2009-01-13,Uganda,Kenya,1,0,CECAFA Cup,Uganda,false
 2009-01-13,Tanzania,Burundi,3,2,CECAFA Cup,Uganda,false
-2009-01-14,Syria,China,3,2,Asian Cup qualifier,Syria,false
+2009-01-14,Syria,China,3,2,Asian Cup qualification,Syria,false
 2009-01-14,Hong Kong,India,2,1,Friendly,Hong Kong,false
-2009-01-14,Vietnam,Lebanon,3,1,Asian Cup qualifier,Vietnam,false
-2009-01-14,Iran,Singapore,6,0,Asian Cup qualifier,Iran,false
-2009-01-14,Jordan,Thailand,0,0,Asian Cup qualifier,Jordan,false
+2009-01-14,Vietnam,Lebanon,3,1,Asian Cup qualification,Vietnam,false
+2009-01-14,Iran,Singapore,6,0,Asian Cup qualification,Iran,false
+2009-01-14,Jordan,Thailand,0,0,Asian Cup qualification,Jordan,false
 2009-01-14,Saudi Arabia,Kuwait,1,0,Gulf Cup,Oman,false
 2009-01-14,Oman,Qatar,1,0,Gulf Cup,Oman,false
 2009-01-17,Oman,Saudi Arabia,0,0,Gulf Cup,Oman,false
 2009-01-17,Guatemala,Haiti,1,0,Friendly,United States,false
 2009-01-18,Syria,Turkmenistan,5,1,Friendly,Kuwait,false
 2009-01-18,Honduras,Chile,2,0,Friendly,United States,false
-2009-01-19,Oman,Indonesia,0,0,Asian Cup qualifier,Oman,false
-2009-01-20,Japan,Yemen,2,1,Asian Cup qualifier,Japan,false
+2009-01-19,Oman,Indonesia,0,0,Asian Cup qualification,Oman,false
+2009-01-20,Japan,Yemen,2,1,Asian Cup qualification,Japan,false
 2009-01-20,Kuwait,Turkmenistan,2,0,Friendly,Kuwait,false
-2009-01-21,China,Vietnam,6,1,Asian Cup qualifier,China,false
+2009-01-21,China,Vietnam,6,1,Asian Cup qualification,China,false
 2009-01-21,Thailand,Lebanon,2,1,King's Cup,Thailand,false
-2009-01-21,Hong Kong,Bahrain,1,3,Asian Cup qualifier,Hong Kong,false
-2009-01-21,Malaysia,United Arab Emirates,0,5,Asian Cup qualifier,Malaysia,false
+2009-01-21,Hong Kong,Bahrain,1,3,Asian Cup qualification,Hong Kong,false
+2009-01-21,Malaysia,United Arab Emirates,0,5,Asian Cup qualification,Malaysia,false
 2009-01-22,El Salvador,Nicaragua,1,1,N Am Ch q & UNCAF Cup,Honduras,false
 2009-01-22,Honduras,Belize,2,1,N Am Ch q & UNCAF Cup,Honduras,false
 2009-01-23,Lebanon,North Korea,1,0,King's Cup,Thailand,false
@@ -3000,14 +3000,14 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-01-26,Belize,Nicaragua,1,1,N Am Ch q & UNCAF Cup,Honduras,false
 2009-01-27,South Africa,Zambia,1,0,Friendly,South Africa,false
 2009-01-27,Panama,Guatemala,1,0,N Am Ch q & UNCAF Cup,Honduras,false
-2009-01-28,Bahrain,Japan,1,0,Asian Cup qualifier,Bahrain,false
-2009-01-28,Indonesia,Australia,0,0,Asian Cup qualifier,Indonesia,false
-2009-01-28,Lebanon,Syria,0,2,Asian Cup qualifier,Lebanon,false
-2009-01-28,Thailand,Iran,0,0,Asian Cup qualifier,Thailand,false
-2009-01-28,Yemen,Hong Kong,1,0,Asian Cup qualifier,Yemen,false
-2009-01-28,Singapore,Jordan,2,1,Asian Cup qualifier,Singapore,false
-2009-01-28,Kuwait,Oman,0,1,Asian Cup qualifier,Kuwait,false
-2009-01-28,United Arab Emirates,Uzbekistan,0,1,Asian Cup qualifier,United Arab Emirates,false
+2009-01-28,Bahrain,Japan,1,0,Asian Cup qualification,Bahrain,false
+2009-01-28,Indonesia,Australia,0,0,Asian Cup qualification,Indonesia,false
+2009-01-28,Lebanon,Syria,0,2,Asian Cup qualification,Lebanon,false
+2009-01-28,Thailand,Iran,0,0,Asian Cup qualification,Thailand,false
+2009-01-28,Yemen,Hong Kong,1,0,Asian Cup qualification,Yemen,false
+2009-01-28,Singapore,Jordan,2,1,Asian Cup qualification,Singapore,false
+2009-01-28,Kuwait,Oman,0,1,Asian Cup qualification,Kuwait,false
+2009-01-28,United Arab Emirates,Uzbekistan,0,1,Asian Cup qualification,United Arab Emirates,false
 2009-01-28,Sweden,Mexico,1,0,Friendly,United States,false
 2009-01-29,Nicaragua,Guatemala,2,0,N Am Ch q & UNCAF Cup,Honduras,false
 2009-01-30,Costa Rica,El Salvador,1,0,UNCAF Nations Cup,Honduras,false
@@ -3072,7 +3072,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-02-11,Malta,Albania,0,0,World Cup qualifier,Malta,false
 2009-02-11,Macedonia,Moldova,1,1,Friendly,Turkey,false
 2009-02-14,Ivory Coast,Equatorial Guinea,2,0,Friendly,Ivory Coast,false
-2009-03-05,Australia,Kuwait,0,1,Asian Cup qualifier,Australia,false
+2009-03-05,Australia,Kuwait,0,1,Asian Cup qualification,Australia,false
 2009-03-07,Sudan,Uganda,0,2,Friendly,Sudan,false
 2009-03-11,Guam,Mongolia,1,0,East Asian Championship qual,Guam,false
 2009-03-11,Macao,Northern Mariana Islands,6,1,East Asian Championship qual,Guam,false
@@ -3094,13 +3094,13 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-03-23,Kuwait,Iran,0,1,Friendly,Kuwait,false
 2009-03-23,Bahrain,Zimbabwe,5,2,Friendly,Bahrain,false
 2009-03-25,Cape Verde,Angola,1,0,Friendly,Portugal,false
-2009-03-26,Nepal,Palestine,0,0,Asian Cup & Asian Chlg Cup q,Nepal,false
+2009-03-26,Nepal,Palestine,0,0,Asian Cup qualification,Nepal,false
 2009-03-28,Japan,Bahrain,1,0,World Cup qualifier,Japan,false
 2009-03-28,Iran,Saudi Arabia,1,2,World Cup qualifier,Iran,false
 2009-03-28,South Korea,Iraq,2,1,Friendly,South Korea,false
 2009-03-28,Sri Lanka,Maldives,1,1,Friendly,Sri Lanka,false
 2009-03-28,Thailand,New Zealand,3,1,Friendly,Thailand,false
-2009-03-28,Nepal,Kyrgyzstan,1,1,Asian Cup & Asian Chlg Cup q,Nepal,false
+2009-03-28,Nepal,Kyrgyzstan,1,1,Asian Cup qualification,Nepal,false
 2009-03-28,North Korea,United Arab Emirates,2,0,World Cup qualifier,North Korea,false
 2009-03-28,Oman,Senegal,2,0,Friendly,Oman,false
 2009-03-28,Uzbekistan,Qatar,4,0,World Cup qualifier,Uzbekistan,false
@@ -3145,7 +3145,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-03-29,Ivory Coast,Malawi,5,0,World Cup and African Cup qual,Ivory Coast,false
 2009-03-29,Peru,Chile,1,3,World Cup qualifier,Peru,false
 2009-03-29,Ecuador,Brazil,1,1,World Cup qualifier,Ecuador,false
-2009-03-30,Kyrgyzstan,Palestine,1,1,Asian Cup & Asian Chlg Cup q,Nepal,false
+2009-03-30,Kyrgyzstan,Palestine,1,1,Asian Cup qualification,Nepal,false
 2009-03-31,Portugal,South Africa,2,0,Friendly,Switzerland,false
 2009-03-31,Morocco,Angola,2,0,Friendly,Portugal,false
 2009-03-31,Panama,Haiti,4,0,Friendly,Panama,false
@@ -3189,29 +3189,29 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-04-01,Czechia,Slovakia,1,2,World Cup qualifier,Czechia,false
 2009-04-01,Andorra,Croatia,0,2,World Cup qualifier,Andorra,false
 2009-04-01,Georgia,Montenegro,0,0,World Cup qualifier,Georgia,false
-2009-04-04,Pakistan,Taiwan,1,1,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
-2009-04-04,Sri Lanka,Brunei,5,1,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
+2009-04-04,Pakistan,Taiwan,1,1,Asian Cup qualification,Sri Lanka,false
+2009-04-04,Sri Lanka,Brunei,5,1,Asian Cup qualification,Sri Lanka,false
 2009-04-04,Angola,Namibia,0,0,Friendly,Angola,false
-2009-04-06,Sri Lanka,Taiwan,2,1,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
-2009-04-06,Pakistan,Brunei,6,0,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
-2009-04-07,Macao,Mongolia,2,0,Asian Cup & Asian Chlg Cup q,Macao,false
-2009-04-08,Taiwan,Brunei,5,0,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
-2009-04-08,Sri Lanka,Pakistan,2,2,Asian Cup & Asian Chlg Cup q,Sri Lanka,false
-2009-04-14,Philippines,Bhutan,1,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2009-04-14,Mongolia,Macao,3,1,Asian Cup & Asian Chlg Cup q,Mongolia,false
-2009-04-14,Maldives,Turkmenistan,1,3,Asian Cup & Asian Chlg Cup q,Maldives,false
-2009-04-16,Maldives,Philippines,3,2,Asian Cup & Asian Chlg Cup q,Maldives,false
-2009-04-16,Turkmenistan,Bhutan,7,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2009-04-18,Turkmenistan,Philippines,5,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2009-04-18,Maldives,Bhutan,5,0,Asian Cup & Asian Chlg Cup q,Maldives,false
+2009-04-06,Sri Lanka,Taiwan,2,1,Asian Cup qualification,Sri Lanka,false
+2009-04-06,Pakistan,Brunei,6,0,Asian Cup qualification,Sri Lanka,false
+2009-04-07,Macao,Mongolia,2,0,Asian Cup qualification,Macao,false
+2009-04-08,Taiwan,Brunei,5,0,Asian Cup qualification,Sri Lanka,false
+2009-04-08,Sri Lanka,Pakistan,2,2,Asian Cup qualification,Sri Lanka,false
+2009-04-14,Philippines,Bhutan,1,0,Asian Cup qualification,Maldives,false
+2009-04-14,Mongolia,Macao,3,1,Asian Cup qualification,Mongolia,false
+2009-04-14,Maldives,Turkmenistan,1,3,Asian Cup qualification,Maldives,false
+2009-04-16,Maldives,Philippines,3,2,Asian Cup qualification,Maldives,false
+2009-04-16,Turkmenistan,Bhutan,7,0,Asian Cup qualification,Maldives,false
+2009-04-18,Turkmenistan,Philippines,5,0,Asian Cup qualification,Maldives,false
+2009-04-18,Maldives,Bhutan,5,0,Asian Cup qualification,Maldives,false
 2009-04-22,French Guiana,Suriname,0,0,Friendly,French Guiana,false
 2009-04-25,Mali,Equatorial Guinea,3,0,Friendly,Mali,false
-2009-04-26,Myanmar,Macao,4,0,Asian Cup & Asian Chlg Cup q,Bangladesh,false
-2009-04-26,Bangladesh,Cambodia,1,0,Asian Cup & Asian Chlg Cup q,Bangladesh,false
-2009-04-28,Cambodia,Macao,2,1,Asian Cup & Asian Chlg Cup q,Bangladesh,false
-2009-04-28,Bangladesh,Myanmar,1,2,Asian Cup & Asian Chlg Cup q,Bangladesh,false
-2009-04-30,Bangladesh,Macao,3,0,Asian Cup & Asian Chlg Cup q,Bangladesh,false
-2009-04-30,Myanmar,Cambodia,1,0,Asian Cup & Asian Chlg Cup q,Bangladesh,false
+2009-04-26,Myanmar,Macao,4,0,Asian Cup qualification,Bangladesh,false
+2009-04-26,Bangladesh,Cambodia,1,0,Asian Cup qualification,Bangladesh,false
+2009-04-28,Cambodia,Macao,2,1,Asian Cup qualification,Bangladesh,false
+2009-04-28,Bangladesh,Myanmar,1,2,Asian Cup qualification,Bangladesh,false
+2009-04-30,Bangladesh,Macao,3,0,Asian Cup qualification,Bangladesh,false
+2009-04-30,Myanmar,Cambodia,1,0,Asian Cup qualification,Bangladesh,false
 2009-05-09,Tanzania,DR Congo,0,2,Friendly,Tanzania,false
 2009-05-13,Jordan,Zimbabwe,2,0,Friendly,Jordan,false
 2009-05-13,Venezuela,Costa Rica,1,1,Friendly,Venezuela,false
@@ -3573,7 +3573,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-09-30,Colombia,Mexico,2,1,Friendly,United States,false
 2009-10-02,Egypt,Mauritius,4,0,Friendly,Egypt,false
 2009-10-05,Kuwait,Libya,1,1,Friendly,Egypt,false
-2009-10-08,Japan,Hong Kong,6,0,Asian Cup qualifier,Japan,false
+2009-10-08,Japan,Hong Kong,6,0,Asian Cup qualification,Japan,false
 2009-10-08,Croatia,Qatar,3,2,Friendly,Croatia,false
 2009-10-10,Japan,Scotland,2,0,Friendly,Japan,false
 2009-10-10,Australia,Netherlands,0,0,Friendly,Australia,false
@@ -3625,7 +3625,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-10-13,Congo,North Korea,0,0,Friendly,France,false
 2009-10-13,Iceland,South Africa,1,0,Friendly,Iceland,false
 2009-10-14,Japan,Togo,5,0,Friendly,Japan,false
-2009-10-14,Australia,Oman,1,0,Asian Cup qualifier,Australia,false
+2009-10-14,Australia,Oman,1,0,Asian Cup qualification,Australia,false
 2009-10-14,South Korea,Senegal,2,0,Friendly,South Korea,false
 2009-10-14,United Arab Emirates,Jordan,3,1,Friendly,United Arab Emirates,false
 2009-10-14,Tunisia,Saudi Arabia,0,1,Friendly,Tunisia,false
@@ -3704,14 +3704,14 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-11-13,Saudi Arabia,Belarus,2,1,Friendly,Saudi Arabia,false
 2009-11-13,Qatar,Paraguay,2,0,Friendly,France,false
 2009-11-14,South Africa,Japan,0,0,Friendly,South Africa,false
-2009-11-14,Oman,Australia,1,2,Asian Cup qualifier,Oman,false
-2009-11-14,Lebanon,China,0,2,Asian Cup qualifier,Lebanon,false
-2009-11-14,Kuwait,Indonesia,2,1,Asian Cup qualifier,Kuwait,false
-2009-11-14,Iran,Jordan,1,0,Asian Cup qualifier,Iran,false
+2009-11-14,Oman,Australia,1,2,Asian Cup qualification,Oman,false
+2009-11-14,Lebanon,China,0,2,Asian Cup qualification,Lebanon,false
+2009-11-14,Kuwait,Indonesia,2,1,Asian Cup qualification,Kuwait,false
+2009-11-14,Iran,Jordan,1,0,Asian Cup qualification,Iran,false
 2009-11-14,Denmark,South Korea,0,0,Friendly,Denmark,false
-2009-11-14,Vietnam,Syria,0,1,Asian Cup qualifier,Vietnam,false
-2009-11-14,Singapore,Thailand,1,3,Asian Cup qualifier,Singapore,false
-2009-11-14,Uzbekistan,Malaysia,3,1,Asian Cup qualifier,Uzbekistan,false
+2009-11-14,Vietnam,Syria,0,1,Asian Cup qualification,Vietnam,false
+2009-11-14,Singapore,Thailand,1,3,Asian Cup qualification,Singapore,false
+2009-11-14,Uzbekistan,Malaysia,3,1,Asian Cup qualification,Uzbekistan,false
 2009-11-14,Saudi Arabia,Belarus,1,1,Friendly,Saudi Arabia,false
 2009-11-14,New Zealand,Bahrain,1,0,World Cup qualifier,New Zealand,false
 2009-11-14,Egypt,Algeria,2,0,World Cup and African Cup qual,Egypt,false
@@ -3750,15 +3750,15 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-11-17,Belgium,Qatar,2,0,Friendly,France,false
 2009-11-17,South Africa,Jamaica,0,0,Friendly,South Africa,false
 2009-11-17,Slovakia,Chile,1,2,Friendly,Slovakia,false
-2009-11-18,Hong Kong,Japan,0,4,Asian Cup qualifier,Hong Kong,false
-2009-11-18,Indonesia,Kuwait,1,1,Asian Cup qualifier,Indonesia,false
+2009-11-18,Hong Kong,Japan,0,4,Asian Cup qualification,Hong Kong,false
+2009-11-18,Indonesia,Kuwait,1,1,Asian Cup qualification,Indonesia,false
 2009-11-18,Iran,Macedonia,1,1,Friendly,Iran,false
 2009-11-18,Serbia,South Korea,1,0,Friendly,England,false
-2009-11-18,Syria,Vietnam,0,0,Asian Cup qualifier,Syria,false
-2009-11-18,Thailand,Singapore,0,1,Asian Cup qualifier,Thailand,false
-2009-11-18,Malaysia,Uzbekistan,1,3,Asian Cup qualifier,Malaysia,false
+2009-11-18,Syria,Vietnam,0,0,Asian Cup qualification,Syria,false
+2009-11-18,Thailand,Singapore,0,1,Asian Cup qualification,Thailand,false
+2009-11-18,Malaysia,Uzbekistan,1,3,Asian Cup qualification,Malaysia,false
 2009-11-18,United Arab Emirates,Iraq,0,1,Friendly tournament,United Arab Emirates,false
-2009-11-18,Bahrain,Yemen,4,0,Asian Cup qualifier,Bahrain,false
+2009-11-18,Bahrain,Yemen,4,0,Asian Cup qualification,Bahrain,false
 2009-11-18,Algeria,Egypt,1,0,World Cup qualifier,Sudan,false
 2009-11-18,Angola,Ghana,0,0,Friendly,Angola,false
 2009-11-18,Germany,Ivory Coast,2,2,Friendly,Germany,false
@@ -3777,8 +3777,8 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2009-11-18,Ukraine,Greece,0,1,World Cup qualifier,Ukraine,false
 2009-11-18,Azerbaijan,Czechia,2,0,Friendly tournament,United Arab Emirates,false
 2009-11-21,Zambia,North Korea,4,1,Friendly,Zambia,false
-2009-11-22,China,Lebanon,1,0,Asian Cup qualifier,China,false
-2009-11-22,Jordan,Iran,1,0,Asian Cup qualifier,Jordan,false
+2009-11-22,China,Lebanon,1,0,Asian Cup qualification,China,false
+2009-11-22,Jordan,Iran,1,0,Asian Cup qualification,Jordan,false
 2009-11-26,Malaysia,Maldives,0,1,Friendly,Malaysia,false
 2009-11-28,Kenya,Zambia,0,2,CECAFA Cup,Kenya,false
 2009-11-29,Nepal,Bhutan,2,1,Friendly,India,false
@@ -3848,15 +3848,15 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2010-01-04,Egypt,Mali,1,0,Friendly,United Arab Emirates,false
 2010-01-04,Tanzania,Ivory Coast,0,1,Friendly,Tanzania,false
 2010-01-05,Ghana,Malawi,0,0,Friendly,Swaziland,false
-2010-01-06,Yemen,Japan,2,3,Asian Cup qualifier,Yemen,false
-2010-01-06,Kuwait,Australia,2,2,Asian Cup qualifier,Kuwait,false
-2010-01-06,China,Syria,0,0,Asian Cup qualifier,China,false
-2010-01-06,Indonesia,Oman,1,2,Asian Cup qualifier,Indonesia,false
-2010-01-06,Lebanon,Vietnam,1,1,Asian Cup qualifier,Lebanon,false
-2010-01-06,Singapore,Iran,1,3,Asian Cup qualifier,Singapore,false
-2010-01-06,Bahrain,Hong Kong,4,0,Asian Cup qualifier,Bahrain,false
-2010-01-06,United Arab Emirates,Malaysia,1,0,Asian Cup qualifier,United Arab Emirates,false
-2010-01-06,Thailand,Jordan,0,0,Asian Cup qualifier,Thailand,false
+2010-01-06,Yemen,Japan,2,3,Asian Cup qualification,Yemen,false
+2010-01-06,Kuwait,Australia,2,2,Asian Cup qualification,Kuwait,false
+2010-01-06,China,Syria,0,0,Asian Cup qualification,China,false
+2010-01-06,Indonesia,Oman,1,2,Asian Cup qualification,Indonesia,false
+2010-01-06,Lebanon,Vietnam,1,1,Asian Cup qualification,Lebanon,false
+2010-01-06,Singapore,Iran,1,3,Asian Cup qualification,Singapore,false
+2010-01-06,Bahrain,Hong Kong,4,0,Asian Cup qualification,Bahrain,false
+2010-01-06,United Arab Emirates,Malaysia,1,0,Asian Cup qualification,United Arab Emirates,false
+2010-01-06,Thailand,Jordan,0,0,Asian Cup qualification,Thailand,false
 2010-01-06,Nigeria,Zambia,0,0,Friendly,South Africa,false
 2010-01-06,Benin,Libya,1,0,Friendly,Benin,false
 2010-01-06,Gabon,Mozambique,2,0,Friendly,South Africa,false
@@ -3878,7 +3878,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2010-01-16,Taiwan,Philippines,0,0,Friendly,Taiwan,false
 2010-01-16,Egypt,Mozambique,2,0,African Nations Cup,Angola,false
 2010-01-16,Nigeria,Benin,1,0,African Nations Cup,Angola,false
-2010-01-17,Vietnam,China,1,2,Asian Cup qualifier,Vietnam,false
+2010-01-17,Vietnam,China,1,2,Asian Cup qualification,Vietnam,false
 2010-01-17,Thailand,Singapore,1,0,King's Cup,Thailand,false
 2010-01-17,Cameroon,Zambia,3,2,African Nations Cup,Angola,false
 2010-01-17,Gabon,Tunisia,0,0,African Nations Cup,Angola,false
@@ -3887,7 +3887,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2010-01-18,Angola,Algeria,0,0,African Nations Cup,Angola,false
 2010-01-19,Ghana,Burkina Faso,1,0,African Nations Cup,Angola,false
 2010-01-20,Thailand,Poland,1,3,King's Cup,Thailand,false
-2010-01-20,Yemen,Bahrain,3,0,Asian Cup qualifier,Yemen,false
+2010-01-20,Yemen,Bahrain,3,0,Asian Cup qualification,Yemen,false
 2010-01-20,Oman,Sweden,0,1,Friendly,Oman,false
 2010-01-20,Egypt,Benin,2,0,African Nations Cup,Angola,false
 2010-01-20,Nigeria,Mozambique,3,0,African Nations Cup,Angola,false
@@ -3918,43 +3918,43 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2010-02-11,Japan,Hong Kong,3,0,East Asian Championship,Japan,false
 2010-02-14,Japan,South Korea,1,3,East Asian Championship,Japan,false
 2010-02-14,China,Hong Kong,2,0,East Asian Championship,Japan,false
-2010-02-16,Sri Lanka,Myanmar,0,4,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-16,Bangladesh,Tajikistan,2,1,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-17,Kyrgyzstan,India,2,1,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-17,North Korea,Turkmenistan,1,1,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
+2010-02-16,Sri Lanka,Myanmar,0,4,Asian Cup qualification,Sri Lanka,false
+2010-02-16,Bangladesh,Tajikistan,2,1,Asian Cup qualification,Sri Lanka,false
+2010-02-17,Kyrgyzstan,India,2,1,Asian Cup qualification,Sri Lanka,false
+2010-02-17,North Korea,Turkmenistan,1,1,Asian Cup qualification,Sri Lanka,false
 2010-02-17,Kosovo,Albania,2,3,Friendly,Kosovo,false
-2010-02-18,Myanmar,Bangladesh,2,1,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-18,Sri Lanka,Tajikistan,1,3,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-19,Turkmenistan,India,1,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
+2010-02-18,Myanmar,Bangladesh,2,1,Asian Cup qualification,Sri Lanka,false
+2010-02-18,Sri Lanka,Tajikistan,1,3,Asian Cup qualification,Sri Lanka,false
+2010-02-19,Turkmenistan,India,1,0,Asian Cup qualification,Sri Lanka,false
 2010-02-19,Kuwait,Syria,1,1,Friendly,United Arab Emirates,false
-2010-02-19,North Korea,Kyrgyzstan,4,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-20,Tajikistan,Myanmar,3,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-20,Sri Lanka,Bangladesh,3,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-21,North Korea,India,3,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-21,Turkmenistan,Kyrgyzstan,1,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-24,North Korea,Myanmar,5,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
-2010-02-24,Turkmenistan,Tajikistan,2,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
+2010-02-19,North Korea,Kyrgyzstan,4,0,Asian Cup qualification,Sri Lanka,false
+2010-02-20,Tajikistan,Myanmar,3,0,Asian Cup qualification,Sri Lanka,false
+2010-02-20,Sri Lanka,Bangladesh,3,0,Asian Cup qualification,Sri Lanka,false
+2010-02-21,North Korea,India,3,0,Asian Cup qualification,Sri Lanka,false
+2010-02-21,Turkmenistan,Kyrgyzstan,1,0,Asian Cup qualification,Sri Lanka,false
+2010-02-24,North Korea,Myanmar,5,0,Asian Cup qualification,Sri Lanka,false
+2010-02-24,Turkmenistan,Tajikistan,2,0,Asian Cup qualification,Sri Lanka,false
 2010-02-24,United States,El Salvador,2,1,Friendly,United States,false
 2010-02-24,Mexico,Bolivia,5,0,Friendly,United States,false
 2010-02-25,Kuwait,Bahrain,4,1,Friendly,United Arab Emirates,false
 2010-02-25,Jordan,Azerbaijan,0,2,Friendly,Jordan,false
-2010-02-27,Tajikistan,Myanmar,1,0,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
+2010-02-27,Tajikistan,Myanmar,1,0,Asian Cup qualification,Sri Lanka,false
 2010-02-27,Malaysia,Yemen,1,0,Friendly,Malaysia,false
-2010-02-27,North Korea,Turkmenistan,1,1,Asian Cup q & Asian Chlg Cup,Sri Lanka,false
+2010-02-27,North Korea,Turkmenistan,1,1,Asian Cup qualification,Sri Lanka,false
 2010-02-28,Curaçao,Bonaire,4,0,Friendly,Curaçao,false
 2010-03-02,Guadeloupe,Saint Kitts and Nevis,2,1,Friendly,Guadeloupe,false
 2010-03-02,Brazil,Ireland,2,0,Friendly,England,false
-2010-03-03,Japan,Bahrain,2,0,Asian Cup qualifier,Japan,false
-2010-03-03,Australia,Indonesia,1,0,Asian Cup qualifier,Australia,false
+2010-03-03,Japan,Bahrain,2,0,Asian Cup qualification,Japan,false
+2010-03-03,Australia,Indonesia,1,0,Asian Cup qualification,Australia,false
 2010-03-03,Portugal,China,2,0,Friendly,Portugal,false
-2010-03-03,Syria,Lebanon,4,0,Asian Cup qualifier,Syria,false
-2010-03-03,Iran,Thailand,1,0,Asian Cup qualifier,Iran,false
+2010-03-03,Syria,Lebanon,4,0,Asian Cup qualification,Syria,false
+2010-03-03,Iran,Thailand,1,0,Asian Cup qualification,Iran,false
 2010-03-03,South Korea,Ivory Coast,2,0,Friendly,England,false
-2010-03-03,Hong Kong,Yemen,0,0,Asian Cup qualifier,Hong Kong,false
-2010-03-03,Jordan,Singapore,2,1,Asian Cup qualifier,Jordan,false
-2010-03-03,Oman,Kuwait,0,0,Asian Cup qualifier,Oman,false
+2010-03-03,Hong Kong,Yemen,0,0,Asian Cup qualification,Hong Kong,false
+2010-03-03,Jordan,Singapore,2,1,Asian Cup qualification,Jordan,false
+2010-03-03,Oman,Kuwait,0,0,Asian Cup qualification,Oman,false
 2010-03-03,Slovenia,Qatar,4,1,Friendly,Slovenia,false
-2010-03-03,Uzbekistan,United Arab Emirates,0,1,Asian Cup qualifier,Uzbekistan,false
+2010-03-03,Uzbekistan,United Arab Emirates,0,1,Asian Cup qualification,Uzbekistan,false
 2010-03-03,England,Egypt,3,1,Friendly,England,false
 2010-03-03,South Africa,Namibia,1,1,Friendly,South Africa,false
 2010-03-03,Tanzania,Uganda,2,3,Friendly,Tanzania,false
@@ -4794,10 +4794,10 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2011-02-08,Ireland,Wales,3,0,Friendly tournament,Ireland,false
 2011-02-08,Cyprus,Sweden,0,2,Friendly tournament,Cyprus,false
 2011-02-08,Romania,Ukraine,2,2,Friendly tournament,Cyprus,false
-2011-02-09,Philippines,Mongolia,2,0,Asian Cup & Asian Chlg Cup q,Philippines,false
+2011-02-09,Philippines,Mongolia,2,0,Asian Cup qualification,Philippines,false
 2011-02-09,Iran,Russia,1,0,Friendly,United Arab Emirates,false
 2011-02-09,Turkey,South Korea,0,0,Friendly,Turkey,false
-2011-02-09,Cambodia,Macao,3,1,Asian Cup & Asian Chlg Cup q,Cambodia,false
+2011-02-09,Cambodia,Macao,3,1,Asian Cup qualification,Cambodia,false
 2011-02-09,Malaysia,Hong Kong,2,0,Friendly,Malaysia,false
 2011-02-09,Tanzania,Palestine,1,0,Friendly,Tanzania,false
 2011-02-09,South Africa,Kenya,2,0,Friendly,South Africa,false
@@ -4838,39 +4838,39 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2011-02-09,Moldova,Andorra,2,1,Friendly,Portugal,false
 2011-02-09,Georgia,Armenia,2,1,Friendly,Cyprus,false
 2011-02-09,San Marino,Liechtenstein,0,1,Friendly,San Marino,false
-2011-02-10,Taiwan,Laos,5,2,Asian Cup & Asian Chlg Cup q,Taiwan,false
+2011-02-10,Taiwan,Laos,5,2,Asian Cup qualification,Taiwan,false
 2011-02-14,Bahrain,Kuwait,0,0,Friendly,Bahrain,false
-2011-02-16,Macao,Cambodia,3,2,Asian Cup & Asian Chlg Cup q,Macao,false
-2011-02-16,Laos,Taiwan,1,1,Asian Cup & Asian Chlg Cup q,Laos,false
+2011-02-16,Macao,Cambodia,3,2,Asian Cup qualification,Macao,false
+2011-02-16,Laos,Taiwan,1,1,Asian Cup qualification,Laos,false
 2011-03-11,Gibraltar,Faroe Islands,3,0,Friendly,Gibraltar,false
-2011-03-15,Mongolia,Philippines,2,1,Asian Cup & Asian Chlg Cup q,Mongolia,false
+2011-03-15,Mongolia,Philippines,2,1,Asian Cup qualification,Mongolia,false
 2011-03-16,Botswana,Namibia,1,1,Friendly,Botswana,false
 2011-03-16,Argentina,Venezuela,4,1,Friendly,Argentina,false
 2011-03-17,Nepal,Bhutan,1,0,Friendly,Nepal,false
 2011-03-19,Nepal,Bhutan,2,1,Friendly,Nepal,false
-2011-03-21,Myanmar,Philippines,1,1,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2011-03-21,India,Taiwan,3,0,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-21,Turkmenistan,Pakistan,3,0,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-21,Maldives,Cambodia,4,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2011-03-21,Tajikistan,Kyrgyzstan,1,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2011-03-21,Palestine,Bangladesh,2,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2011-03-23,Palestine,Philippines,0,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2011-03-23,India,Pakistan,3,1,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-23,Afghanistan,Bhutan,3,0,Asian Cup & Asian Chlg Cup q,India,false
-2011-03-23,Turkmenistan,Taiwan,2,0,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-23,Myanmar,Bangladesh,0,2,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2011-03-23,Tajikistan,Cambodia,3,0,Asian Cup & Asian Chlg Cup q,Maldives,false
-2011-03-23,Maldives,Kyrgyzstan,2,1,Asian Cup & Asian Chlg Cup q,Maldives,false
+2011-03-21,Myanmar,Philippines,1,1,Asian Cup qualification,Myanmar,false
+2011-03-21,India,Taiwan,3,0,Asian Cup qualification,Malaysia,false
+2011-03-21,Turkmenistan,Pakistan,3,0,Asian Cup qualification,Malaysia,false
+2011-03-21,Maldives,Cambodia,4,0,Asian Cup qualification,Maldives,false
+2011-03-21,Tajikistan,Kyrgyzstan,1,0,Asian Cup qualification,Maldives,false
+2011-03-21,Palestine,Bangladesh,2,0,Asian Cup qualification,Myanmar,false
+2011-03-23,Palestine,Philippines,0,0,Asian Cup qualification,Myanmar,false
+2011-03-23,India,Pakistan,3,1,Asian Cup qualification,Malaysia,false
+2011-03-23,Afghanistan,Bhutan,3,0,Asian Cup qualification,India,false
+2011-03-23,Turkmenistan,Taiwan,2,0,Asian Cup qualification,Malaysia,false
+2011-03-23,Myanmar,Bangladesh,0,2,Asian Cup qualification,Myanmar,false
+2011-03-23,Tajikistan,Cambodia,3,0,Asian Cup qualification,Maldives,false
+2011-03-23,Maldives,Kyrgyzstan,2,1,Asian Cup qualification,Maldives,false
 2011-03-24,Cuba,El Salvador,0,1,Friendly,Cuba,false
-2011-03-25,Philippines,Bangladesh,3,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
+2011-03-25,Philippines,Bangladesh,3,0,Asian Cup qualification,Myanmar,false
 2011-03-25,China,New Zealand,1,1,Friendly,China,false
-2011-03-25,India,Turkmenistan,1,1,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-25,Afghanistan,Bhutan,2,0,Asian Cup & Asian Chlg Cup q,India,false
+2011-03-25,India,Turkmenistan,1,1,Asian Cup qualification,Malaysia,false
+2011-03-25,Afghanistan,Bhutan,2,0,Asian Cup qualification,India,false
 2011-03-25,South Korea,Honduras,4,0,Friendly,South Korea,false
-2011-03-25,Pakistan,Taiwan,2,0,Asian Cup & Asian Chlg Cup q,Malaysia,false
-2011-03-25,Myanmar,Palestine,1,3,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2011-03-25,Kyrgyzstan,Cambodia,4,3,Asian Cup & Asian Chlg Cup q,Maldives,false
-2011-03-25,Maldives,Tajikistan,0,0,Asian Cup & Asian Chlg Cup q,Maldives,false
+2011-03-25,Pakistan,Taiwan,2,0,Asian Cup qualification,Malaysia,false
+2011-03-25,Myanmar,Palestine,1,3,Asian Cup qualification,Myanmar,false
+2011-03-25,Kyrgyzstan,Cambodia,4,3,Asian Cup qualification,Maldives,false
+2011-03-25,Maldives,Tajikistan,0,0,Asian Cup qualification,Maldives,false
 2011-03-25,Montenegro,Uzbekistan,1,0,Friendly,Montenegro,false
 2011-03-25,Jamaica,Venezuela,0,2,Friendly,Jamaica,false
 2011-03-25,Panama,Bolivia,2,0,Friendly,Panama,false
@@ -4965,12 +4965,12 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2011-04-02,Grenada,Saint Kitts and Nevis,0,1,Friendly,Grenada,false
 2011-04-03,Tahiti,New Caledonia,1,3,Friendly,Tahiti,false
 2011-04-06,Tahiti,New Caledonia,1,0,Friendly,Tahiti,false
-2011-04-07,Nepal,Afghanistan,1,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2011-04-07,North Korea,Sri Lanka,4,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2011-04-09,Afghanistan,Sri Lanka,1,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2011-04-09,Nepal,North Korea,0,1,Asian Cup & Asian Chlg Cup q,Nepal,false
-2011-04-11,North Korea,Afghanistan,2,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2011-04-11,Nepal,Sri Lanka,0,0,Asian Cup & Asian Chlg Cup q,Nepal,false
+2011-04-07,Nepal,Afghanistan,1,0,Asian Cup qualification,Nepal,false
+2011-04-07,North Korea,Sri Lanka,4,0,Asian Cup qualification,Nepal,false
+2011-04-09,Afghanistan,Sri Lanka,1,0,Asian Cup qualification,Nepal,false
+2011-04-09,Nepal,North Korea,0,1,Asian Cup qualification,Nepal,false
+2011-04-11,North Korea,Afghanistan,2,0,Asian Cup qualification,Nepal,false
+2011-04-11,Nepal,Sri Lanka,0,0,Asian Cup qualification,Nepal,false
 2011-04-20,Argentina,Ecuador,2,2,Friendly,Argentina,false
 2011-04-23,Mozambique,Tanzania,2,0,Friendly,Mozambique,false
 2011-05-04,New Caledonia,Reunion,2,4,Friendly,New Caledonia,false
@@ -5963,22 +5963,22 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2012-03-02,DR Congo,Egypt,0,0,Friendly,Qatar,false
 2012-03-03,Martinique,Guadeloupe,1,2,Friendly,Martinique,false
 2012-03-03,Saint Kitts and Nevis,Antigua and Barbuda,1,0,Friendly,Saint Kitts and Nevis,false
-2012-03-08,Nepal,Palestine,0,2,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-08,Turkmenistan,Maldives,3,1,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-09,North Korea,Philippines,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-09,Tajikistan,India,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-10,Palestine,Turkmenistan,0,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-10,Nepal,Maldives,0,1,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-11,Philippines,India,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-11,North Korea,Tajikistan,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-12,Palestine,Maldives,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-12,Nepal,Turkmenistan,0,3,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-13,Philippines,Tajikistan,2,1,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-13,North Korea,India,4,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-16,Turkmenistan,Philippines,2,1,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-16,North Korea,Palestine,2,0,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-19,Philippines,Palestine,4,3,Asian Cup q & Asian Chlg Cup,Nepal,false
-2012-03-19,North Korea,Turkmenistan,2,1,Asian Cup q & Asian Chlg Cup,Nepal,false
+2012-03-08,Nepal,Palestine,0,2,Asian Cup qualification,Nepal,false
+2012-03-08,Turkmenistan,Maldives,3,1,Asian Cup qualification,Nepal,false
+2012-03-09,North Korea,Philippines,2,0,Asian Cup qualification,Nepal,false
+2012-03-09,Tajikistan,India,2,0,Asian Cup qualification,Nepal,false
+2012-03-10,Palestine,Turkmenistan,0,0,Asian Cup qualification,Nepal,false
+2012-03-10,Nepal,Maldives,0,1,Asian Cup qualification,Nepal,false
+2012-03-11,Philippines,India,2,0,Asian Cup qualification,Nepal,false
+2012-03-11,North Korea,Tajikistan,2,0,Asian Cup qualification,Nepal,false
+2012-03-12,Palestine,Maldives,2,0,Asian Cup qualification,Nepal,false
+2012-03-12,Nepal,Turkmenistan,0,3,Asian Cup qualification,Nepal,false
+2012-03-13,Philippines,Tajikistan,2,1,Asian Cup qualification,Nepal,false
+2012-03-13,North Korea,India,4,0,Asian Cup qualification,Nepal,false
+2012-03-16,Turkmenistan,Philippines,2,1,Asian Cup qualification,Nepal,false
+2012-03-16,North Korea,Palestine,2,0,Asian Cup qualification,Nepal,false
+2012-03-19,Philippines,Palestine,4,3,Asian Cup qualification,Nepal,false
+2012-03-19,North Korea,Turkmenistan,2,1,Asian Cup qualification,Nepal,false
 2012-03-21,Jamaica,Costa Rica,0,0,Friendly,Jamaica,false
 2012-03-21,French Guiana,Guyana,1,0,Friendly,French Guiana,false
 2012-03-21,Chile,Peru,3,1,Pacific Cup,Chile,false
@@ -6941,20 +6941,20 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-02-06,Japan,Latvia,3,0,Friendly,Japan,false
 2013-02-06,Myanmar,Philippines,0,1,Friendly,Myanmar,false
 2013-02-06,Romania,Australia,3,2,Friendly,Spain,false
-2013-02-06,Saudi Arabia,China,2,1,Asian Cup qualifier,Saudi Arabia,false
-2013-02-06,Iraq,Indonesia,1,0,Asian Cup qualifier,United Arab Emirates,false
+2013-02-06,Saudi Arabia,China,2,1,Asian Cup qualification,Saudi Arabia,false
+2013-02-06,Iraq,Indonesia,1,0,Asian Cup qualification,United Arab Emirates,false
 2013-02-06,India,Palestine,2,4,Friendly,India,false
-2013-02-06,Iran,Lebanon,5,0,Asian Cup qualifier,Iran,false
+2013-02-06,Iran,Lebanon,5,0,Asian Cup qualification,Iran,false
 2013-02-06,Croatia,South Korea,4,0,Friendly,England,false
-2013-02-06,Vietnam,United Arab Emirates,1,2,Asian Cup qualifier,Vietnam,false
-2013-02-06,Oman,Syria,1,0,Asian Cup qualifier,Oman,false
+2013-02-06,Vietnam,United Arab Emirates,1,2,Asian Cup qualification,Vietnam,false
+2013-02-06,Oman,Syria,1,0,Asian Cup qualification,Oman,false
 2013-02-06,Nepal,Pakistan,0,1,Friendly,Nepal,false
-2013-02-06,Uzbekistan,Hong Kong,0,0,Asian Cup qualifier,Uzbekistan,false
-2013-02-06,Jordan,Singapore,4,0,Asian Cup qualifier,Jordan,false
-2013-02-06,Qatar,Malaysia,2,0,Asian Cup qualifier,Qatar,false
-2013-02-06,Thailand,Kuwait,1,3,Asian Cup qualifier,Thailand,false
+2013-02-06,Uzbekistan,Hong Kong,0,0,Asian Cup qualification,Uzbekistan,false
+2013-02-06,Jordan,Singapore,4,0,Asian Cup qualification,Jordan,false
+2013-02-06,Qatar,Malaysia,2,0,Asian Cup qualification,Qatar,false
+2013-02-06,Thailand,Kuwait,1,3,Asian Cup qualification,Thailand,false
 2013-02-06,North Korea,Laos,1,0,Friendly,China,false
-2013-02-06,Bahrain,Yemen,2,0,Asian Cup qualifier,United Arab Emirates,false
+2013-02-06,Bahrain,Yemen,2,0,Asian Cup qualification,United Arab Emirates,false
 2013-02-06,Chile,Egypt,2,1,Friendly,Spain,false
 2013-02-06,Kenya,Libya,3,0,Friendly,Tunisia,false
 2013-02-06,Rwanda,Uganda,2,2,Friendly,Rwanda,false
@@ -6998,52 +6998,52 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-02-12,Maldives,Pakistan,1,1,Friendly,Maldives,false
 2013-02-14,Maldives,Pakistan,3,0,Friendly,Maldives,false
 2013-02-27,Gambia,Mauritania,0,2,Friendly,The Gambia,false
-2013-03-02,India,Taiwan,2,1,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-02,Afghanistan,Sri Lanka,1,0,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-02,Laos,Mongolia,1,1,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-02,Myanmar,Guam,5,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-02,Palestine,Bangladesh,1,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2013-03-02,Nepal,Northern Mariana Islands,6,0,Asian Cup & Asian Chlg Cup q,Nepal,false
+2013-03-02,India,Taiwan,2,1,Asian Cup qualification,Myanmar,false
+2013-03-02,Afghanistan,Sri Lanka,1,0,Asian Cup qualification,Laos,false
+2013-03-02,Laos,Mongolia,1,1,Asian Cup qualification,Laos,false
+2013-03-02,Myanmar,Guam,5,0,Asian Cup qualification,Myanmar,false
+2013-03-02,Palestine,Bangladesh,1,0,Asian Cup qualification,Nepal,false
+2013-03-02,Nepal,Northern Mariana Islands,6,0,Asian Cup qualification,Nepal,false
 2013-03-02,Gambia,Mauritania,0,0,Friendly,The Gambia,false
-2013-03-04,India,Guam,4,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-04,Afghanistan,Mongolia,1,0,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-04,Myanmar,Taiwan,1,1,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-04,Laos,Sri Lanka,4,2,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-04,Palestine,Northern Mariana Islands,9,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2013-03-04,Nepal,Bangladesh,0,2,Asian Cup & Asian Chlg Cup q,Nepal,false
-2013-03-06,Myanmar,India,1,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-06,Laos,Afghanistan,1,1,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-06,Sri Lanka,Mongolia,3,0,Asian Cup & Asian Chlg Cup q,Laos,false
-2013-03-06,Guam,Taiwan,3,0,Asian Cup & Asian Chlg Cup q,Myanmar,false
-2013-03-06,Nepal,Palestine,0,0,Asian Cup & Asian Chlg Cup q,Nepal,false
-2013-03-06,Bangladesh,Northern Mariana Islands,4,0,Asian Cup & Asian Chlg Cup q,Nepal,false
+2013-03-04,India,Guam,4,0,Asian Cup qualification,Myanmar,false
+2013-03-04,Afghanistan,Mongolia,1,0,Asian Cup qualification,Laos,false
+2013-03-04,Myanmar,Taiwan,1,1,Asian Cup qualification,Myanmar,false
+2013-03-04,Laos,Sri Lanka,4,2,Asian Cup qualification,Laos,false
+2013-03-04,Palestine,Northern Mariana Islands,9,0,Asian Cup qualification,Nepal,false
+2013-03-04,Nepal,Bangladesh,0,2,Asian Cup qualification,Nepal,false
+2013-03-06,Myanmar,India,1,0,Asian Cup qualification,Myanmar,false
+2013-03-06,Laos,Afghanistan,1,1,Asian Cup qualification,Laos,false
+2013-03-06,Sri Lanka,Mongolia,3,0,Asian Cup qualification,Laos,false
+2013-03-06,Guam,Taiwan,3,0,Asian Cup qualification,Myanmar,false
+2013-03-06,Nepal,Palestine,0,0,Asian Cup qualification,Nepal,false
+2013-03-06,Bangladesh,Northern Mariana Islands,4,0,Asian Cup qualification,Nepal,false
 2013-03-07,Qatar,Egypt,3,1,Friendly,Qatar,false
 2013-03-13,Mozambique,Swaziland,0,0,Friendly,Mozambique,false
 2013-03-17,Bahrain,Lebanon,0,0,Friendly,Bahrain,false
-2013-03-17,Kyrgyzstan,Macao,1,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
-2013-03-17,Tajikistan,Pakistan,1,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
+2013-03-17,Kyrgyzstan,Macao,1,0,Asian Cup qualification,Kyrgyzstan,false
+2013-03-17,Tajikistan,Pakistan,1,0,Asian Cup qualification,Kyrgyzstan,false
 2013-03-17,Malaysia,Saudi Arabia,1,4,Friendly,Malaysia,false
 2013-03-17,Qatar,Thailand,1,0,Friendly,Qatar,false
-2013-03-19,Tajikistan,Macao,3,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
-2013-03-19,Kyrgyzstan,Pakistan,1,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
+2013-03-19,Tajikistan,Macao,3,0,Asian Cup qualification,Kyrgyzstan,false
+2013-03-19,Kyrgyzstan,Pakistan,1,0,Asian Cup qualification,Kyrgyzstan,false
 2013-03-19,Botswana,Malawi,1,0,Friendly,Botswana,false
 2013-03-20,Oman,Haiti,3,0,Friendly,Oman,false
 2013-03-20,Niger,Gambia,1,3,Friendly,Niger,false
 2013-03-20,Rwanda,Libya,0,1,Friendly,Rwanda,false
-2013-03-21,Pakistan,Macao,2,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
-2013-03-21,Kyrgyzstan,Tajikistan,1,0,Asian Cup & Asian Chlg Cup q,Kyrgyzstan,false
+2013-03-21,Pakistan,Macao,2,0,Asian Cup qualification,Kyrgyzstan,false
+2013-03-21,Kyrgyzstan,Tajikistan,1,0,Asian Cup qualification,Kyrgyzstan,false
 2013-03-21,Kuwait,Palestine,2,1,Friendly,Kuwait,false
 2013-03-21,Jordan,Belarus,1,0,Friendly,Jordan,false
 2013-03-21,Ecuador,El Salvador,5,0,Friendly,Ecuador,false
 2013-03-21,Brazil,Italy,2,2,Friendly,Switzerland,false
 2013-03-22,Japan,Canada,2,1,Friendly,Qatar,false
-2013-03-22,China,Iraq,1,0,Asian Cup qualifier,China,false
-2013-03-22,Lebanon,Thailand,5,2,Asian Cup qualifier,Lebanon,false
-2013-03-22,Hong Kong,Vietnam,1,0,Asian Cup qualifier,Hong Kong,false
-2013-03-22,Malaysia,Yemen,2,1,Asian Cup qualifier,Malaysia,false
-2013-03-22,Turkmenistan,Cambodia,7,0,Asian Cup & Asian Chlg Cup q,Philippines,false
-2013-03-22,Bahrain,Qatar,1,0,Asian Cup qualifier,Bahrain,false
-2013-03-22,United Arab Emirates,Uzbekistan,2,1,Asian Cup qualifier,United Arab Emirates,false
+2013-03-22,China,Iraq,1,0,Asian Cup qualification,China,false
+2013-03-22,Lebanon,Thailand,5,2,Asian Cup qualification,Lebanon,false
+2013-03-22,Hong Kong,Vietnam,1,0,Asian Cup qualification,Hong Kong,false
+2013-03-22,Malaysia,Yemen,2,1,Asian Cup qualification,Malaysia,false
+2013-03-22,Turkmenistan,Cambodia,7,0,Asian Cup qualification,Philippines,false
+2013-03-22,Bahrain,Qatar,1,0,Asian Cup qualification,Bahrain,false
+2013-03-22,United Arab Emirates,Uzbekistan,2,1,Asian Cup qualification,United Arab Emirates,false
 2013-03-22,Egypt,Swaziland,10,0,Friendly,Egypt,false
 2013-03-22,United States,Costa Rica,1,0,World Cup qualifier,United States,false
 2013-03-22,Honduras,Mexico,2,2,World Cup qualifier,Honduras,false
@@ -7076,7 +7076,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-03-22,Croatia,Serbia,2,0,World Cup qualifier,Croatia,false
 2013-03-22,Slovenia,Iceland,1,2,World Cup qualifier,Slovenia,false
 2013-03-22,Moldova,Montenegro,0,1,World Cup qualifier,Moldova,false
-2013-03-23,Indonesia,Saudi Arabia,1,2,Asian Cup qualifier,Indonesia,false
+2013-03-23,Indonesia,Saudi Arabia,1,2,Asian Cup qualification,Indonesia,false
 2013-03-23,South Africa,Central African Republic,2,0,World Cup qualifier,South Africa,false
 2013-03-23,Nigeria,Kenya,1,1,World Cup qualifier,Nigeria,false
 2013-03-23,Tunisia,Sierra Leone,2,1,World Cup qualifier,Tunisia,false
@@ -7089,7 +7089,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-03-23,Belize,Trinidad and Tobago,0,0,Friendly,Belize,false
 2013-03-23,Cyprus,Switzerland,0,0,World Cup qualifier,Cyprus,false
 2013-03-23,Kazakhstan,Germany,0,3,World Cup qualifier,Kazakhstan,false
-2013-03-24,Philippines,Cambodia,8,0,Asian Cup & Asian Chlg Cup q,Philippines,false
+2013-03-24,Philippines,Cambodia,8,0,Asian Cup qualification,Philippines,false
 2013-03-24,Liberia,Uganda,2,0,World Cup qualifier,Liberia,false
 2013-03-24,Tanzania,Morocco,3,1,World Cup qualifier,Tanzania,false
 2013-03-24,Lesotho,Zambia,1,1,World Cup qualifier,Lesotho,false
@@ -7103,10 +7103,10 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-03-25,Belarus,Canada,2,0,Friendly,Qatar,false
 2013-03-25,Brazil,Russia,1,1,Friendly,England,false
 2013-03-26,Jordan,Japan,2,1,World Cup qualifier,Jordan,false
-2013-03-26,Philippines,Turkmenistan,1,0,Asian Cup & Asian Chlg Cup q,Philippines,false
+2013-03-26,Philippines,Turkmenistan,1,0,Asian Cup qualification,Philippines,false
 2013-03-26,Australia,Oman,2,2,World Cup qualifier,Australia,false
 2013-03-26,Uzbekistan,Lebanon,1,0,World Cup qualifier,Uzbekistan,false
-2013-03-26,Kuwait,Iran,1,1,Asian Cup qualifier,Kuwait,false
+2013-03-26,Kuwait,Iran,1,1,Asian Cup qualification,Kuwait,false
 2013-03-26,South Korea,Qatar,2,1,World Cup qualifier,South Korea,false
 2013-03-26,Iraq,Syria,2,1,Friendly,Iraq,false
 2013-03-26,Malaysia,Palestine,0,2,Friendly,Malaysia,false
@@ -7380,7 +7380,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-08-14,Indonesia,Philippines,2,0,Friendly,Indonesia,false
 2013-08-14,Tajikistan,India,3,0,Friendly,Tajikistan,false
 2013-08-14,South Korea,Peru,0,0,Friendly,South Korea,false
-2013-08-14,Singapore,Oman,0,2,Asian Cup qualifier,Singapore,false
+2013-08-14,Singapore,Oman,0,2,Asian Cup qualification,Singapore,false
 2013-08-14,Chile,Iraq,6,0,Friendly,Denmark,false
 2013-08-14,Egypt,Uganda,3,0,Friendly,Egypt,false
 2013-08-14,South Africa,Nigeria,0,2,Friendly tournament,South Africa,false
@@ -7423,7 +7423,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-08-14,Moldova,Andorra,1,1,Friendly,Moldova,false
 2013-08-14,Azerbaijan,Malta,3,0,Friendly,Azerbaijan,false
 2013-08-14,Kazakhstan,Georgia,1,0,Friendly,Kazakhstan,false
-2013-08-15,Jordan,Syria,1,1,Asian Cup qualifier,Iran,false
+2013-08-15,Jordan,Syria,1,1,Asian Cup qualification,Iran,false
 2013-08-17,South Africa,Burkina Faso,2,0,Friendly,South Africa,false
 2013-08-20,Afghanistan,Pakistan,3,0,Friendly,Afghanistan,false
 2013-08-27,Libya,Mali,1,0,Friendly,Tunisia,false
@@ -7607,23 +7607,23 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-10-12,Burkina Faso,Algeria,3,2,World Cup qualifier,Burkina Faso,false
 2013-10-12,Ivory Coast,Senegal,3,1,World Cup qualifier,Ivory Coast,false
 2013-10-13,Pakistan,Taiwan,1,0,Friendly tournament,Philippines,false
-2013-10-13,Qatar,Yemen,6,0,Asian Cup qualifier,Qatar,false
+2013-10-13,Qatar,Yemen,6,0,Asian Cup qualification,Qatar,false
 2013-10-13,Ethiopia,Nigeria,1,2,World Cup qualifier,Ethiopia,false
 2013-10-13,Tunisia,Cameroon,0,0,World Cup qualifier,Tunisia,false
 2013-10-15,Belarus,Japan,1,0,Friendly,Belarus,false
 2013-10-15,Philippines,Pakistan,3,1,Friendly tournament,Philippines,false
 2013-10-15,Australia,Canada,3,0,Friendly,England,false
-2013-10-15,Indonesia,China,1,1,Asian Cup qualifier,Indonesia,false
-2013-10-15,Lebanon,Kuwait,1,1,Asian Cup qualifier,Lebanon,false
-2013-10-15,Iran,Thailand,2,1,Asian Cup qualifier,Iran,false
+2013-10-15,Indonesia,China,1,1,Asian Cup qualification,Indonesia,false
+2013-10-15,Lebanon,Kuwait,1,1,Asian Cup qualification,Lebanon,false
+2013-10-15,Iran,Thailand,2,1,Asian Cup qualification,Iran,false
 2013-10-15,South Korea,Mali,3,1,Friendly,South Korea,false
-2013-10-15,Uzbekistan,Vietnam,3,1,Asian Cup qualifier,Uzbekistan,false
-2013-10-15,Singapore,Syria,2,1,Asian Cup qualifier,Singapore,false
-2013-10-15,Hong Kong,United Arab Emirates,0,4,Asian Cup qualifier,Hong Kong,false
-2013-10-15,Malaysia,Bahrain,1,1,Asian Cup qualifier,Malaysia,false
+2013-10-15,Uzbekistan,Vietnam,3,1,Asian Cup qualification,Uzbekistan,false
+2013-10-15,Singapore,Syria,2,1,Asian Cup qualification,Singapore,false
+2013-10-15,Hong Kong,United Arab Emirates,0,4,Asian Cup qualification,Hong Kong,false
+2013-10-15,Malaysia,Bahrain,1,1,Asian Cup qualification,Malaysia,false
 2013-10-15,Kyrgyzstan,Tajikistan,1,4,Friendly,Kyrgyzstan,false
-2013-10-15,Saudi Arabia,Iraq,2,0,Asian Cup qualifier,Jordan,false
-2013-10-15,Jordan,Oman,0,0,Asian Cup qualifier,Jordan,false
+2013-10-15,Saudi Arabia,Iraq,2,0,Asian Cup qualification,Jordan,false
+2013-10-15,Jordan,Oman,0,0,Asian Cup qualification,Jordan,false
 2013-10-15,Ghana,Egypt,6,1,World Cup qualifier,Ghana,false
 2013-10-15,Brazil,Zambia,2,0,Friendly,China,false
 2013-10-15,Panama,United States,2,3,World Cup qualifier,Panama,false
@@ -7674,16 +7674,16 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-11-14,Suriname,Bonaire,2,0,Friendly tournament,Curaçao,false
 2013-11-14,Belgium,Colombia,0,2,Friendly,Belgium,false
 2013-11-15,India,Philippines,1,1,Friendly,India,false
-2013-11-15,China,Indonesia,1,0,Asian Cup qualifier,China,false
-2013-11-15,Kuwait,Lebanon,0,0,Asian Cup qualifier,Kuwait,false
-2013-11-15,Thailand,Iran,0,3,Asian Cup qualifier,Thailand,false
+2013-11-15,China,Indonesia,1,0,Asian Cup qualification,China,false
+2013-11-15,Kuwait,Lebanon,0,0,Asian Cup qualification,Kuwait,false
+2013-11-15,Thailand,Iran,0,3,Asian Cup qualification,Thailand,false
 2013-11-15,South Korea,Switzerland,2,1,Friendly,South Korea,false
-2013-11-15,Vietnam,Uzbekistan,0,3,Asian Cup qualifier,Vietnam,false
-2013-11-15,Syria,Singapore,4,0,Asian Cup qualifier,Iran,false
-2013-11-15,United Arab Emirates,Hong Kong,4,0,Asian Cup qualifier,United Arab Emirates,false
-2013-11-15,Bahrain,Malaysia,1,0,Asian Cup qualifier,Bahrain,false
-2013-11-15,Saudi Arabia,Iraq,2,1,Asian Cup qualifier,Saudi Arabia,false
-2013-11-15,Qatar,Yemen,4,1,Asian Cup qualifier,United Arab Emirates,false
+2013-11-15,Vietnam,Uzbekistan,0,3,Asian Cup qualification,Vietnam,false
+2013-11-15,Syria,Singapore,4,0,Asian Cup qualification,Iran,false
+2013-11-15,United Arab Emirates,Hong Kong,4,0,Asian Cup qualification,United Arab Emirates,false
+2013-11-15,Bahrain,Malaysia,1,0,Asian Cup qualification,Bahrain,false
+2013-11-15,Saudi Arabia,Iraq,2,1,Asian Cup qualification,Saudi Arabia,false
+2013-11-15,Qatar,Yemen,4,1,Asian Cup qualification,United Arab Emirates,false
 2013-11-15,Swaziland,South Africa,0,3,Friendly,Swaziland,false
 2013-11-15,Libya,Niger,1,1,Friendly,Tunisia,false
 2013-11-15,Scotland,United States,0,0,Friendly,Scotland,false
@@ -7721,18 +7721,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2013-11-18,Moldova,Lithuania,1,1,Friendly,Moldova,false
 2013-11-19,Belgium,Japan,2,3,Friendly,Belgium,false
 2013-11-19,Australia,Costa Rica,1,0,Friendly,Australia,false
-2013-11-19,China,Saudi Arabia,0,0,Asian Cup qualifier,China,false
-2013-11-19,Indonesia,Iraq,0,2,Asian Cup qualifier,Indonesia,false
+2013-11-19,China,Saudi Arabia,0,0,Asian Cup qualification,China,false
+2013-11-19,Indonesia,Iraq,0,2,Asian Cup qualification,Indonesia,false
 2013-11-19,India,Nepal,2,0,Friendly,India,false
-2013-11-19,Lebanon,Iran,1,4,Asian Cup qualifier,Lebanon,false
+2013-11-19,Lebanon,Iran,1,4,Asian Cup qualification,Lebanon,false
 2013-11-19,Russia,South Korea,2,1,Friendly,United Arab Emirates,false
-2013-11-19,United Arab Emirates,Vietnam,5,0,Asian Cup qualifier,United Arab Emirates,false
-2013-11-19,Oman,Syria,1,0,Asian Cup qualifier,Iran,false
-2013-11-19,Hong Kong,Uzbekistan,0,2,Asian Cup qualifier,Hong Kong,false
-2013-11-19,Malaysia,Qatar,0,1,Asian Cup qualifier,Malaysia,false
-2013-11-19,Kuwait,Thailand,3,1,Asian Cup qualifier,Kuwait,false
+2013-11-19,United Arab Emirates,Vietnam,5,0,Asian Cup qualification,United Arab Emirates,false
+2013-11-19,Oman,Syria,1,0,Asian Cup qualification,Iran,false
+2013-11-19,Hong Kong,Uzbekistan,0,2,Asian Cup qualification,Hong Kong,false
+2013-11-19,Malaysia,Qatar,0,1,Asian Cup qualification,Malaysia,false
+2013-11-19,Kuwait,Thailand,3,1,Asian Cup qualification,Kuwait,false
 2013-11-19,Kyrgyzstan,Azerbaijan,0,0,Friendly,Kyrgyzstan,false
-2013-11-19,Bahrain,Yemen,2,0,Asian Cup qualifier,Bahrain,false
+2013-11-19,Bahrain,Yemen,2,0,Asian Cup qualification,Bahrain,false
 2013-11-19,Egypt,Ghana,2,1,World Cup qualifier,Egypt,false
 2013-11-19,South Africa,Spain,1,0,Friendly,South Africa,false
 2013-11-19,Tanzania,Zimbabwe,0,0,Friendly,Tanzania,false
@@ -7810,9 +7810,9 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2014-01-24,Oman,Finland,0,0,Friendly,Oman,false
 2014-01-25,South Korea,Costa Rica,1,0,Friendly,United States,false
 2014-01-29,Mexico,South Korea,4,0,Friendly,United States,false
-2014-01-31,Oman,Jordan,0,0,Asian Cup qualifier,Oman,false
+2014-01-31,Oman,Jordan,0,0,Asian Cup qualification,Oman,false
 2014-02-01,United States,South Korea,2,0,Friendly,United States,false
-2014-02-04,Singapore,Jordan,1,3,Asian Cup qualifier,Singapore,false
+2014-02-04,Singapore,Jordan,1,3,Asian Cup qualification,Singapore,false
 2014-02-07,St Vincent & Grenadines,Dominica,3,2,Friendly,St Vincent & Grenadines,false
 2014-02-09,St Vincent & Grenadines,Dominica,0,0,Friendly,St Vincent & Grenadines,false
 2014-02-19,Lebanon,Pakistan,3,1,Friendly,Lebanon,false
@@ -7820,22 +7820,22 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2014-03-01,Malaysia,Philippines,0,0,Friendly,Malaysia,false
 2014-03-01,Gibraltar,Faroe Islands,1,4,Friendly,Gibraltar,false
 2014-03-02,Barbados,Jamaica,0,2,Friendly,Barbados,false
-2014-03-03,Iran,Kuwait,3,2,Asian Cup qualifier,Iran,false
+2014-03-03,Iran,Kuwait,3,2,Asian Cup qualification,Iran,false
 2014-03-05,Japan,New Zealand,4,2,Friendly,Japan,false
 2014-03-05,Azerbaijan,Philippines,1,0,Friendly,United Arab Emirates,false
 2014-03-05,Ecuador,Australia,4,3,Friendly,England,false
-2014-03-05,Iraq,China,3,1,Asian Cup qualifier,United Arab Emirates,false
-2014-03-05,Saudi Arabia,Indonesia,1,0,Asian Cup qualifier,Saudi Arabia,false
+2014-03-05,Iraq,China,3,1,Asian Cup qualification,United Arab Emirates,false
+2014-03-05,Saudi Arabia,Indonesia,1,0,Asian Cup qualification,Saudi Arabia,false
 2014-03-05,India,Bangladesh,2,2,Friendly,India,false
-2014-03-05,Thailand,Lebanon,2,5,Asian Cup qualifier,Thailand,false
+2014-03-05,Thailand,Lebanon,2,5,Asian Cup qualification,Thailand,false
 2014-03-05,Iran,Guinea,1,2,Friendly,Iran,false
 2014-03-05,Greece,South Korea,0,2,Friendly,Greece,false
-2014-03-05,Vietnam,Hong Kong,3,1,Asian Cup qualifier,Vietnam,false
-2014-03-05,Jordan,Syria,2,1,Asian Cup qualifier,Jordan,false
-2014-03-05,Oman,Singapore,3,1,Asian Cup qualifier,Oman,false
-2014-03-05,Malaysia,Yemen,2,1,Asian Cup qualifier,United Arab Emirates,false
-2014-03-05,Qatar,Bahrain,0,0,Asian Cup qualifier,Qatar,false
-2014-03-05,Uzbekistan,United Arab Emirates,1,1,Asian Cup qualifier,Uzbekistan,false
+2014-03-05,Vietnam,Hong Kong,3,1,Asian Cup qualification,Vietnam,false
+2014-03-05,Jordan,Syria,2,1,Asian Cup qualification,Jordan,false
+2014-03-05,Oman,Singapore,3,1,Asian Cup qualification,Oman,false
+2014-03-05,Malaysia,Yemen,2,1,Asian Cup qualification,United Arab Emirates,false
+2014-03-05,Qatar,Bahrain,0,0,Asian Cup qualification,Qatar,false
+2014-03-05,Uzbekistan,United Arab Emirates,1,1,Asian Cup qualification,Uzbekistan,false
 2014-03-05,Egypt,Bosnia and Herzegovina,2,0,Friendly,Austria,false
 2014-03-05,South Africa,Brazil,0,5,Friendly,South Africa,false
 2014-03-05,Zambia,Uganda,2,1,Friendly,Zambia,false
@@ -7930,28 +7930,28 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2014-05-18,Libya,Rwanda,0,0,African Nations Cup qualifier,Tunisia,false
 2014-05-18,Liberia,Lesotho,1,0,African Nations Cup qualifier,Liberia,false
 2014-05-18,Mozambique,South Sudan,5,0,African Nations Cup qualifier,Mozambique,false
-2014-05-19,Maldives,Myanmar,2,3,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-19,Palestine,Kyrgyzstan,1,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-20,Afghanistan,Philippines,0,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-20,Turkmenistan,Laos,5,1,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-19,Maldives,Myanmar,2,3,Asian Cup qualification,Maldives,false
+2014-05-19,Palestine,Kyrgyzstan,1,0,Asian Cup qualification,Maldives,false
+2014-05-20,Afghanistan,Philippines,0,0,Asian Cup qualification,Maldives,false
+2014-05-20,Turkmenistan,Laos,5,1,Asian Cup qualification,Maldives,false
 2014-05-20,French Guiana,Suriname,0,0,Friendly,French Guiana,false
-2014-05-21,Palestine,Myanmar,2,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-21,Maldives,Kyrgyzstan,2,0,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-21,Palestine,Myanmar,2,0,Asian Cup qualification,Maldives,false
+2014-05-21,Maldives,Kyrgyzstan,2,0,Asian Cup qualification,Maldives,false
 2014-05-21,Burkina Faso,Senegal,1,1,Friendly,Burkina Faso,false
 2014-05-21,Finland,Czechia,2,2,Friendly,Finland,false
 2014-05-21,Kosovo,Turkey,1,6,Friendly,Kosovo,false
 2014-05-21,Liechtenstein,Belarus,1,5,Friendly,Liechtenstein,false
-2014-05-22,Philippines,Laos,2,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-22,Afghanistan,Turkmenistan,3,1,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-22,Philippines,Laos,2,0,Asian Cup qualification,Maldives,false
+2014-05-22,Afghanistan,Turkmenistan,3,1,Asian Cup qualification,Maldives,false
 2014-05-22,Ukraine,Niger,2,1,Friendly,Ukraine,false
 2014-05-22,Hungary,Denmark,2,2,Friendly,Hungary,false
-2014-05-23,Kyrgyzstan,Myanmar,1,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-23,Maldives,Palestine,0,0,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-23,Kyrgyzstan,Myanmar,1,0,Asian Cup qualification,Maldives,false
+2014-05-23,Maldives,Palestine,0,0,Asian Cup qualification,Maldives,false
 2014-05-23,Morocco,Mozambique,4,0,Friendly,Portugal,false
 2014-05-23,Bulgaria,Canada,1,1,Friendly,Austria,false
 2014-05-23,Slovakia,Montenegro,2,0,Friendly,Slovakia,false
-2014-05-24,Philippines,Turkmenistan,2,0,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-24,Afghanistan,Laos,0,0,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-24,Philippines,Turkmenistan,2,0,Asian Cup qualification,Maldives,false
+2014-05-24,Afghanistan,Laos,0,0,Asian Cup qualification,Maldives,false
 2014-05-24,Moldova,Saudi Arabia,4,0,Friendly,Spain,false
 2014-05-25,Guinea,Mali,2,1,Friendly,France,false
 2014-05-25,Senegal,Kosovo,3,1,Friendly,Switzerland,false
@@ -7964,8 +7964,8 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2014-05-26,Russia,Slovakia,1,0,Friendly,Russia,false
 2014-05-26,Estonia,Gibraltar,1,1,Friendly,Estonia,false
 2014-05-27,Japan,Cyprus,1,0,Friendly,Japan,false
-2014-05-27,Maldives,Philippines,2,3,Asian Cup q & Asian Chlg Cup,Maldives,false
-2014-05-27,Palestine,Afghanistan,2,0,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-27,Maldives,Philippines,2,3,Asian Cup qualification,Maldives,false
+2014-05-27,Palestine,Afghanistan,2,0,Asian Cup qualification,Maldives,false
 2014-05-27,Uzbekistan,Oman,0,1,Friendly,Uzbekistan,false
 2014-05-27,Armenia,United Arab Emirates,4,3,Friendly,Switzerland,false
 2014-05-27,Tanzania,Malawi,1,0,Friendly,Tanzania,false
@@ -7978,14 +7978,14 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2014-05-28,Angola,Morocco,2,0,Friendly,Portugal,false
 2014-05-28,Mexico,Israel,3,0,Friendly,Mexico,false
 2014-05-28,Denmark,Sweden,1,0,Friendly,Denmark,false
-2014-05-29,Maldives,Afghanistan,1,1,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-29,Maldives,Afghanistan,1,1,Asian Cup qualification,Maldives,false
 2014-05-29,Georgia,Saudi Arabia,2,0,Friendly,Spain,false
 2014-05-29,Uzbekistan,Oman,0,1,Friendly,Uzbekistan,false
 2014-05-29,Paraguay,Cameroon,2,1,Friendly,Austria,false
 2014-05-29,Turkey,Honduras,2,0,Friendly,United States,false
 2014-05-29,Lithuania,Finland,1,0,Baltic Cup,Latvia,false
 2014-05-29,Latvia,Estonia,0,0,Baltic Cup,Latvia,false
-2014-05-30,Palestine,Philippines,1,0,Asian Cup q & Asian Chlg Cup,Maldives,false
+2014-05-30,Palestine,Philippines,1,0,Asian Cup qualification,Maldives,false
 2014-05-30,Angola,Iran,1,1,Friendly,Austria,false
 2014-05-30,Macedonia,Qatar,0,0,Friendly,Italy,false
 2014-05-30,Chile,Egypt,3,2,Friendly,Chile,false
@@ -9983,12 +9983,12 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-06-01,Czechia,Russia,2,1,Friendly,Austria,false
 2016-06-01,Estonia,Andorra,2,0,Friendly,Estonia,false
 2016-06-01,Latvia,Lithuania,2,1,Baltic Cup,Latvia,false
-2016-06-02,Laos,India,0,1,Asian Cup qualifier,Laos,false
+2016-06-02,Laos,India,0,1,Asian Cup qualification,Laos,false
 2016-06-02,Macedonia,Iran,1,3,Friendly,Macedonia,false
-2016-06-02,Taiwan,Cambodia,2,2,Asian Cup qualifier,Taiwan,false
-2016-06-02,Malaysia,East Timor,3,0,Asian Cup qualifier,Malaysia,false
-2016-06-02,Maldives,Yemen,0,2,Asian Cup qualifier,Maldives,false
-2016-06-02,Tajikistan,Bangladesh,5,0,Asian Cup qualifier,Tajikistan,false
+2016-06-02,Taiwan,Cambodia,2,2,Asian Cup qualification,Taiwan,false
+2016-06-02,Malaysia,East Timor,3,0,Asian Cup qualification,Malaysia,false
+2016-06-02,Maldives,Yemen,0,2,Asian Cup qualification,Maldives,false
+2016-06-02,Tajikistan,Bangladesh,5,0,Asian Cup qualification,Tajikistan,false
 2016-06-02,Seychelles,Algeria,0,2,African Nations Cup qualifier,Seychelles,false
 2016-06-02,England,Portugal,1,0,Friendly,England,false
 2016-06-03,Japan,Bulgaria,7,2,Friendly tournament,Japan,false
@@ -10057,7 +10057,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-06-05,Slovenia,Turkey,0,1,Friendly,Slovenia,false
 2016-06-06,Vietnam,Singapore,3,0,Friendly tournament,Myanmar,false
 2016-06-06,Myanmar,Hong Kong,3,0,Friendly tournament,Myanmar,false
-2016-06-06,Malaysia,East Timor,3,0,Asian Cup qualifier,Malaysia,false
+2016-06-06,Malaysia,East Timor,3,0,Asian Cup qualification,Malaysia,false
 2016-06-06,Panama,Bolivia,2,1,Copa America,United States,false
 2016-06-06,Argentina,Chile,2,1,Copa America,United States,false
 2016-06-06,Italy,Finland,2,0,Friendly,Italy,false
@@ -10066,11 +10066,11 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-06-07,Japan,Bosnia and Herzegovina,1,2,Friendly tournament,Japan,false
 2016-06-07,Australia,Greece,1,2,Friendly,Australia,false
 2016-06-07,China,Kazakhstan,0,1,Friendly,China,false
-2016-06-07,India,Laos,6,1,Asian Cup qualifier,India,false
+2016-06-07,India,Laos,6,1,Asian Cup qualification,India,false
 2016-06-07,Iran,Kyrgyzstan,6,0,Friendly,Iran,false
-2016-06-07,Cambodia,Taiwan,2,0,Asian Cup qualifier,Cambodia,false
-2016-06-07,Yemen,Maldives,2,0,Asian Cup qualifier,Qatar,false
-2016-06-07,Bangladesh,Tajikistan,0,1,Asian Cup qualifier,Bangladesh,false
+2016-06-07,Cambodia,Taiwan,2,0,Asian Cup qualification,Cambodia,false
+2016-06-07,Yemen,Maldives,2,0,Asian Cup qualification,Qatar,false
+2016-06-07,Bangladesh,Tajikistan,0,1,Asian Cup qualification,Bangladesh,false
 2016-06-07,Canada,Uzbekistan,2,1,Friendly,Austria,false
 2016-06-07,United States,Costa Rica,4,0,Copa America,United States,false
 2016-06-07,Curaçao,US Virgin Islands,7,0,CONCACAF Ch & Car Ch q,Curaçao,false
@@ -10300,10 +10300,10 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-09-06,Indonesia,Malaysia,3,0,Friendly,Indonesia,false
 2016-09-06,Syria,South Korea,0,0,World Cup qualifier,Malaysia,false
 2016-09-06,Iraq,Saudi Arabia,1,2,World Cup qualifier,Malaysia,false
-2016-09-06,Maldives,Laos,4,0,Asian Cup qualifier,Maldives,false
+2016-09-06,Maldives,Laos,4,0,Asian Cup qualification,Maldives,false
 2016-09-06,Palestine,Tajikistan,1,1,Friendly,Palestine,false
 2016-09-06,Qatar,Uzbekistan,0,1,World Cup qualifier,Qatar,false
-2016-09-06,Bangladesh,Bhutan,0,0,Asian Cup qualifier,Bangladesh,false
+2016-09-06,Bangladesh,Bhutan,0,0,Asian Cup qualification,Bangladesh,false
 2016-09-06,South Africa,Egypt,1,0,Friendly tournament,South Africa,false
 2016-09-06,Russia,Ghana,1,0,Friendly,Russia,false
 2016-09-06,Cameroon,Gabon,2,1,Friendly,Cameroon,false
@@ -10374,7 +10374,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-10-07,Portugal,Andorra,6,0,World Cup qualifier,Portugal,false
 2016-10-07,Latvia,Faroe Islands,0,2,World Cup qualifier,Latvia,false
 2016-10-07,Greece,Cyprus,2,0,World Cup qualifier,Greece,false
-2016-10-08,Taiwan,East Timor,2,1,Asian Cup qualifier,Taiwan,false
+2016-10-08,Taiwan,East Timor,2,1,Asian Cup qualification,Taiwan,false
 2016-10-08,Burkina Faso,South Africa,1,1,World Cup qualifier,Burkina Faso,false
 2016-10-08,DR Congo,Libya,4,0,World Cup qualifier,DR Congo,false
 2016-10-08,Gabon,Morocco,0,0,World Cup qualifier,Gabon,false
@@ -10415,7 +10415,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-10-09,Israel,Liechtenstein,2,1,World Cup qualifier,Israel,false
 2016-10-10,Philippines,North Korea,1,3,Friendly,Philippines,false
 2016-10-10,Morocco,Jordan,2,1,Friendly,Morocco,false
-2016-10-10,Bhutan,Bangladesh,3,1,Asian Cup qualifier,Bhutan,false
+2016-10-10,Bhutan,Bangladesh,3,1,Asian Cup qualification,Bhutan,false
 2016-10-10,Latvia,Hungary,0,2,World Cup qualifier,Latvia,false
 2016-10-10,Belgium,Gibraltar,6,0,World Cup qualifier,Portugal,false
 2016-10-10,Netherlands,France,0,1,World Cup qualifier,Netherlands,false
@@ -10431,11 +10431,11 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2016-10-11,Malaysia,Afghanistan,1,1,Friendly,Malaysia,false
 2016-10-11,Iran,South Korea,1,0,World Cup qualifier,Iran,false
 2016-10-11,Qatar,Syria,1,0,World Cup qualifier,Qatar,false
-2016-10-11,Taiwan,East Timor,2,1,Asian Cup qualifier,Taiwan,false
+2016-10-11,Taiwan,East Timor,2,1,Asian Cup qualification,Taiwan,false
 2016-10-11,Hong Kong,Singapore,2,0,Friendly,Hong Kong,false
 2016-10-11,Iraq,Thailand,4,0,World Cup qualifier,Iran,false
 2016-10-11,Kyrgyzstan,Turkmenistan,1,0,Friendly,Kyrgyzstan,false
-2016-10-11,Laos,Maldives,1,1,Asian Cup qualifier,Laos,false
+2016-10-11,Laos,Maldives,1,1,Asian Cup qualification,Laos,false
 2016-10-11,Saudi Arabia,United Arab Emirates,3,0,World Cup qualifier,Saudi Arabia,false
 2016-10-11,Oman,Bahrain,2,2,Friendly,Oman,false
 2016-10-11,South Africa,Ghana,1,1,Friendly,South Africa,false
@@ -10763,7 +10763,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-03-25,Cyprus,Estonia,0,0,World Cup qualifier,Cyprus,false
 2017-03-25,Andorra,Faroe Islands,0,0,World Cup qualifier,Andorra,false
 2017-03-25,Bosnia and Herzegovina,Gibraltar,5,0,World Cup qualifier,Bosnia and Herzegovina,false
-2017-03-26,Taiwan,Turkmenistan,1,3,Asian Cup qualifier,Taiwan,false
+2017-03-26,Taiwan,Turkmenistan,1,3,Asian Cup qualification,Taiwan,false
 2017-03-26,Kenya,DR Congo,2,1,Friendly,Kenya,false
 2017-03-26,Zimbabwe,Zambia,0,0,Friendly,Zimbabwe,false
 2017-03-26,Madagascar,São Tomé and Príncipe,3,2,African Nations Cup qualifier,Madagascar,false
@@ -10782,20 +10782,20 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-03-27,Mauritania,Congo,2,1,Friendly,Mauritania,false
 2017-03-27,Turkey,Moldova,3,1,Friendly,Turkey,false
 2017-03-28,Japan,Thailand,4,0,World Cup qualifier,Japan,false
-2017-03-28,Philippines,Nepal,4,1,Asian Cup qualifier,Philippines,false
+2017-03-28,Philippines,Nepal,4,1,Asian Cup qualification,Philippines,false
 2017-03-28,Australia,United Arab Emirates,2,0,World Cup qualifier,Australia,false
 2017-03-28,Iran,China,1,0,World Cup qualifier,Iran,false
-2017-03-28,Myanmar,India,0,1,Asian Cup qualifier,Myanmar,false
-2017-03-28,Lebanon,Hong Kong,2,0,Asian Cup qualifier,Lebanon,false
-2017-03-28,Afghanistan,Vietnam,1,1,Asian Cup qualifier,Tajikistan,false
+2017-03-28,Myanmar,India,0,1,Asian Cup qualification,Myanmar,false
+2017-03-28,Lebanon,Hong Kong,2,0,Asian Cup qualification,Lebanon,false
+2017-03-28,Afghanistan,Vietnam,1,1,Asian Cup qualification,Tajikistan,false
 2017-03-28,South Korea,Syria,1,0,World Cup qualifier,South Korea,false
-2017-03-28,Kyrgyzstan,Macao,1,0,Asian Cup qualifier,Kyrgyzstan,false
-2017-03-28,Bahrain,Singapore,0,0,Asian Cup qualifier,Bahrain,false
-2017-03-28,Jordan,Cambodia,7,0,Asian Cup qualifier,Jordan,false
+2017-03-28,Kyrgyzstan,Macao,1,0,Asian Cup qualification,Kyrgyzstan,false
+2017-03-28,Bahrain,Singapore,0,0,Asian Cup qualification,Bahrain,false
+2017-03-28,Jordan,Cambodia,7,0,Asian Cup qualification,Jordan,false
 2017-03-28,Saudi Arabia,Iraq,1,0,World Cup qualifier,Saudi Arabia,false
-2017-03-28,Maldives,Palestine,0,3,Asian Cup qualifier,Maldives,false
-2017-03-28,Yemen,Tajikistan,2,1,Asian Cup qualifier,Qatar,false
-2017-03-28,Oman,Bhutan,14,0,Asian Cup qualifier,Oman,false
+2017-03-28,Maldives,Palestine,0,3,Asian Cup qualification,Maldives,false
+2017-03-28,Yemen,Tajikistan,2,1,Asian Cup qualification,Qatar,false
+2017-03-28,Oman,Bhutan,14,0,Asian Cup qualification,Oman,false
 2017-03-28,Uzbekistan,Qatar,1,0,World Cup qualifier,Uzbekistan,false
 2017-03-28,Egypt,Togo,3,0,Friendly,Egypt,false
 2017-03-28,South Africa,Angola,0,0,Friendly,South Africa,false
@@ -10911,7 +10911,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-06-09,Belarus,Bulgaria,2,1,World Cup qualifier,Belarus,false
 2017-06-09,Bosnia and Herzegovina,Greece,0,0,World Cup qualifier,Bosnia and Herzegovina,false
 2017-06-09,Cyprus,Gibraltar,2,1,World Cup qualifier,Portugal,false
-2017-06-10,Singapore,Taiwan,1,2,Asian Cup qualifier,Singapore,false
+2017-06-10,Singapore,Taiwan,1,2,Asian Cup qualification,Singapore,false
 2017-06-10,Nigeria,South Africa,0,2,African Nations Cup qualifier,Nigeria,false
 2017-06-10,Sierra Leone,Kenya,2,1,African Nations Cup qualifier,Sierra Leone,false
 2017-06-10,Tanzania,Lesotho,1,1,African Nations Cup qualifier,Tanzania,false
@@ -10959,23 +10959,23 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-06-12,Belarus,New Zealand,1,0,Friendly,Belarus,false
 2017-06-12,Latvia,Estonia,1,2,Friendly,Latvia,false
 2017-06-13,Iraq,Japan,1,1,World Cup qualifier,Iran,false
-2017-06-13,Tajikistan,Philippines,3,4,Asian Cup qualifier,Tajikistan,false
+2017-06-13,Tajikistan,Philippines,3,4,Asian Cup qualification,Tajikistan,false
 2017-06-13,Australia,Brazil,0,4,Friendly,Australia,false
 2017-06-13,Syria,China,2,2,World Cup qualifier,Malaysia,false
 2017-06-13,Indonesia,Puerto Rico,0,0,Friendly,Indonesia,false
-2017-06-13,India,Kyrgyzstan,1,0,Asian Cup qualifier,India,false
-2017-06-13,Malaysia,Lebanon,1,2,Asian Cup qualifier,Malaysia,false
-2017-06-13,Cambodia,Afghanistan,1,0,Asian Cup qualifier,Cambodia,false
+2017-06-13,India,Kyrgyzstan,1,0,Asian Cup qualification,India,false
+2017-06-13,Malaysia,Lebanon,1,2,Asian Cup qualification,Malaysia,false
+2017-06-13,Cambodia,Afghanistan,1,0,Asian Cup qualification,Cambodia,false
 2017-06-13,Qatar,South Korea,3,2,World Cup qualifier,Qatar,false
-2017-06-13,Vietnam,Jordan,0,0,Asian Cup qualifier,Vietnam,false
-2017-06-13,Macao,Myanmar,0,4,Asian Cup qualifier,Macao,false
-2017-06-13,Hong Kong,North Korea,1,1,Asian Cup qualifier,Hong Kong,false
+2017-06-13,Vietnam,Jordan,0,0,Asian Cup qualification,Vietnam,false
+2017-06-13,Macao,Myanmar,0,4,Asian Cup qualification,Macao,false
+2017-06-13,Hong Kong,North Korea,1,1,Asian Cup qualification,Hong Kong,false
 2017-06-13,Singapore,Argentina,0,6,Friendly,Singapore,false
 2017-06-13,Thailand,United Arab Emirates,1,1,World Cup qualifier,Thailand,false
-2017-06-13,Palestine,Oman,2,1,Asian Cup qualifier,Palestine,false
-2017-06-13,Nepal,Yemen,0,0,Asian Cup qualifier,Nepal,false
-2017-06-13,Turkmenistan,Bahrain,1,2,Asian Cup qualifier,Turkmenistan,false
-2017-06-13,Bhutan,Maldives,0,2,Asian Cup qualifier,Bhutan,false
+2017-06-13,Palestine,Oman,2,1,Asian Cup qualification,Palestine,false
+2017-06-13,Nepal,Yemen,0,0,Asian Cup qualification,Nepal,false
+2017-06-13,Turkmenistan,Bahrain,1,2,Asian Cup qualification,Turkmenistan,false
+2017-06-13,Bhutan,Maldives,0,2,Asian Cup qualification,Bhutan,false
 2017-06-13,South Africa,Zambia,1,2,Friendly,South Africa,false
 2017-06-13,Colombia,Cameroon,4,0,Friendly,Spain,false
 2017-06-13,Canada,Curaçao,2,1,Friendly,Canada,false
@@ -11167,22 +11167,22 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-09-04,Slovenia,Lithuania,4,0,World Cup qualifier,Slovenia,false
 2017-09-04,Azerbaijan,San Marino,5,1,World Cup qualifier,Azerbaijan,false
 2017-09-05,Saudi Arabia,Japan,1,0,World Cup qualifier,Saudi Arabia,false
-2017-09-05,Philippines,Yemen,2,2,Asian Cup qualifier,Philippines,false
+2017-09-05,Philippines,Yemen,2,2,Asian Cup qualification,Philippines,false
 2017-09-05,Australia,Thailand,2,1,World Cup qualifier,Australia,false
 2017-09-05,Qatar,China,1,2,World Cup qualifier,Qatar,false
-2017-09-05,Macao,India,0,2,Asian Cup qualifier,Macao,false
-2017-09-05,North Korea,Lebanon,2,2,Asian Cup qualifier,North Korea,false
-2017-09-05,Jordan,Afghanistan,4,1,Asian Cup qualifier,Jordan,false
+2017-09-05,Macao,India,0,2,Asian Cup qualification,Macao,false
+2017-09-05,North Korea,Lebanon,2,2,Asian Cup qualification,North Korea,false
+2017-09-05,Jordan,Afghanistan,4,1,Asian Cup qualification,Jordan,false
 2017-09-05,Iran,Syria,2,2,World Cup qualifier,Iran,false
 2017-09-05,Uzbekistan,South Korea,0,0,World Cup qualifier,Uzbekistan,false
-2017-09-05,Cambodia,Vietnam,1,2,Asian Cup qualifier,Cambodia,false
-2017-09-05,Bahrain,Taiwan,5,0,Asian Cup qualifier,Bahrain,false
-2017-09-05,Malaysia,Hong Kong,1,1,Asian Cup qualifier,Malaysia,false
-2017-09-05,Singapore,Turkmenistan,1,1,Asian Cup qualifier,Singapore,false
+2017-09-05,Cambodia,Vietnam,1,2,Asian Cup qualification,Cambodia,false
+2017-09-05,Bahrain,Taiwan,5,0,Asian Cup qualification,Bahrain,false
+2017-09-05,Malaysia,Hong Kong,1,1,Asian Cup qualification,Malaysia,false
+2017-09-05,Singapore,Turkmenistan,1,1,Asian Cup qualification,Singapore,false
 2017-09-05,Iraq,United Arab Emirates,1,0,World Cup qualifier,Jordan,false
-2017-09-05,Bhutan,Palestine,0,2,Asian Cup qualifier,Bhutan,false
-2017-09-05,Oman,Maldives,5,0,Asian Cup qualifier,Oman,false
-2017-09-05,Nepal,Tajikistan,1,2,Asian Cup qualifier,Nepal,false
+2017-09-05,Bhutan,Palestine,0,2,Asian Cup qualification,Bhutan,false
+2017-09-05,Oman,Maldives,5,0,Asian Cup qualification,Oman,false
+2017-09-05,Nepal,Tajikistan,1,2,Asian Cup qualification,Nepal,false
 2017-09-05,Egypt,Uganda,1,0,World Cup qualifier,Egypt,false
 2017-09-05,South Africa,Cape Verde,1,2,World Cup qualifier,South Africa,false
 2017-09-05,Algeria,Zambia,0,1,World Cup qualifier,Algeria,false
@@ -11295,22 +11295,22 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-10-09,Serbia,Georgia,1,0,World Cup qualifier,Serbia,false
 2017-10-09,Macedonia,Liechtenstein,4,0,World Cup qualifier,Macedonia,false
 2017-10-10,Japan,Haiti,3,3,Friendly,Japan,false
-2017-10-10,Philippines,Yemen,1,1,Asian Cup qualifier,Qatar,false
+2017-10-10,Philippines,Yemen,1,1,Asian Cup qualification,Qatar,false
 2017-10-10,Australia,Syria,2,1,World Cup qualifier,Australia,false
-2017-10-10,Lebanon,North Korea,5,0,Asian Cup qualifier,Lebanon,false
-2017-10-10,Afghanistan,Jordan,3,3,Asian Cup qualifier,Tajikistan,false
+2017-10-10,Lebanon,North Korea,5,0,Asian Cup qualification,Lebanon,false
+2017-10-10,Afghanistan,Jordan,3,3,Asian Cup qualification,Tajikistan,false
 2017-10-10,Russia,Iran,1,1,Friendly,Russia,false
 2017-10-10,Morocco,South Korea,3,1,Friendly,Switzerland,false
-2017-10-10,Vietnam,Cambodia,5,0,Asian Cup qualifier,Vietnam,false
-2017-10-10,Taiwan,Bahrain,2,1,Asian Cup qualifier,Taiwan,false
-2017-10-10,Myanmar,Kyrgyzstan,2,2,Asian Cup qualifier,Myanmar,false
-2017-10-10,Hong Kong,Malaysia,2,0,Asian Cup qualifier,Hong Kong,false
-2017-10-10,Turkmenistan,Singapore,2,1,Asian Cup qualifier,Turkmenistan,false
+2017-10-10,Vietnam,Cambodia,5,0,Asian Cup qualification,Vietnam,false
+2017-10-10,Taiwan,Bahrain,2,1,Asian Cup qualification,Taiwan,false
+2017-10-10,Myanmar,Kyrgyzstan,2,2,Asian Cup qualification,Myanmar,false
+2017-10-10,Hong Kong,Malaysia,2,0,Asian Cup qualification,Hong Kong,false
+2017-10-10,Turkmenistan,Singapore,2,1,Asian Cup qualification,Turkmenistan,false
 2017-10-10,Saudi Arabia,Ghana,0,3,Friendly,Saudi Arabia,false
-2017-10-10,Palestine,Bhutan,10,0,Asian Cup qualifier,Palestine,false
-2017-10-10,Maldives,Oman,1,3,Asian Cup qualifier,Maldives,false
+2017-10-10,Palestine,Bhutan,10,0,Asian Cup qualification,Palestine,false
+2017-10-10,Maldives,Oman,1,3,Asian Cup qualification,Maldives,false
 2017-10-10,Qatar,Curaçao,1,2,Friendly,Qatar,false
-2017-10-10,Tajikistan,Nepal,3,0,Asian Cup qualifier,Tajikistan,false
+2017-10-10,Tajikistan,Nepal,3,0,Asian Cup qualification,Tajikistan,false
 2017-10-10,Benin,Gabon,1,0,Friendly,France,false
 2017-10-10,Mozambique,Cape Verde,1,0,Friendly,Portugal,false
 2017-10-10,Trinidad and Tobago,United States,2,1,World Cup qualifier,Trinidad and Tobago,false
@@ -11330,7 +11330,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-10-10,Estonia,Bosnia and Herzegovina,1,2,World Cup qualifier,Estonia,false
 2017-10-10,Latvia,Andorra,4,0,World Cup qualifier,Latvia,false
 2017-10-10,Greece,Gibraltar,4,0,World Cup qualifier,Greece,false
-2017-10-11,India,Macao,4,1,Asian Cup qualifier,India,false
+2017-10-11,India,Macao,4,1,Asian Cup qualification,India,false
 2017-10-24,Grenada,Panama,0,5,Friendly,Grenada,false
 2017-10-28,Bermuda,Barbados,2,3,Friendly,Bermuda,false
 2017-11-07,Saudi Arabia,Latvia,2,0,Friendly,Portugal,false
@@ -11353,7 +11353,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-11-10,Honduras,Australia,0,0,World Cup qualifier,Honduras,false
 2017-11-10,China,Serbia,0,2,Friendly,China,false
 2017-11-10,South Korea,Colombia,2,1,Friendly,South Korea,false
-2017-11-10,North Korea,Malaysia,4,1,Asian Cup qualifier,Thailand,false
+2017-11-10,North Korea,Malaysia,4,1,Asian Cup qualification,Thailand,false
 2017-11-10,Portugal,Saudi Arabia,3,0,Friendly,Portugal,false
 2017-11-10,United Arab Emirates,Haiti,0,1,Friendly,United Arab Emirates,false
 2017-11-10,South Africa,Senegal,0,2,World Cup qualifier,South Africa,false
@@ -11390,7 +11390,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-11-12,Greece,Croatia,0,0,World Cup qualifier,Greece,false
 2017-11-13,Iran,Venezuela,1,0,Friendly,Netherlands,false
 2017-11-13,Iraq,Syria,1,1,Friendly,Iraq,false
-2017-11-13,North Korea,Malaysia,4,1,Asian Cup qualifier,Thailand,false
+2017-11-13,North Korea,Malaysia,4,1,Asian Cup qualification,Thailand,false
 2017-11-13,Bulgaria,Saudi Arabia,1,0,Friendly,Portugal,false
 2017-11-13,Poland,Mexico,0,1,Friendly,Poland,false
 2017-11-13,Italy,Sweden,0,0,World Cup qualifier,Italy,false
@@ -11399,19 +11399,19 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2017-11-13,Georgia,Belarus,2,2,Friendly,Georgia,false
 2017-11-13,Armenia,Cyprus,3,2,Friendly,Armenia,false
 2017-11-14,Belgium,Japan,1,0,Friendly,Belgium,false
-2017-11-14,Nepal,Philippines,0,0,Asian Cup qualifier,Nepal,false
+2017-11-14,Nepal,Philippines,0,0,Asian Cup qualification,Nepal,false
 2017-11-14,China,Colombia,0,4,Friendly,China,false
-2017-11-14,India,Myanmar,2,2,Asian Cup qualifier,India,false
-2017-11-14,Hong Kong,Lebanon,0,1,Asian Cup qualifier,Hong Kong,false
-2017-11-14,Vietnam,Afghanistan,0,0,Asian Cup qualifier,Vietnam,false
+2017-11-14,India,Myanmar,2,2,Asian Cup qualification,India,false
+2017-11-14,Hong Kong,Lebanon,0,1,Asian Cup qualification,Hong Kong,false
+2017-11-14,Vietnam,Afghanistan,0,0,Asian Cup qualification,Vietnam,false
 2017-11-14,South Korea,Serbia,1,1,Friendly,South Korea,false
-2017-11-14,Macao,Kyrgyzstan,3,4,Asian Cup qualifier,Macao,false
-2017-11-14,Turkmenistan,Taiwan,2,1,Asian Cup qualifier,Turkmenistan,false
-2017-11-14,Singapore,Bahrain,0,3,Asian Cup qualifier,Singapore,false
-2017-11-14,Cambodia,Jordan,0,1,Asian Cup qualifier,Cambodia,false
-2017-11-14,Palestine,Maldives,8,1,Asian Cup qualifier,Palestine,false
-2017-11-14,Tajikistan,Yemen,0,0,Asian Cup qualifier,Tajikistan,false
-2017-11-14,Bhutan,Oman,2,4,Asian Cup qualifier,Bhutan,false
+2017-11-14,Macao,Kyrgyzstan,3,4,Asian Cup qualification,Macao,false
+2017-11-14,Turkmenistan,Taiwan,2,1,Asian Cup qualification,Turkmenistan,false
+2017-11-14,Singapore,Bahrain,0,3,Asian Cup qualification,Singapore,false
+2017-11-14,Cambodia,Jordan,0,1,Asian Cup qualification,Cambodia,false
+2017-11-14,Palestine,Maldives,8,1,Asian Cup qualification,Palestine,false
+2017-11-14,Tajikistan,Yemen,0,0,Asian Cup qualification,Tajikistan,false
+2017-11-14,Bhutan,Oman,2,4,Asian Cup qualification,Bhutan,false
 2017-11-14,Qatar,Iceland,1,1,Friendly tournament,Qatar,false
 2017-11-14,United Arab Emirates,Uzbekistan,1,0,Friendly,United Arab Emirates,false
 2017-11-14,Senegal,South Africa,2,1,World Cup qualifier,Senegal,false
@@ -11529,7 +11529,7 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-03-22,China,Wales,0,6,Friendly tournament,China,false
 2018-03-22,Malaysia,Mongolia,2,2,Friendly,Malaysia,false
 2018-03-22,Macao,Mauritius,0,1,Friendly,Macao,false
-2018-03-22,Kyrgyzstan,Myanmar,5,1,Asian Cup qualifier,South Korea,false
+2018-03-22,Kyrgyzstan,Myanmar,5,1,Asian Cup qualification,South Korea,false
 2018-03-22,Thailand,Gabon,0,0,King's Cup,Thailand,false
 2018-03-22,Bahrain,Palestine,0,0,Friendly,Bahrain,false
 2018-03-22,Slovakia,United Arab Emirates,2,1,King's Cup,Thailand,false
@@ -11605,25 +11605,25 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-03-26,Finland,Malta,5,0,Friendly,Turkey,false
 2018-03-26,Bulgaria,Kazakhstan,2,1,Friendly,Hungary,false
 2018-03-27,Ukraine,Japan,2,1,Friendly,Belgium,false
-2018-03-27,Philippines,Tajikistan,2,1,Asian Cup qualifier,Philippines,false
+2018-03-27,Philippines,Tajikistan,2,1,Asian Cup qualification,Philippines,false
 2018-03-27,Australia,Colombia,0,0,Friendly,England,false
-2018-03-27,Kyrgyzstan,India,2,1,Asian Cup qualifier,Kyrgyzstan,false
-2018-03-27,Lebanon,Malaysia,2,1,Asian Cup qualifier,Lebanon,false
-2018-03-27,Afghanistan,Cambodia,2,1,Asian Cup qualifier,Tajikistan,false
+2018-03-27,Kyrgyzstan,India,2,1,Asian Cup qualification,Kyrgyzstan,false
+2018-03-27,Lebanon,Malaysia,2,1,Asian Cup qualification,Lebanon,false
+2018-03-27,Afghanistan,Cambodia,2,1,Asian Cup qualification,Tajikistan,false
 2018-03-27,Iran,Algeria,2,1,Friendly,Austria,false
 2018-03-27,Mongolia,Mauritius,0,2,Friendly,Mongolia,false
 2018-03-27,Poland,South Korea,3,2,Friendly,Poland,false
-2018-03-27,Jordan,Vietnam,1,1,Asian Cup qualifier,Jordan,false
-2018-03-27,Myanmar,Macao,1,0,Asian Cup qualifier,Myanmar,false
+2018-03-27,Jordan,Vietnam,1,1,Asian Cup qualification,Jordan,false
+2018-03-27,Myanmar,Macao,1,0,Asian Cup qualification,Myanmar,false
 2018-03-27,Iraq,Syria,1,1,Friendly tournament,Iraq,false
-2018-03-27,Taiwan,Singapore,1,0,Asian Cup qualifier,Taiwan,false
-2018-03-27,North Korea,Hong Kong,2,0,Asian Cup qualifier,North Korea,false
+2018-03-27,Taiwan,Singapore,1,0,Asian Cup qualification,Taiwan,false
+2018-03-27,North Korea,Hong Kong,2,0,Asian Cup qualification,North Korea,false
 2018-03-27,Laos,Bangladesh,2,2,Friendly,Laos,false
 2018-03-27,Belgium,Saudi Arabia,4,0,Friendly,Belgium,false
-2018-03-27,Oman,Palestine,1,0,Asian Cup qualifier,Oman,false
-2018-03-27,Yemen,Nepal,2,1,Asian Cup qualifier,Qatar,false
-2018-03-27,Bahrain,Turkmenistan,4,0,Asian Cup qualifier,Bahrain,false
-2018-03-27,Maldives,Bhutan,7,0,Asian Cup qualifier,Maldives,false
+2018-03-27,Oman,Palestine,1,0,Asian Cup qualification,Oman,false
+2018-03-27,Yemen,Nepal,2,1,Asian Cup qualification,Qatar,false
+2018-03-27,Bahrain,Turkmenistan,4,0,Asian Cup qualification,Bahrain,false
+2018-03-27,Maldives,Bhutan,7,0,Asian Cup qualification,Maldives,false
 2018-03-27,Morocco,Uzbekistan,2,0,Friendly,Morocco,false
 2018-03-27,Greece,Egypt,1,0,Friendly,Switzerland,false
 2018-03-27,Central African Republic,Kenya,3,2,Friendly,Morocco,false
@@ -11902,20 +11902,20 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-09-06,Kyrgyzstan,Palestine,1,1,Friendly,Kyrgyzstan,false
 2018-09-06,Trinidad and Tobago,United Arab Emirates,2,0,Friendly,Spain,false
 2018-09-06,Nepal,Bhutan,4,0,South Asian Championship,Bangladesh,false
-2018-09-06,Guyana,Barbados,2,2,CONCACAF Nations League q,Guyana,false
-2018-09-06,Dominica,Suriname,0,0,CONCACAF Nations League q,Guadeloupe,false
+2018-09-06,Guyana,Barbados,2,2,CONCACAF Nations League qualifier,Guyana,false
+2018-09-06,Dominica,Suriname,0,0,CONCACAF Nations League qualifier,Guadeloupe,false
 2018-09-06,Netherlands,Peru,2,1,Friendly,Netherlands,false
-2018-09-06,Wales,Ireland,4,1,European Nations League B,Wales,false
+2018-09-06,Wales,Ireland,4,1,UEFA Nations League,Wales,false
 2018-09-06,Austria,Sweden,2,0,Friendly,Austria,false
-2018-09-06,Germany,France,0,0,European Nations League A,Germany,false
-2018-09-06,Norway,Cyprus,2,0,European Nations League C,Norway,false
+2018-09-06,Germany,France,0,0,UEFA Nations League,Germany,false
+2018-09-06,Norway,Cyprus,2,0,UEFA Nations League,Norway,false
 2018-09-06,Portugal,Croatia,1,1,Friendly,Portugal,false
-2018-09-06,Latvia,Andorra,0,0,European Nations League D,Latvia,false
-2018-09-06,Slovenia,Bulgaria,1,2,European Nations League C,Slovenia,false
-2018-09-06,Czechia,Ukraine,1,2,European Nations League B,Czechia,false
-2018-09-06,Armenia,Liechtenstein,2,1,European Nations League D,Armenia,false
-2018-09-06,Kazakhstan,Georgia,0,2,European Nations League D,Kazakhstan,false
-2018-09-06,Gibraltar,Macedonia,0,2,European Nations League D,Gibraltar,false
+2018-09-06,Latvia,Andorra,0,0,UEFA Nations League,Latvia,false
+2018-09-06,Slovenia,Bulgaria,1,2,UEFA Nations League,Slovenia,false
+2018-09-06,Czechia,Ukraine,1,2,UEFA Nations League,Czechia,false
+2018-09-06,Armenia,Liechtenstein,2,1,UEFA Nations League,Armenia,false
+2018-09-06,Kazakhstan,Georgia,0,2,UEFA Nations League,Kazakhstan,false
+2018-09-06,Gibraltar,Macedonia,0,2,UEFA Nations League,Gibraltar,false
 2018-09-07,Qatar,China,1,0,Friendly,Qatar,false
 2018-09-07,South Korea,Costa Rica,2,0,Friendly,South Korea,false
 2018-09-07,Taiwan,Malaysia,2,0,Friendly,Taiwan,false
@@ -11925,18 +11925,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-09-07,Argentina,Guatemala,3,0,Friendly,United States,false
 2018-09-07,Uruguay,Mexico,4,1,Friendly,United States,false
 2018-09-07,Ecuador,Jamaica,2,0,Friendly,United States,false
-2018-09-07,Anguilla,French Guiana,0,5,CONCACAF Nations League q,Anguilla,false
-2018-09-07,Antigua and Barbuda,Saint Lucia,0,3,CONCACAF Nations League q,Antigua and Barbuda,false
-2018-09-07,Belize,Bahamas,4,0,CONCACAF Nations League q,Belize,false
+2018-09-07,Anguilla,French Guiana,0,5,CONCACAF Nations League qualifier,Anguilla,false
+2018-09-07,Antigua and Barbuda,Saint Lucia,0,3,CONCACAF Nations League qualifier,Antigua and Barbuda,false
+2018-09-07,Belize,Bahamas,4,0,CONCACAF Nations League qualifier,Belize,false
 2018-09-07,Colombia,Venezuela,2,1,Friendly,United States,false
 2018-09-07,Scotland,Belgium,0,4,Friendly,Scotland,false
-2018-09-07,Italy,Poland,1,1,European Nations League A,Italy,false
-2018-09-07,Turkey,Russia,1,2,European Nations League B,Turkey,false
-2018-09-07,Romania,Montenegro,0,0,European Nations League C,Romania,false
-2018-09-07,Lithuania,Serbia,0,1,European Nations League C,Lithuania,false
-2018-09-07,Albania,Israel,1,0,European Nations League C,Albania,false
-2018-09-07,Faroe Islands,Malta,3,1,European Nations League D,Faroe Islands,false
-2018-09-07,Azerbaijan,Kosovo,0,0,European Nations League D,Azerbaijan,false
+2018-09-07,Italy,Poland,1,1,UEFA Nations League,Italy,false
+2018-09-07,Turkey,Russia,1,2,UEFA Nations League,Turkey,false
+2018-09-07,Romania,Montenegro,0,0,UEFA Nations League,Romania,false
+2018-09-07,Lithuania,Serbia,0,1,UEFA Nations League,Lithuania,false
+2018-09-07,Albania,Israel,1,0,UEFA Nations League,Albania,false
+2018-09-07,Faroe Islands,Malta,3,1,UEFA Nations League,Faroe Islands,false
+2018-09-07,Azerbaijan,Kosovo,0,0,UEFA Nations League,Azerbaijan,false
 2018-09-08,Pakistan,Bhutan,3,0,South Asian Championship,Bangladesh,false
 2018-09-08,Brunei,East Timor,1,0,Southeast Asian Champ qual,Brunei,false
 2018-09-08,Bangladesh,Nepal,0,2,South Asian Championship,Bangladesh,false
@@ -11953,16 +11953,16 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-09-08,Morocco,Malawi,3,0,African Nations Cup qualifier,Morocco,false
 2018-09-08,Comoros,Cameroon,1,1,African Nations Cup qualifier,Comoros,false
 2018-09-08,Mauritania,Burkina Faso,2,0,African Nations Cup qualifier,Mauritania,false
-2018-09-08,Montserrat,El Salvador,1,2,CONCACAF Nations League q,Montserrat,false
-2018-09-08,St Vincent & Grenadines,Nicaragua,0,2,CONCACAF Nations League q,St Vincent & Grenadines,false
-2018-09-08,Cuba,Turks and Caicos Islands,11,0,CONCACAF Nations League q,Cuba,false
-2018-09-08,England,Spain,1,2,European Nations League A,England,false
-2018-09-08,Northern Ireland,Bosnia and Herzegovina,1,2,European Nations League B,Northern Ireland,false
-2018-09-08,Finland,Hungary,1,0,European Nations League C,Finland,false
-2018-09-08,Switzerland,Iceland,6,0,European Nations League A,Switzerland,false
-2018-09-08,Luxembourg,Moldova,4,0,European Nations League D,Luxembourg,false
-2018-09-08,Estonia,Greece,0,1,European Nations League C,Estonia,false
-2018-09-08,Belarus,San Marino,5,0,European Nations League D,Belarus,false
+2018-09-08,Montserrat,El Salvador,1,2,CONCACAF Nations League qualifier,Montserrat,false
+2018-09-08,St Vincent & Grenadines,Nicaragua,0,2,CONCACAF Nations League qualifier,St Vincent & Grenadines,false
+2018-09-08,Cuba,Turks and Caicos Islands,11,0,CONCACAF Nations League qualifier,Cuba,false
+2018-09-08,England,Spain,1,2,UEFA Nations League,England,false
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,1,2,UEFA Nations League,Northern Ireland,false
+2018-09-08,Finland,Hungary,1,0,UEFA Nations League,Finland,false
+2018-09-08,Switzerland,Iceland,6,0,UEFA Nations League,Switzerland,false
+2018-09-08,Luxembourg,Moldova,4,0,UEFA Nations League,Luxembourg,false
+2018-09-08,Estonia,Greece,0,1,UEFA Nations League,Estonia,false
+2018-09-08,Belarus,San Marino,5,0,UEFA Nations League,Belarus,false
 2018-09-09,India,Maldives,2,0,South Asian Championship,Bangladesh,false
 2018-09-09,Lebanon,Oman,0,0,Friendly,Jordan,false
 2018-09-09,Congo,Zimbabwe,1,1,African Nations Cup qualifier,Congo,false
@@ -11976,36 +11976,36 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-09-09,South Sudan,Mali,0,3,African Nations Cup qualifier,South Sudan,false
 2018-09-09,Rwanda,Ivory Coast,1,2,African Nations Cup qualifier,Rwanda,false
 2018-09-09,Angola,Botswana,1,0,African Nations Cup qualifier,Angola,false
-2018-09-09,Canada,US Virgin Islands,8,0,CONCACAF Nations League q,United States,false
-2018-09-09,Aruba,Bermuda,3,1,CONCACAF Nations League q,Curaçao,false
-2018-09-09,Jamaica,Cayman Islands,4,0,CONCACAF Nations League q,Jamaica,false
-2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League q,Saint Kitts and Nevis,false
-2018-09-09,Dominican Republic,Bonaire,5,0,CONCACAF Nations League q,Curaçao,false
+2018-09-09,Canada,US Virgin Islands,8,0,CONCACAF Nations League qualifier,United States,false
+2018-09-09,Aruba,Bermuda,3,1,CONCACAF Nations League qualifier,Curaçao,false
+2018-09-09,Jamaica,Cayman Islands,4,0,CONCACAF Nations League qualifier,Jamaica,false
+2018-09-09,Saint Kitts and Nevis,Puerto Rico,1,0,CONCACAF Nations League qualifier,Saint Kitts and Nevis,false
+2018-09-09,Dominican Republic,Bonaire,5,0,CONCACAF Nations League qualifier,Curaçao,false
 2018-09-09,Germany,Peru,2,1,Friendly,Germany,false
-2018-09-09,Denmark,Wales,2,0,European Nations League B,Denmark,false
-2018-09-09,France,Netherlands,2,1,European Nations League A,France,false
-2018-09-09,Bulgaria,Norway,1,0,European Nations League C,Bulgaria,false
-2018-09-09,Georgia,Latvia,1,0,European Nations League D,Georgia,false
-2018-09-09,Ukraine,Slovakia,1,0,European Nations League B,Ukraine,false
-2018-09-09,Cyprus,Slovenia,2,1,European Nations League C,Cyprus,false
-2018-09-09,Macedonia,Armenia,2,0,European Nations League D,Macedonia,false
-2018-09-09,Liechtenstein,Gibraltar,2,0,European Nations League D,Liechtenstein,false
+2018-09-09,Denmark,Wales,2,0,UEFA Nations League,Denmark,false
+2018-09-09,France,Netherlands,2,1,UEFA Nations League,France,false
+2018-09-09,Bulgaria,Norway,1,0,UEFA Nations League,Bulgaria,false
+2018-09-09,Georgia,Latvia,1,0,UEFA Nations League,Georgia,false
+2018-09-09,Ukraine,Slovakia,1,0,UEFA Nations League,Ukraine,false
+2018-09-09,Cyprus,Slovenia,2,1,UEFA Nations League,Cyprus,false
+2018-09-09,Macedonia,Armenia,2,0,UEFA Nations League,Macedonia,false
+2018-09-09,Liechtenstein,Gibraltar,2,0,UEFA Nations League,Liechtenstein,false
 2018-09-10,Bahrain,China,0,0,Friendly,Bahrain,false
 2018-09-10,Kyrgyzstan,Syria,2,1,Friendly,Kyrgyzstan,false
 2018-09-10,Cambodia,Malaysia,1,3,Friendly,Cambodia,false
 2018-09-10,Kuwait,Iraq,2,2,Friendly,Kuwait,false
 2018-09-10,Saudi Arabia,Bolivia,2,2,Friendly,Saudi Arabia,false
-2018-09-10,Curaçao,Grenada,10,0,CONCACAF Nations League q,Curaçao,false
-2018-09-10,Haiti,Sint Maarten,13,0,CONCACAF Nations League q,Haiti,false
-2018-09-10,Scotland,Albania,2,0,European Nations League C,Scotland,false
-2018-09-10,Sweden,Turkey,2,3,European Nations League B,Sweden,false
-2018-09-10,Portugal,Italy,1,0,European Nations League A,Portugal,false
+2018-09-10,Curaçao,Grenada,10,0,CONCACAF Nations League qualifier,Curaçao,false
+2018-09-10,Haiti,Sint Maarten,13,0,CONCACAF Nations League qualifier,Haiti,false
+2018-09-10,Scotland,Albania,2,0,UEFA Nations League,Scotland,false
+2018-09-10,Sweden,Turkey,2,3,UEFA Nations League,Sweden,false
+2018-09-10,Portugal,Italy,1,0,UEFA Nations League,Portugal,false
 2018-09-10,Russia,Czechia,5,1,Friendly,Russia,false
-2018-09-10,Serbia,Romania,2,2,European Nations League C,Serbia,false
-2018-09-10,Montenegro,Lithuania,2,0,European Nations League C,Montenegro,false
-2018-09-10,Malta,Azerbaijan,1,1,European Nations League D,Malta,false
-2018-09-10,Kosovo,Faroe Islands,2,0,European Nations League D,Kosovo,false
-2018-09-10,Andorra,Kazakhstan,1,1,European Nations League D,Andorra,false
+2018-09-10,Serbia,Romania,2,2,UEFA Nations League,Serbia,false
+2018-09-10,Montenegro,Lithuania,2,0,UEFA Nations League,Montenegro,false
+2018-09-10,Malta,Azerbaijan,1,1,UEFA Nations League,Malta,false
+2018-09-10,Kosovo,Faroe Islands,2,0,UEFA Nations League,Kosovo,false
+2018-09-10,Andorra,Kazakhstan,1,1,UEFA Nations League,Andorra,false
 2018-09-11,Japan,Costa Rica,3,0,Friendly,Japan,false
 2018-09-11,Indonesia,Mauritius,1,0,Friendly,Indonesia,false
 2018-09-11,Uzbekistan,Iran,0,1,Friendly,Uzbekistan,false
@@ -12020,19 +12020,19 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-09-11,United States,Mexico,1,0,Friendly,United States,false
 2018-09-11,Brazil,El Salvador,5,0,Friendly,United States,false
 2018-09-11,Ecuador,Guatemala,2,0,Friendly,United States,false
-2018-09-11,Guadeloupe,Saint Martin,3,0,CONCACAF Nations League q,Anguilla,false
+2018-09-11,Guadeloupe,Saint Martin,3,0,CONCACAF Nations League qualifier,Anguilla,false
 2018-09-11,Panama,Venezuela,0,2,Friendly,Panama,false
 2018-09-11,Argentina,Colombia,0,0,Friendly,United States,false
 2018-09-11,England,Switzerland,1,0,Friendly,England,false
 2018-09-11,Northern Ireland,Israel,3,0,Friendly,Northern Ireland,false
-2018-09-11,Bosnia and Herzegovina,Austria,1,0,European Nations League B,Bosnia and Herzegovina,false
-2018-09-11,Hungary,Greece,2,1,European Nations League C,Hungary,false
-2018-09-11,Iceland,Belgium,0,3,European Nations League A,Iceland,false
-2018-09-11,Finland,Estonia,1,0,European Nations League C,Finland,false
-2018-09-11,San Marino,Luxembourg,0,3,European Nations League D,San Marino,false
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,UEFA Nations League,Bosnia and Herzegovina,false
+2018-09-11,Hungary,Greece,2,1,UEFA Nations League,Hungary,false
+2018-09-11,Iceland,Belgium,0,3,UEFA Nations League,Iceland,false
+2018-09-11,Finland,Estonia,1,0,UEFA Nations League,Finland,false
+2018-09-11,San Marino,Luxembourg,0,3,UEFA Nations League,San Marino,false
 2018-09-11,Poland,Ireland,1,1,Friendly,Poland,false
-2018-09-11,Spain,Croatia,6,0,European Nations League A,Spain,false
-2018-09-11,Moldova,Belarus,0,0,European Nations League D,Moldova,false
+2018-09-11,Spain,Croatia,6,0,UEFA Nations League,Spain,false
+2018-09-11,Moldova,Belarus,0,0,UEFA Nations League,Moldova,false
 2018-09-12,India,Pakistan,3,1,South Asian Championship,Bangladesh,false
 2018-09-12,Maldives,Nepal,3,0,South Asian Championship,Bangladesh,false
 2018-09-15,Maldives,India,2,1,South Asian Championship,Bangladesh,false
@@ -12060,17 +12060,17 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-10-11,Congo,Liberia,3,1,African Nations Cup qualifier,Congo,false
 2018-10-11,United States,Colombia,2,4,Friendly,United States,false
 2018-10-11,Mexico,Costa Rica,3,2,Friendly,Mexico,false
-2018-10-11,French Guiana,St Vincent & Grenadines,0,1,CONCACAF Nations League q,French Guiana,false
-2018-10-11,Israel,Scotland,2,1,European Nations League C,Israel,false
+2018-10-11,French Guiana,St Vincent & Grenadines,0,1,CONCACAF Nations League qualifier,French Guiana,false
+2018-10-11,Israel,Scotland,2,1,UEFA Nations League,Israel,false
 2018-10-11,Wales,Spain,1,4,Friendly,Wales,false
 2018-10-11,France,Iceland,2,2,Friendly,France,false
-2018-10-11,Russia,Sweden,0,0,European Nations League B,Russia,false
-2018-10-11,Poland,Portugal,2,3,European Nations League A,Poland,false
-2018-10-11,Lithuania,Romania,1,2,European Nations League C,Lithuania,false
+2018-10-11,Russia,Sweden,0,0,UEFA Nations League,Russia,false
+2018-10-11,Poland,Portugal,2,3,UEFA Nations League,Poland,false
+2018-10-11,Lithuania,Romania,1,2,UEFA Nations League,Lithuania,false
 2018-10-11,Turkey,Bosnia and Herzegovina,0,0,Friendly,Turkey,false
-2018-10-11,Montenegro,Serbia,0,2,European Nations League C,Montenegro,false
-2018-10-11,Kosovo,Malta,3,1,European Nations League D,Kosovo,false
-2018-10-11,Faroe Islands,Azerbaijan,0,3,European Nations League D,Faroe Islands,false
+2018-10-11,Montenegro,Serbia,0,2,UEFA Nations League,Montenegro,false
+2018-10-11,Kosovo,Malta,3,1,UEFA Nations League,Kosovo,false
+2018-10-11,Faroe Islands,Azerbaijan,0,3,UEFA Nations League,Faroe Islands,false
 2018-10-12,Japan,Panama,3,0,Friendly,Japan,false
 2018-10-12,Singapore,Mongolia,2,0,Friendly,Singapore,false
 2018-10-12,South Korea,Uruguay,2,1,Friendly,South Korea,false
@@ -12089,19 +12089,19 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-10-12,Gabon,South Sudan,3,0,African Nations Cup qualifier,Gabon,false
 2018-10-12,Guinea,Rwanda,2,0,African Nations Cup qualifier,Guinea,false
 2018-10-12,Angola,Mauritania,4,1,African Nations Cup qualifier,Angola,false
-2018-10-12,Curaçao,US Virgin Islands,5,0,CONCACAF Nations League q,United States,false
-2018-10-12,Grenada,Cuba,0,2,CONCACAF Nations League q,Grenada,false
-2018-10-12,Dominican Republic,Cayman Islands,3,0,CONCACAF Nations League q,Dominican Republic,false
-2018-10-12,Bermuda,Sint Maarten,12,0,CONCACAF Nations League q,Bermuda,false
-2018-10-12,Bahamas,Antigua and Barbuda,0,6,CONCACAF Nations League q,Bahamas,false
+2018-10-12,Curaçao,US Virgin Islands,5,0,CONCACAF Nations League qualifier,United States,false
+2018-10-12,Grenada,Cuba,0,2,CONCACAF Nations League qualifier,Grenada,false
+2018-10-12,Dominican Republic,Cayman Islands,3,0,CONCACAF Nations League qualifier,Dominican Republic,false
+2018-10-12,Bermuda,Sint Maarten,12,0,CONCACAF Nations League qualifier,Bermuda,false
+2018-10-12,Bahamas,Antigua and Barbuda,0,6,CONCACAF Nations League qualifier,Bahamas,false
 2018-10-12,Peru,Chile,3,0,Friendly,United States,false
-2018-10-12,Croatia,England,0,0,European Nations League A,Croatia,false
-2018-10-12,Austria,Northern Ireland,1,0,European Nations League B,Austria,false
-2018-10-12,Greece,Hungary,1,0,European Nations League C,Greece,false
-2018-10-12,Belgium,Switzerland,2,1,European Nations League A,Belgium,false
-2018-10-12,Estonia,Finland,0,1,European Nations League C,Estonia,false
-2018-10-12,Belarus,Luxembourg,1,0,European Nations League D,Belarus,false
-2018-10-12,Moldova,San Marino,2,0,European Nations League D,Moldova,false
+2018-10-12,Croatia,England,0,0,UEFA Nations League,Croatia,false
+2018-10-12,Austria,Northern Ireland,1,0,UEFA Nations League,Austria,false
+2018-10-12,Greece,Hungary,1,0,UEFA Nations League,Greece,false
+2018-10-12,Belgium,Switzerland,2,1,UEFA Nations League,Belgium,false
+2018-10-12,Estonia,Finland,0,1,UEFA Nations League,Estonia,false
+2018-10-12,Belarus,Luxembourg,1,0,UEFA Nations League,Belarus,false
+2018-10-12,Moldova,San Marino,2,0,UEFA Nations League,Moldova,false
 2018-10-13,Oman,Philippines,1,1,Friendly,Qatar,false
 2018-10-13,China,India,0,0,Friendly,China,false
 2018-10-13,Myanmar,Bolivia,0,3,Friendly,Myanmar,false
@@ -12116,44 +12116,44 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-10-13,Morocco,Comoros,1,0,African Nations Cup qualifier,Morocco,false
 2018-10-13,Burkina Faso,Botswana,3,0,African Nations Cup qualifier,Burkina Faso,false
 2018-10-13,Mozambique,Namibia,1,2,African Nations Cup qualifier,Mozambique,false
-2018-10-13,El Salvador,Barbados,3,0,CONCACAF Nations League q,El Salvador,false
-2018-10-13,Turks and Caicos Islands,Guyana,0,8,CONCACAF Nations League q,Turks and Caicos Islands,false
-2018-10-13,Puerto Rico,Martinique,0,1,CONCACAF Nations League q,Puerto Rico,false
-2018-10-13,Suriname,British Virgin Islands,5,0,CONCACAF Nations League q,Suriname,false
-2018-10-13,Netherlands,Germany,3,0,European Nations League A,Netherlands,false
-2018-10-13,Norway,Slovenia,1,0,European Nations League C,Norway,false
-2018-10-13,Ireland,Denmark,0,0,European Nations League B,Ireland,false
-2018-10-13,Latvia,Kazakhstan,1,1,European Nations League D,Latvia,false
-2018-10-13,Bulgaria,Cyprus,2,1,European Nations League C,Bulgaria,false
-2018-10-13,Slovakia,Czechia,1,2,European Nations League B,Slovakia,false
-2018-10-13,Armenia,Gibraltar,0,1,European Nations League D,Armenia,false
-2018-10-13,Georgia,Andorra,3,0,European Nations League D,Georgia,false
-2018-10-13,Macedonia,Liechtenstein,4,1,European Nations League D,Macedonia,false
+2018-10-13,El Salvador,Barbados,3,0,CONCACAF Nations League qualifier,El Salvador,false
+2018-10-13,Turks and Caicos Islands,Guyana,0,8,CONCACAF Nations League qualifier,Turks and Caicos Islands,false
+2018-10-13,Puerto Rico,Martinique,0,1,CONCACAF Nations League qualifier,Puerto Rico,false
+2018-10-13,Suriname,British Virgin Islands,5,0,CONCACAF Nations League qualifier,Suriname,false
+2018-10-13,Netherlands,Germany,3,0,UEFA Nations League,Netherlands,false
+2018-10-13,Norway,Slovenia,1,0,UEFA Nations League,Norway,false
+2018-10-13,Ireland,Denmark,0,0,UEFA Nations League,Ireland,false
+2018-10-13,Latvia,Kazakhstan,1,1,UEFA Nations League,Latvia,false
+2018-10-13,Bulgaria,Cyprus,2,1,UEFA Nations League,Bulgaria,false
+2018-10-13,Slovakia,Czechia,1,2,UEFA Nations League,Slovakia,false
+2018-10-13,Armenia,Gibraltar,0,1,UEFA Nations League,Armenia,false
+2018-10-13,Georgia,Andorra,3,0,UEFA Nations League,Georgia,false
+2018-10-13,Macedonia,Liechtenstein,4,1,UEFA Nations League,Macedonia,false
 2018-10-14,Thailand,Trinidad and Tobago,1,0,Friendly,Thailand,false
 2018-10-14,Kenya,Ethiopia,3,0,African Nations Cup qualifier,Kenya,false
 2018-10-14,Guinea-Bissau,Zambia,2,1,African Nations Cup qualifier,Guinea-Bissau,false
-2018-10-14,Jamaica,Bonaire,6,0,CONCACAF Nations League q,Curaçao,false
-2018-10-14,Nicaragua,Anguilla,6,0,CONCACAF Nations League q,Costa Rica,false
-2018-10-14,Saint Kitts and Nevis,Saint Martin,10,0,CONCACAF Nations League q,Anguilla,false
-2018-10-14,Montserrat,Belize,1,0,CONCACAF Nations League q,Montserrat,false
+2018-10-14,Jamaica,Bonaire,6,0,CONCACAF Nations League qualifier,Curaçao,false
+2018-10-14,Nicaragua,Anguilla,6,0,CONCACAF Nations League qualifier,Costa Rica,false
+2018-10-14,Saint Kitts and Nevis,Saint Martin,10,0,CONCACAF Nations League qualifier,Anguilla,false
+2018-10-14,Montserrat,Belize,1,0,CONCACAF Nations League qualifier,Montserrat,false
 2018-10-14,Scotland,Portugal,1,3,Friendly,Scotland,false
-2018-10-14,Poland,Italy,0,1,European Nations League A,Poland,false
-2018-10-14,Russia,Turkey,2,0,European Nations League B,Russia,false
-2018-10-14,Romania,Serbia,0,0,European Nations League C,Romania,false
-2018-10-14,Lithuania,Montenegro,1,4,European Nations League C,Lithuania,false
-2018-10-14,Israel,Albania,2,0,European Nations League C,Israel,false
-2018-10-14,Azerbaijan,Malta,1,1,European Nations League D,Azerbaijan,false
-2018-10-14,Faroe Islands,Kosovo,1,1,European Nations League D,Faroe Islands,false
+2018-10-14,Poland,Italy,0,1,UEFA Nations League,Poland,false
+2018-10-14,Russia,Turkey,2,0,UEFA Nations League,Russia,false
+2018-10-14,Romania,Serbia,0,0,UEFA Nations League,Romania,false
+2018-10-14,Lithuania,Montenegro,1,4,UEFA Nations League,Lithuania,false
+2018-10-14,Israel,Albania,2,0,UEFA Nations League,Israel,false
+2018-10-14,Azerbaijan,Malta,1,1,UEFA Nations League,Azerbaijan,false
+2018-10-14,Faroe Islands,Kosovo,1,1,UEFA Nations League,Faroe Islands,false
 2018-10-15,Kuwait,Australia,0,4,Friendly,Kuwait,false
 2018-10-15,Saudi Arabia,Iraq,1,1,Friendly tournament,Saudi Arabia,false
 2018-10-15,Croatia,Jordan,2,1,Friendly,Croatia,false
-2018-10-15,Spain,England,2,3,European Nations League A,Spain,false
-2018-10-15,Bosnia and Herzegovina,Northern Ireland,2,0,European Nations League B,Bosnia and Herzegovina,false
-2018-10-15,Estonia,Hungary,3,3,European Nations League C,Estonia,false
-2018-10-15,Iceland,Switzerland,1,2,European Nations League A,Iceland,false
-2018-10-15,Finland,Greece,2,0,European Nations League C,Finland,false
-2018-10-15,Luxembourg,San Marino,3,0,European Nations League D,Luxembourg,false
-2018-10-15,Belarus,Moldova,0,0,European Nations League D,Belarus,false
+2018-10-15,Spain,England,2,3,UEFA Nations League,Spain,false
+2018-10-15,Bosnia and Herzegovina,Northern Ireland,2,0,UEFA Nations League,Bosnia and Herzegovina,false
+2018-10-15,Estonia,Hungary,3,3,UEFA Nations League,Estonia,false
+2018-10-15,Iceland,Switzerland,1,2,UEFA Nations League,Iceland,false
+2018-10-15,Finland,Greece,2,0,UEFA Nations League,Finland,false
+2018-10-15,Luxembourg,San Marino,3,0,UEFA Nations League,Luxembourg,false
+2018-10-15,Belarus,Moldova,0,0,UEFA Nations League,Belarus,false
 2018-10-16,Japan,Uruguay,4,3,Friendly,Japan,false
 2018-10-16,China,Syria,2,0,Friendly,China,false
 2018-10-16,Indonesia,Hong Kong,1,1,Friendly,Indonesia,false
@@ -12188,25 +12188,25 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-10-16,Mauritania,Angola,1,0,African Nations Cup qualifier,Mauritania,false
 2018-10-16,Namibia,Mozambique,1,0,African Nations Cup qualifier,Namibia,false
 2018-10-16,United States,Peru,1,1,Friendly,United States,false
-2018-10-16,Canada,Dominica,5,0,CONCACAF Nations League q,Canada,false
+2018-10-16,Canada,Dominica,5,0,CONCACAF Nations League qualifier,Canada,false
 2018-10-16,Colombia,Costa Rica,3,1,Friendly,United States,false
 2018-10-16,Mexico,Chile,0,1,Friendly,Mexico,false
-2018-10-16,Guadeloupe,Aruba,0,0,CONCACAF Nations League q,Guadeloupe,false
-2018-10-16,Haiti,Saint Lucia,2,1,CONCACAF Nations League q,Martinique,false
-2018-10-16,Martinique,British Virgin Islands,4,0,CONCACAF Nations League q,Martinique,false
+2018-10-16,Guadeloupe,Aruba,0,0,CONCACAF Nations League qualifier,Guadeloupe,false
+2018-10-16,Haiti,Saint Lucia,2,1,CONCACAF Nations League qualifier,Martinique,false
+2018-10-16,Martinique,British Virgin Islands,4,0,CONCACAF Nations League qualifier,Martinique,false
 2018-10-16,Brazil,Argentina,1,0,Friendly tournament,Saudi Arabia,false
-2018-10-16,Ireland,Wales,0,1,European Nations League B,Ireland,false
+2018-10-16,Ireland,Wales,0,1,UEFA Nations League,Ireland,false
 2018-10-16,Denmark,Austria,2,0,Friendly,Denmark,false
 2018-10-16,Belgium,Netherlands,1,1,Friendly,Belgium,false
-2018-10-16,France,Germany,2,1,European Nations League A,France,false
+2018-10-16,France,Germany,2,1,UEFA Nations League,France,false
 2018-10-16,Sweden,Slovakia,1,1,Friendly,Sweden,false
-2018-10-16,Norway,Bulgaria,1,0,European Nations League C,Norway,false
-2018-10-16,Latvia,Georgia,0,3,European Nations League D,Latvia,false
-2018-10-16,Ukraine,Czechia,1,0,European Nations League B,Ukraine,false
-2018-10-16,Slovenia,Cyprus,1,1,European Nations League C,Slovenia,false
-2018-10-16,Armenia,Macedonia,4,0,European Nations League D,Armenia,false
-2018-10-16,Kazakhstan,Andorra,4,0,European Nations League D,Kazakhstan,false
-2018-10-16,Gibraltar,Liechtenstein,2,1,European Nations League D,Gibraltar,false
+2018-10-16,Norway,Bulgaria,1,0,UEFA Nations League,Norway,false
+2018-10-16,Latvia,Georgia,0,3,UEFA Nations League,Latvia,false
+2018-10-16,Ukraine,Czechia,1,0,UEFA Nations League,Ukraine,false
+2018-10-16,Slovenia,Cyprus,1,1,UEFA Nations League,Slovenia,false
+2018-10-16,Armenia,Macedonia,4,0,UEFA Nations League,Armenia,false
+2018-10-16,Kazakhstan,Andorra,4,0,UEFA Nations League,Kazakhstan,false
+2018-10-16,Gibraltar,Liechtenstein,2,1,UEFA Nations League,Gibraltar,false
 2018-11-03,Malaysia,Maldives,3,0,Friendly,Malaysia,false
 2018-11-08,Laos,Vietnam,0,3,Southeast Asian Champ,Laos,false
 2018-11-08,Cambodia,Malaysia,0,1,Southeast Asian Champ,Cambodia,false
@@ -12228,17 +12228,17 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-11-15,Israel,Guatemala,7,0,Friendly,Israel,false
 2018-11-15,Peru,Ecuador,0,2,Friendly,Peru,false
 2018-11-15,Ireland,Northern Ireland,0,0,Friendly,Ireland,false
-2018-11-15,Austria,Bosnia and Herzegovina,0,0,European Nations League B,Austria,false
-2018-11-15,Hungary,Estonia,2,0,European Nations League C,Hungary,false
-2018-11-15,Belgium,Iceland,2,0,European Nations League A,Belgium,false
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,UEFA Nations League,Austria,false
+2018-11-15,Hungary,Estonia,2,0,UEFA Nations League,Hungary,false
+2018-11-15,Belgium,Iceland,2,0,UEFA Nations League,Belgium,false
 2018-11-15,Germany,Russia,3,0,Friendly,Germany,false
-2018-11-15,Greece,Finland,1,0,European Nations League C,Greece,false
-2018-11-15,Luxembourg,Belarus,0,2,European Nations League D,Luxembourg,false
+2018-11-15,Greece,Finland,1,0,UEFA Nations League,Greece,false
+2018-11-15,Luxembourg,Belarus,0,2,UEFA Nations League,Luxembourg,false
 2018-11-15,Poland,Czechia,0,1,Friendly,Poland,false
-2018-11-15,Croatia,Spain,3,2,European Nations League A,Croatia,false
-2018-11-15,Kazakhstan,Latvia,1,1,European Nations League D,Kazakhstan,false
-2018-11-15,San Marino,Moldova,0,1,European Nations League D,San Marino,false
-2018-11-15,Andorra,Georgia,1,1,European Nations League D,Andorra,false
+2018-11-15,Croatia,Spain,3,2,UEFA Nations League,Croatia,false
+2018-11-15,Kazakhstan,Latvia,1,1,UEFA Nations League,Kazakhstan,false
+2018-11-15,San Marino,Moldova,0,1,UEFA Nations League,San Marino,false
+2018-11-15,Andorra,Georgia,1,1,UEFA Nations League,Andorra,false
 2018-11-16,Japan,Venezuela,1,1,Friendly,Japan,false
 2018-11-16,Hong Kong,Mongolia,5,1,East Asian Championship qual,Taiwan,false
 2018-11-16,Vietnam,Malaysia,2,0,Southeast Asian Champ,Vietnam,false
@@ -12252,20 +12252,20 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-11-16,South Sudan,Burundi,2,5,African Nations Cup qualifier,South Sudan,false
 2018-11-16,Morocco,Cameroon,2,0,African Nations Cup qualifier,Morocco,false
 2018-11-16,Chile,Costa Rica,2,3,Friendly,Chile,false
-2018-11-16,Bermuda,El Salvador,1,0,CONCACAF Nations League q,Bermuda,false
+2018-11-16,Bermuda,El Salvador,1,0,CONCACAF Nations League qualifier,Bermuda,false
 2018-11-16,Argentina,Mexico,2,0,Friendly,Argentina,false
-2018-11-16,Aruba,Montserrat,0,2,CONCACAF Nations League q,Curaçao,false
+2018-11-16,Aruba,Montserrat,0,2,CONCACAF Nations League qualifier,Curaçao,false
 2018-11-16,Honduras,Panama,1,0,Friendly,Honduras,false
-2018-11-16,Grenada,Saint Martin,5,2,CONCACAF Nations League q,Grenada,false
-2018-11-16,Belize,Puerto Rico,1,0,CONCACAF Nations League q,Belize,false
+2018-11-16,Grenada,Saint Martin,5,2,CONCACAF Nations League qualifier,Grenada,false
+2018-11-16,Belize,Puerto Rico,1,0,CONCACAF Nations League qualifier,Belize,false
 2018-11-16,Brazil,Uruguay,1,0,Friendly,England,false
-2018-11-16,Wales,Denmark,1,2,European Nations League B,Wales,false
-2018-11-16,Netherlands,France,2,0,European Nations League A,Netherlands,false
-2018-11-16,Slovenia,Norway,1,1,European Nations League C,Slovenia,false
-2018-11-16,Cyprus,Bulgaria,1,1,European Nations League C,Cyprus,false
-2018-11-16,Slovakia,Ukraine,4,1,European Nations League B,Slovakia,false
-2018-11-16,Gibraltar,Armenia,2,6,European Nations League D,Gibraltar,false
-2018-11-16,Liechtenstein,Macedonia,0,2,European Nations League D,Liechtenstein,false
+2018-11-16,Wales,Denmark,1,2,UEFA Nations League,Wales,false
+2018-11-16,Netherlands,France,2,0,UEFA Nations League,Netherlands,false
+2018-11-16,Slovenia,Norway,1,1,UEFA Nations League,Slovenia,false
+2018-11-16,Cyprus,Bulgaria,1,1,UEFA Nations League,Cyprus,false
+2018-11-16,Slovakia,Ukraine,4,1,UEFA Nations League,Slovakia,false
+2018-11-16,Gibraltar,Armenia,2,6,UEFA Nations League,Gibraltar,false
+2018-11-16,Liechtenstein,Macedonia,0,2,UEFA Nations League,Liechtenstein,false
 2018-11-17,Philippines,East Timor,3,2,Southeast Asian Champ,Malaysia,false
 2018-11-17,Australia,South Korea,1,1,Friendly,Australia,false
 2018-11-17,Thailand,Indonesia,4,2,Southeast Asian Champ,Thailand,false
@@ -12278,18 +12278,18 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-11-17,Comoros,Malawi,2,1,African Nations Cup qualifier,Comoros,false
 2018-11-17,Gabon,Mali,0,1,African Nations Cup qualifier,Gabon,false
 2018-11-17,Equatorial Guinea,Senegal,0,1,African Nations Cup qualifier,Equatorial Guinea,false
-2018-11-17,Nicaragua,Haiti,0,2,CONCACAF Nations League q,Nicaragua,false
-2018-11-17,Jamaica,Suriname,2,1,CONCACAF Nations League q,Jamaica,false
-2018-11-17,Cuba,Dominican Republic,1,0,CONCACAF Nations League q,Cuba,false
-2018-11-17,Cayman Islands,Saint Lucia,0,0,CONCACAF Nations League q,Cayman Islands,false
+2018-11-17,Nicaragua,Haiti,0,2,CONCACAF Nations League qualifier,Nicaragua,false
+2018-11-17,Jamaica,Suriname,2,1,CONCACAF Nations League qualifier,Jamaica,false
+2018-11-17,Cuba,Dominican Republic,1,0,CONCACAF Nations League qualifier,Cuba,false
+2018-11-17,Cayman Islands,Saint Lucia,0,0,CONCACAF Nations League qualifier,Cayman Islands,false
 2018-11-17,Vanuatu,New Caledonia,2,2,Friendly,Vanuatu,false
-2018-11-17,Albania,Scotland,0,4,European Nations League C,Albania,false
-2018-11-17,Turkey,Sweden,0,1,European Nations League B,Turkey,false
-2018-11-17,Italy,Portugal,0,0,European Nations League A,Italy,false
-2018-11-17,Romania,Lithuania,3,0,European Nations League C,Romania,false
-2018-11-17,Serbia,Montenegro,2,1,European Nations League C,Serbia,false
-2018-11-17,Malta,Kosovo,0,5,European Nations League D,Malta,false
-2018-11-17,Azerbaijan,Faroe Islands,2,0,European Nations League D,Azerbaijan,false
+2018-11-17,Albania,Scotland,0,4,UEFA Nations League,Albania,false
+2018-11-17,Turkey,Sweden,0,1,UEFA Nations League,Turkey,false
+2018-11-17,Italy,Portugal,0,0,UEFA Nations League,Italy,false
+2018-11-17,Romania,Lithuania,3,0,UEFA Nations League,Romania,false
+2018-11-17,Serbia,Montenegro,2,1,UEFA Nations League,Serbia,false
+2018-11-17,Malta,Kosovo,0,5,UEFA Nations League,Malta,false
+2018-11-17,Azerbaijan,Faroe Islands,2,0,UEFA Nations League,Azerbaijan,false
 2018-11-18,Lesotho,Tanzania,1,0,African Nations Cup qualifier,Lesotho,false
 2018-11-18,Liberia,Zimbabwe,1,0,African Nations Cup qualifier,Liberia,false
 2018-11-18,Mozambique,Zambia,1,0,African Nations Cup qualifier,Mozambique,false
@@ -12302,31 +12302,31 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-11-18,Guinea,Ivory Coast,1,1,African Nations Cup qualifier,Guinea,false
 2018-11-18,Eswatini,Niger,1,2,African Nations Cup qualifier,Eswatini,false
 2018-11-18,Mauritania,Botswana,2,1,African Nations Cup qualifier,Mauritania,false
-2018-11-18,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League q,Saint Kitts and Nevis,false
-2018-11-18,Barbados,US Virgin Islands,3,0,CONCACAF Nations League q,Barbados,false
-2018-11-18,Turks and Caicos Islands,St Vincent & Grenadines,3,2,CONCACAF Nations League q,Turks and Caicos Islands,false
-2018-11-18,Bahamas,Anguilla,1,1,CONCACAF Nations League q,Bahamas,false
-2018-11-18,England,Croatia,2,1,European Nations League A,England,false
-2018-11-18,Northern Ireland,Austria,1,2,European Nations League B,Northern Ireland,false
-2018-11-18,Hungary,Finland,2,0,European Nations League C,Hungary,false
-2018-11-18,Switzerland,Belgium,5,2,European Nations League A,Switzerland,false
-2018-11-18,Moldova,Luxembourg,1,1,European Nations League D,Moldova,false
-2018-11-18,Greece,Estonia,0,1,European Nations League C,Greece,false
+2018-11-18,Saint Kitts and Nevis,Canada,0,1,CONCACAF Nations League qualifier,Saint Kitts and Nevis,false
+2018-11-18,Barbados,US Virgin Islands,3,0,CONCACAF Nations League qualifier,Barbados,false
+2018-11-18,Turks and Caicos Islands,St Vincent & Grenadines,3,2,CONCACAF Nations League qualifier,Turks and Caicos Islands,false
+2018-11-18,Bahamas,Anguilla,1,1,CONCACAF Nations League qualifier,Bahamas,false
+2018-11-18,England,Croatia,2,1,UEFA Nations League,England,false
+2018-11-18,Northern Ireland,Austria,1,2,UEFA Nations League,Northern Ireland,false
+2018-11-18,Hungary,Finland,2,0,UEFA Nations League,Hungary,false
+2018-11-18,Switzerland,Belgium,5,2,UEFA Nations League,Switzerland,false
+2018-11-18,Moldova,Luxembourg,1,1,UEFA Nations League,Moldova,false
+2018-11-18,Greece,Estonia,0,1,UEFA Nations League,Greece,false
 2018-11-18,Spain,Bosnia and Herzegovina,1,0,Friendly,Spain,false
-2018-11-18,San Marino,Belarus,0,2,European Nations League D,San Marino,false
+2018-11-18,San Marino,Belarus,0,2,UEFA Nations League,San Marino,false
 2018-11-19,Oman,Bahrain,2,1,Friendly,Oman,false
 2018-11-19,Iceland,Qatar,2,2,Friendly,Belgium,false
-2018-11-19,Curaçao,Guadeloupe,6,0,CONCACAF Nations League q,Curaçao,false
-2018-11-19,Martinique,Antigua and Barbuda,4,2,CONCACAF Nations League q,Martinique,false
-2018-11-19,Germany,Netherlands,2,2,European Nations League A,Germany,false
-2018-11-19,Cyprus,Norway,0,2,European Nations League C,Cyprus,false
-2018-11-19,Denmark,Ireland,0,0,European Nations League B,Denmark,false
-2018-11-19,Andorra,Latvia,0,0,European Nations League D,Andorra,false
-2018-11-19,Bulgaria,Slovenia,1,1,European Nations League C,Bulgaria,false
-2018-11-19,Czechia,Slovakia,1,0,European Nations League B,Czechia,false
-2018-11-19,Liechtenstein,Armenia,2,2,European Nations League D,Liechtenstein,false
-2018-11-19,Georgia,Kazakhstan,2,1,European Nations League D,Georgia,false
-2018-11-19,Macedonia,Gibraltar,4,0,European Nations League D,Macedonia,false
+2018-11-19,Curaçao,Guadeloupe,6,0,CONCACAF Nations League qualifier,Curaçao,false
+2018-11-19,Martinique,Antigua and Barbuda,4,2,CONCACAF Nations League qualifier,Martinique,false
+2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Germany,false
+2018-11-19,Cyprus,Norway,0,2,UEFA Nations League,Cyprus,false
+2018-11-19,Denmark,Ireland,0,0,UEFA Nations League,Denmark,false
+2018-11-19,Andorra,Latvia,0,0,UEFA Nations League,Andorra,false
+2018-11-19,Bulgaria,Slovenia,1,1,UEFA Nations League,Bulgaria,false
+2018-11-19,Czechia,Slovakia,1,0,UEFA Nations League,Czechia,false
+2018-11-19,Liechtenstein,Armenia,2,2,UEFA Nations League,Liechtenstein,false
+2018-11-19,Georgia,Kazakhstan,2,1,UEFA Nations League,Georgia,false
+2018-11-19,Macedonia,Gibraltar,4,0,UEFA Nations League,Macedonia,false
 2018-11-20,Japan,Kyrgyzstan,4,0,Friendly,Japan,false
 2018-11-20,Australia,Lebanon,3,0,Friendly,Australia,false
 2018-11-20,China,Palestine,1,1,Friendly,China,false
@@ -12347,19 +12347,19 @@ date,home_team,away_team,home_score,away_score,tournament,country,neutral
 2018-11-20,El Salvador,Haiti,1,0,Friendly,El Salvador,false
 2018-11-20,Argentina,Mexico,2,0,Friendly,Argentina,false
 2018-11-20,Chile,Honduras,4,1,Friendly,Chile,false
-2018-11-20,French Guiana,Guyana,2,1,CONCACAF Nations League q,French Guiana,false
-2018-11-20,Dominica,Sint Maarten,2,0,CONCACAF Nations League q,Anguilla,false
+2018-11-20,French Guiana,Guyana,2,1,CONCACAF Nations League qualifier,French Guiana,false
+2018-11-20,Dominica,Sint Maarten,2,0,CONCACAF Nations League qualifier,Anguilla,false
 2018-11-20,Panama,Ecuador,1,2,Friendly,Panama,false
 2018-11-20,France,Uruguay,1,0,Friendly,France,false
-2018-11-20,Scotland,Israel,3,2,European Nations League C,Scotland,false
+2018-11-20,Scotland,Israel,3,2,UEFA Nations League,Scotland,false
 2018-11-20,Albania,Wales,1,0,Friendly,Albania,false
-2018-11-20,Sweden,Russia,2,0,European Nations League B,Sweden,false
-2018-11-20,Portugal,Poland,1,1,European Nations League A,Portugal,false
-2018-11-20,Montenegro,Romania,0,1,European Nations League C,Montenegro,false
-2018-11-20,Serbia,Lithuania,4,1,European Nations League C,Serbia,false
+2018-11-20,Sweden,Russia,2,0,UEFA Nations League,Sweden,false
+2018-11-20,Portugal,Poland,1,1,UEFA Nations League,Portugal,false
+2018-11-20,Montenegro,Romania,0,1,UEFA Nations League,Montenegro,false
+2018-11-20,Serbia,Lithuania,4,1,UEFA Nations League,Serbia,false
 2018-11-20,Turkey,Ukraine,0,0,Friendly,Turkey,false
-2018-11-20,Malta,Faroe Islands,1,1,European Nations League D,Malta,false
-2018-11-20,Kosovo,Azerbaijan,4,0,European Nations League D,Kosovo,false
+2018-11-20,Malta,Faroe Islands,1,1,UEFA Nations League,Malta,false
+2018-11-20,Kosovo,Azerbaijan,4,0,UEFA Nations League,Kosovo,false
 2018-11-21,Philippines,Thailand,1,1,Southeast Asian Champ,Philippines,false
 2018-11-21,Singapore,East Timor,6,1,Southeast Asian Champ,Singapore,false
 2018-11-24,Vietnam,Cambodia,3,0,Southeast Asian Champ,Vietnam,false
