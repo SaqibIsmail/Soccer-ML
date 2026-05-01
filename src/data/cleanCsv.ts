@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import { parse } from "csv-parse";
-import { headers, type MatchRow, type RawMatchRow, type GameOutcomeInfo, type MatchRowWithGoals, ELO_K_MAP } from "../types/match.js";
+import { headers, type MatchRow, type RawMatchRow, type GameOutcomeInfo, type MatchRowWithGoals, ELO_K_MAP, type MatchRowWithGoalsAndElo, type RawMatchRowFinal, type RawMatchRowRename } from "../types/match.js";
 
 const normalizeTournamentName = (tournament: string): string => {
   const worldCup = new Set<string>([
@@ -192,7 +192,7 @@ const normalizeRow = (row: RawMatchRow): MatchRow => ({
   awayScore: Number(row.away_score),
   tournament: normalizeTournamentName(row.tournament),
   country: row.country,
-  neutral: row.neutral === "true",
+  neutral: row.neutral.toLowerCase() === "true",
 });
 
 const processCsv = async (inputFilePath: string): Promise<MatchRow[]> => {
@@ -211,25 +211,38 @@ const processCsv = async (inputFilePath: string): Promise<MatchRow[]> => {
   return rows;
 };
 
-const filterMatches = (matches: MatchRow[], filterFrom: Date, filterTo: Date): MatchRow[] => {
-  const cleanedMatches: MatchRow[] = matches.filter((match) => match.date >= filterFrom && match.date <= filterTo)
+const filterMatches = (matches: MatchRowWithGoalsAndElo[], filterFrom: Date, filterTo: Date): MatchRowWithGoalsAndElo[] => {
+  const cleanedMatches: MatchRowWithGoalsAndElo[] = matches.filter((match) => match.date >= filterFrom && match.date <= filterTo)
   return cleanedMatches;
 }
 
-const convertDataToString = (matches: MatchRow[]): RawMatchRow[] => {
-  const rawMatches: RawMatchRow[] = matches.map((match) => ({
-    date: match.date.toISOString().split("T")[0] ?? 'Not found',
-    home_team: match.homeTeam,
-    away_team: match.awayTeam,
-    home_score: match.homeScore.toString(),
-    away_score: match.awayScore.toString(),
-    tournament: match.tournament,
-    country: match.country,
-    neutral: match.neutral.toString()
+const toFixedString = (value: number): string => value.toFixed(3);
+
+const convertDataToString = (matches: MatchRowWithGoalsAndElo[]): RawMatchRowRename[] => {
+  const rawMatches = matches.map((match) => ({
+    date: match.date.toISOString().split("T")[0] ?? "Not found",
+    teamA: match.homeTeam,
+    teamB: match.awayTeam,
+    match_type: match.tournament,
+    venue_type: match.neutral.toString(),
+    teamA_form_last5: toFixedString(match.home_form_last5),
+    teamB_form_last5: toFixedString(match.away_form_last5),
+    teamA_avg_goals_scored: toFixedString(match.home_avg_goals_scored),
+    teamA_avg_goals_conceded: toFixedString(match.home_avg_goals_conceded),
+    teamB_avg_goals_scored: toFixedString(match.away_avg_goals_scored),
+    teamB_avg_goals_conceded: toFixedString(match.away_avg_goals_conceded),
+    teamA_elo: toFixedString(match.home_team_elo),
+    teamB_elo: toFixedString(match.away_team_elo),
+    diff_elo: toFixedString(match.diff_elo),
+    diff_form_last5: toFixedString(match.diff_form_last5),
+    diff_avg_goals_scored: toFixedString(match.diff_avg_goals_scored),
+    diff_avg_goals_conceded: toFixedString(match.diff_avg_goals_conceded),
+    result: match.homeScore > match.awayScore ? "teamA_win" : match.homeScore < match.awayScore ? "teamB_win" : "draw",
   }));
 
   return rawMatches;
-}
+};
+
 
 const escapeCsvValue = (value: string): string => {
 
@@ -240,7 +253,7 @@ const escapeCsvValue = (value: string): string => {
   return value;
 }
 
-const writeStringRowsToCsv = async (rawMatches: RawMatchRow[], outputFilePath: string): Promise<void> => {
+const writeStringRowsToCsv = async (rawMatches: RawMatchRowRename[], outputFilePath: string): Promise<void> => {
   const headerLine = headers.join(",");
 
   const dataLines = rawMatches.map((row) => {
@@ -315,7 +328,7 @@ const calculateDifferences = (teamHistory: Map<string, GameOutcomeInfo[]>, match
 
         if (homeIndex >= 5 && awayIndex >= 5) {
           homeTeamPerformanceSlice = homeTeamHistory.slice(homeIndex - 5, homeIndex)
-          awayTeamPerformanceSlice = awayTeamHistory.slice(homeIndex - 5, homeIndex)
+          awayTeamPerformanceSlice = awayTeamHistory.slice(awayIndex - 5, awayIndex)
 
           if (homeTeamPerformanceSlice && awayTeamPerformanceSlice) {
             rowsWithGoals.push(computePerformanceForRow(row, homeTeamPerformanceSlice, awayTeamPerformanceSlice));
@@ -331,14 +344,15 @@ const calculateDifferences = (teamHistory: Map<string, GameOutcomeInfo[]>, match
   return rowsWithGoals;
 }
 
+const formScore = (outcome: string): number => {
+  if (outcome === "win") return 1;
+  if (outcome === "draw") return 0.5;
+  return 0;
+};
 
 const computePerformanceForRow = (row: MatchRow, homeTeamPerformanceSlice: GameOutcomeInfo[], awayTeamPerformanceSlice: GameOutcomeInfo[]): MatchRowWithGoals => {
 
-  const formScore = (outcome: string): number => {
-    if (outcome === "win") return 1;
-    if (outcome === "draw") return 0.5;
-    return 0;
-  };
+
 
   let totalGoalsScoredHome = 0;
   let totalGoalsConceededHome = 0;
@@ -385,14 +399,54 @@ const computePerformanceForRow = (row: MatchRow, homeTeamPerformanceSlice: GameO
 const calculateElo = (rowsWithGoals: MatchRowWithGoals[]) => {
 
   const updatedEloMap: Record<string, number> = {};
+  const rowWithGoalsAndElo: MatchRowWithGoalsAndElo[] = [];
 
   rowsWithGoals.forEach((row) => {
 
-    const homeTeam = row.homeTeam;
-    const awayTeam = row.awayTeam;
+    const oldEloHome = updatedEloMap[row.homeTeam] ?? 1500;
+    const oldEloAway = updatedEloMap[row.awayTeam] ?? 1500;
 
-    const expectedResultHome = 1/ (1 + Math.pow(10, ))
+    const expectedResultHome = 1 / (1 + Math.pow(10, ((oldEloAway - oldEloHome) / 400)));
+    const expectedResultAway = 1 - expectedResultHome;
+    const kValue = ELO_K_MAP[row.tournament];
+
+    let outcomeHome;
+    let outcomeAway;
+
+    if (row.homeScore > row.awayScore) {
+      outcomeHome = 'win';
+      outcomeAway = 'lose'
+    } else if (row.homeScore < row.awayScore) {
+      outcomeHome = 'lose';
+      outcomeAway = 'win'
+    } else {
+      outcomeHome = outcomeAway = 'draw'
+    }
+
+    const actualResultHome = formScore(outcomeHome);
+    const actualResultAway = formScore(outcomeAway);
+
+    if (kValue) {
+      const newEloHome = oldEloHome + kValue * (actualResultHome - expectedResultHome);
+      const newEloAway = oldEloAway + kValue * (actualResultAway - expectedResultAway);
+
+      updatedEloMap[row.homeTeam] = newEloHome;
+      updatedEloMap[row.awayTeam] = newEloAway;
+
+      const newRow: MatchRowWithGoalsAndElo = {
+        ...row,
+        home_team_elo: newEloHome,
+        away_team_elo: newEloAway,
+        diff_elo: newEloHome - newEloAway,
+      };
+
+      rowWithGoalsAndElo.push(newRow);
+    } else {
+      console.log('Kvalue not found in map');
+    }
   });
+
+  return rowWithGoalsAndElo;
 }
 
 export const cleanData = async (inputFilePath: string, trainingOutputFilePath: string, testingOutputFilePath: string): Promise<boolean> => {
@@ -404,13 +458,13 @@ export const cleanData = async (inputFilePath: string, trainingOutputFilePath: s
   const teamGameHistory = calulateGameHistory(preProcessedMatchRows);
   const teamRowsWithDifferences = calculateDifferences(teamGameHistory, preProcessedMatchRows);
 
-  const teamRowsWithGoalsAndElo = calculateElo(teamRowsWithDifferences);
+  const teamRowsWithGoalsAndElo: MatchRowWithGoalsAndElo[] = calculateElo(teamRowsWithDifferences);
 
-  const trainingSet: MatchRow[] = filterMatches(preProcessedMatchRows, new Date('2006-01-01'), new Date('2019-01-01'));
-  const testingSet: MatchRow[] = filterMatches(preProcessedMatchRows, new Date('2020-01-01'), new Date('2026-01-01'));
+  const trainingSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2006-01-01'), new Date('2019-01-01'));
+  const testingSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2020-01-01'), new Date('2026-01-01'));
 
-  const stringtrainingSet: RawMatchRow[] = convertDataToString(trainingSet);
-  const stringtestingSet: RawMatchRow[] = convertDataToString(testingSet);
+  const stringtrainingSet: RawMatchRowRename[] = convertDataToString(trainingSet);
+  const stringtestingSet: RawMatchRowRename[] = convertDataToString(testingSet);
 
   try {
     await Promise.all([

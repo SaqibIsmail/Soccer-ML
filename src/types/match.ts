@@ -20,16 +20,27 @@ export type MatchRow = {
   neutral: boolean;
 }
 
-export const headers: (keyof RawMatchRow)[] = [
+export const headers: (keyof RawMatchRowRename)[] = [
   "date",
-  "home_team",
-  "away_team",
-  "home_score",
-  "away_score",
-  "tournament",
-  "country",
-  "neutral",
+  "teamA",
+  "teamB",
+  "match_type",
+  "venue_type",
+  "teamA_form_last5",
+  "teamB_form_last5",
+  "teamA_avg_goals_scored",
+  "teamA_avg_goals_conceded",
+  "teamB_avg_goals_scored",
+  "teamB_avg_goals_conceded",
+  "teamA_elo",
+  "teamB_elo",
+  "diff_elo",
+  "diff_form_last5",
+  "diff_avg_goals_scored",
+  "diff_avg_goals_conceded",
+  "result",
 ];
+
 export type MatchRowWithGoals = MatchRow & {
   home_form_last5: number;
   home_avg_goals_scored: number;
@@ -49,7 +60,7 @@ export type GameOutcomeInfo = {
   outcome: string,
 };
 
-export const ELO_K_MAP = {
+export const ELO_K_MAP: Record<string, number> = {
   world_cup: 60,
   world_cup_qualifier: 50,
   continental_championship: 45,
@@ -60,4 +71,49 @@ export const ELO_K_MAP = {
   friendly: 15,
   minor_other: 10,
 };
+
+export type MatchRowWithGoalsAndElo = MatchRowWithGoals & {
+  home_team_elo: number;
+  away_team_elo: number;
+  diff_elo: number;
+}
+
+export type RawMatchRowFinal = RawMatchRow & {
+
+  home_form_last5: string;
+  home_avg_goals_scored: string;
+  home_avg_goals_conceded: string;
+  away_form_last5: string;
+  away_avg_goals_scored: string;
+  away_avg_goals_conceded: string;
+  diff_form_last5: string;
+  diff_avg_goals_scored: string;
+  diff_avg_goals_conceded: string;
+  home_team_elo: string;
+  away_team_elo: string;
+  diff_elo: string;
+
+}
+
+export type RawMatchRowRename = {
+  date: string;
+  teamA: string;
+  teamB: string;
+  match_type: string;
+  venue_type: string;
+  teamA_form_last5: string;
+  teamB_form_last5: string;
+  teamA_avg_goals_scored: string;
+  teamA_avg_goals_conceded: string;
+  teamB_avg_goals_scored: string;
+  teamB_avg_goals_conceded: string;
+  teamA_elo: string;
+  teamB_elo: string;
+  diff_elo: string;
+  diff_form_last5: string;
+  diff_avg_goals_scored: string;
+  diff_avg_goals_conceded: string;
+  result: string;
+};
+
 
