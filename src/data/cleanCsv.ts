@@ -449,7 +449,7 @@ const calculateElo = (rowsWithGoals: MatchRowWithGoals[]) => {
   return rowWithGoalsAndElo;
 }
 
-export const cleanData = async (inputFilePath: string, trainingOutputFilePath: string, testingOutputFilePath: string): Promise<boolean> => {
+export const cleanData = async (inputFilePath: string, trainingOutputFilePath: string, testingOutputFilePath: string, validationOutputFilePath: string): Promise<boolean> => {
   const preProcessedMatchRows: MatchRow[] = await processCsv(inputFilePath);
   if (preProcessedMatchRows.length === 0) {
     throw new Error('No rows to read');
@@ -460,15 +460,18 @@ export const cleanData = async (inputFilePath: string, trainingOutputFilePath: s
 
   const teamRowsWithGoalsAndElo: MatchRowWithGoalsAndElo[] = calculateElo(teamRowsWithDifferences);
 
-  const trainingSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2006-01-01'), new Date('2019-01-01'));
+  const trainingSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2006-01-01'), new Date('2016-12-31'));
+  const validationSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2017-01-01'), new Date('2019-12-31'));
   const testingSet: MatchRowWithGoalsAndElo[] = filterMatches(teamRowsWithGoalsAndElo, new Date('2020-01-01'), new Date('2026-01-01'));
 
   const stringtrainingSet: RawMatchRowRename[] = convertDataToString(trainingSet);
+  const stringValidationSet: RawMatchRowRename[] = convertDataToString(validationSet);
   const stringtestingSet: RawMatchRowRename[] = convertDataToString(testingSet);
 
   try {
     await Promise.all([
       writeStringRowsToCsv(stringtrainingSet, trainingOutputFilePath),
+      writeStringRowsToCsv(stringValidationSet, validationOutputFilePath),
       writeStringRowsToCsv(stringtestingSet, testingOutputFilePath),
     ]);
 
