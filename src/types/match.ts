@@ -60,6 +60,32 @@ export type GameOutcomeInfo = {
   outcome: string,
 };
 
+export const MATCH_TYPE_VALUES = [
+  "world_cup",
+  "world_cup_qualifier",
+  "continental_championship",
+  "continental_qualifier",
+  "nations_league",
+  "regional_championship",
+  "regional_qualifier",
+  "friendly",
+  "minor_other",
+] as const;
+
+export type MatchType = typeof MATCH_TYPE_VALUES[number];
+
+export const isMatchType = (value: string): value is MatchType => {
+  return MATCH_TYPE_VALUES.includes(value as MatchType);
+};
+
+export const toMatchType = (value: string): MatchType => {
+  if (!isMatchType(value)) {
+    throw new Error(`Unknown match_type: ${value}`);
+  }
+
+  return value;
+};
+
 export const ELO_K_MAP: Record<string, number> = {
   world_cup: 60,
   world_cup_qualifier: 50,
@@ -77,6 +103,8 @@ export type MatchRowWithGoalsAndElo = MatchRowWithGoals & {
   away_team_elo: number;
   diff_elo: number;
 }
+
+
 
 export type RawMatchRowFinal = RawMatchRow & {
 
@@ -116,4 +144,63 @@ export type RawMatchRowRename = {
   result: string;
 };
 
+export const ResultValues = {
+  teamA_win: 0,
+  draw: 1,
+  teamB_win: 2,
+} as const;
 
+export type Result = typeof ResultValues[keyof typeof ResultValues];
+
+export const MATCH_TYPE_ENCODING: Record<MatchType, number[]> = Object.fromEntries(
+  MATCH_TYPE_VALUES.map((matchType, matchTypeIndex) => [
+    matchType,
+    MATCH_TYPE_VALUES.map((_, index) => index === matchTypeIndex ? 1 : 0),
+  ])
+) as Record<MatchType, number[]>;
+
+
+
+export type ProcessedMatchRow = {
+  date: Date;
+  teamA: string;
+  teamB: string;
+  match_type: MatchType;
+  is_home: number;
+  is_neutral: number;
+  teamA_form_last5: number;
+  teamB_form_last5: number;
+  teamA_avg_goals_scored: number;
+  teamA_avg_goals_conceded: number;
+  teamB_avg_goals_scored: number;
+  teamB_avg_goals_conceded: number;
+  teamA_elo: number;
+  teamB_elo: number;
+  diff_elo: number;
+  diff_form_last5: number;
+  diff_avg_goals_scored: number;
+  diff_avg_goals_conceded: number;
+  result: string;
+};
+
+export type EncodedMatchRow = {
+  date: Date,
+  teamA: string,
+  teamB: string,
+  match_type: number[],
+  is_home: number,
+  is_neutral: number,
+  teamA_form_last5: number,
+  teamB_form_last5: number;
+  teamA_avg_goals_scored: number,
+  teamA_avg_goals_conceded: number,
+  teamB_avg_goals_scored: number,
+  teamB_avg_goals_conceded: number,
+  teamA_elo: number,
+  teamB_elo: number,
+  diff_elo: number,
+  diff_form_last5: number,
+  diff_avg_goals_scored: number,
+  diff_avg_goals_conceded: number,
+  result: Result,
+} 

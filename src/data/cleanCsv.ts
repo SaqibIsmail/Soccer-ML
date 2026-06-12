@@ -344,7 +344,13 @@ const calculateDifferences = (teamHistory: Map<string, GameOutcomeInfo[]>, match
   return rowsWithGoals;
 }
 
-const formScore = (outcome: string): number => {
+const formFeatureScore = (outcome: string): number => {
+  if (outcome === "win") return 3;
+  if (outcome === "draw") return 1;
+  return 0;
+};
+
+const eloResultScore = (outcome: string): number => {
   if (outcome === "win") return 1;
   if (outcome === "draw") return 0.5;
   return 0;
@@ -365,13 +371,13 @@ const computePerformanceForRow = (row: MatchRow, homeTeamPerformanceSlice: GameO
   homeTeamPerformanceSlice.forEach((history) => {
     totalGoalsScoredHome += history.goalFor;
     totalGoalsConceededHome += history.goalAgainst;
-    totalFormHome += formScore(history.outcome);
+    totalFormHome += formFeatureScore(history.outcome);
   })
 
   awayTeamPerformanceSlice.forEach((history) => {
     totalGoalsScoredAway += history.goalFor;
     totalGoalsConceededAway += history.goalAgainst;
-    totalFormAway += formScore(history.outcome);
+    totalFormAway += formFeatureScore(history.outcome);
   })
 
   const avgGoalsScoredHome = totalGoalsScoredHome / 5;
@@ -423,8 +429,8 @@ const calculateElo = (rowsWithGoals: MatchRowWithGoals[]) => {
       outcomeHome = outcomeAway = 'draw'
     }
 
-    const actualResultHome = formScore(outcomeHome);
-    const actualResultAway = formScore(outcomeAway);
+    const actualResultHome = eloResultScore(outcomeHome);
+    const actualResultAway = eloResultScore(outcomeAway);
 
     if (kValue) {
       const newEloHome = oldEloHome + kValue * (actualResultHome - expectedResultHome);
@@ -435,9 +441,9 @@ const calculateElo = (rowsWithGoals: MatchRowWithGoals[]) => {
 
       const newRow: MatchRowWithGoalsAndElo = {
         ...row,
-        home_team_elo: newEloHome,
-        away_team_elo: newEloAway,
-        diff_elo: newEloHome - newEloAway,
+        home_team_elo: oldEloHome,
+        away_team_elo: oldEloAway,
+        diff_elo: oldEloHome - oldEloAway,
       };
 
       rowWithGoalsAndElo.push(newRow);
